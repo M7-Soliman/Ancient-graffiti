@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T27.2.: Record of healing</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >T27.2.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t27-2</idno>
+                        <msName>Smyrna Agora Basilica T27.2.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 27 [= G34, between Piers A38 and A39]. Immediately to the right of T27.1, at 38 cm from the left side of the bay and 1.85 m above the ground level.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> At the right end of line 1 it is impossible to distinguish the letter strokes from the rigging of the ship drawing immediately below (D27.1). Below T27.1 can be seen five lines of very faint writing and uncertain extent. These have not been transcribed.
+                                            <dimensions>
+                                        <height unit="centimeter"></height>
+                                        <width unit="centimeter"></width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Stylish letters, detached but cursive in style: <height unit="centimeter" min="4" max="6" scope="letter">4-6</height> cm high</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+<lb n="1"/><persName type="attested"><name nymRef="nametable.xml#Ὑγεῖνος" type="cognomen">Ἡγεῖνος</name></persName> <w lemma="λέγω">εἶ<unclear>π</unclear><supplied reason="lost">εν</supplied></w>
+<lb n="2"/><w lemma="ὁ"><unclear>τ</unclear>ὸ<unclear>ν</unclear></w> <w lemma="ὀφθαλμός">ὀφθαλμ<supplied reason="lost">ὸν</supplied></w>
+<lb n="3"/><w lemma="ἐν">ἐν</w> <w lemma="τάχος">τάχει</w> <w lemma="θεραπεύω">ἐθαραπε<unclear>ύ</unclear><supplied reason="lost">θην</supplied></w>
+
+
+                </ab>
+            </div>
+            <div type="apparatus">
+                <ab>1. Read <persName type="attested"><name nymRef="nametable.xml#Ὑγεῖνος" type="cognomen">Ὑγῖνος</name></persName>. The name is well represented in Ionia and Caria, see LGPN 5A.440, 5B.418, with an example in the former from Smyrna.<lb/>
+                    3. The mention of the swiftness of the cure is intended to point to the power of the divinity who effected the cure. Chaniotis, A. 2009a. “Ritual Performances of Divine Justice: The Epigraphy of Confession, Atonement, and Exaltation in Roman Asia Minor.” In H. M. Cotton, R. G. Hoyland, J. J. Price, and D. J. Wasserstein, eds., From Hellenism to Islam: Cultural and Linguistic Change in the Roman Near East: 115–53. Cambridge. discusses this phenomenon, citing examples. We quote from his email of 29 January 2015: “In an epitaph, Lord the Almighty is asked to punish a murderer fast (SEG 50 (2000), 1233 (Neoklaudiopolis, AD 237): Κύριε Παντοκράτωρ· σὺ μὲ ἔκτισες, κακὸς δέ με ἄνθρωπος ἀπώλεσεν· ἐγδίκησόν με ἐν τάχι). The god is invited in a subtle way to prove his endless power not only by punishing the murderer, but also by inflicting the punishment fast (ἐν τάχι). This is a strategy known from magical texts. In order to provoke the anger of the gods and demons, the magician often urges them to act fast (ἤδη ἤδη, ταχύ ταχύ). And in a confession inscription (Petzl, Beichtinschriften no. 69), the power of the god is shown by the fact that he punishes Tatias and her son within a day (μονημέρῳ κολάσει ἀπηλλάγη).”
+                </ab>
+            </div> 
+            <div type="translation">
+                <ab>“Hyginos said, ‘My eye was quickly healed’.”</ab>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 265-266.</p>
+                <p>Bagnall, R., Everyday Writing in the Graeco-Roman East (2011): 19 and 21, fig. 9.</p>
+                <p>SEG 61.968.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

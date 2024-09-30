@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>DP75.1.: Ship</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >DP75.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-dp75-1</idno>
+                        <msName>Smyrna Agora Basilica DP75.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>On the west face of Pier A75.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Graffito/incised</rs> Dimensions:
+                                            <dimensions>
+                                        <height unit="centimeter">24</height>
+                                        <width unit="centimeter">39</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                         <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en">Ship</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab/>
+            </div>
+            <div type="apparatus"> 
+                <p /> 
+            </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary">
+                <ab>Graffito of a ship sailing on starboard tack, incised on the western face of Pier A75. A large gap in the plaster has completely obliterated the upper half of the graffito, where the ship’s mast, sail, and rigging must have been, while concretions to the left partially cover the prow. The ship is characterized by a slightly rockered keel. The prow is significantly higher than the stern and terminates with a cheniscus (ἀκροστόλιον) turning inward. The stern terminates in a pointed aplustre along with a long pole that holds a taenia and possibly also a quadrangular flag. The rudders (πηδάλια) are very long and wide, with a central line defining the blades. Over the deck is a quarterdeck rendered as a rectangular feature decorated with diagonal and parallel lines. A radial net of ropes (κάλοι) connects the mast, now indiscernible, to the ship’s sides and extremities. No oars are visible.</ab>
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 378.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

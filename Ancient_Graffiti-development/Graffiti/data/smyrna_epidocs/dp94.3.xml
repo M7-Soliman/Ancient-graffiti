@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>DP94.3.: Decorative-Ivy leaf</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >DP94.3.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-dp94-3</idno>
+                        <msName>Smyrna Agora Basilica DP94.3.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>On the west face of Pier A94.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Dimensions:
+                                            <dimensions>
+                                        <height unit="centimeter">9.5</height>
+                                        <width unit="centimeter">7</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                         <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en">Decorative-Ivy leaf</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab/>
+            </div>
+            <div type="apparatus"> 
+                <p /> 
+            </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary">
+                <ab>Very faint dipinto of an ivy leaf, located on the western face of Pier A94. The leaf points downward and is heart-shaped, with the left half visibly larger than the right. The petiole is a rather long line that curves upward to the left.</ab>
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 415.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

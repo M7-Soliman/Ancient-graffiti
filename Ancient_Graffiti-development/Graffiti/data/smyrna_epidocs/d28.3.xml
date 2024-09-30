@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>D28.3.: Scene-Gladiatorial Combat</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >D28.3.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-d28-3</idno>
+                        <msName>Smyrna Agora Basilica D28.3.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>In the upper left quadrant of Bay 28.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Dimensions:
+                                    <dimensions>
+                                        <height unit="centimeter">22</height>
+                                        <width unit="centimeter">28</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en">Scene-Gladiatorial Combat</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab/>
+            </div>
+            
+            <div type="apparatus"> 
+                <p /> 
+            </div> 
+            <div type="translation">
+                
+                <ab/>
+            </div>
+            <div type="commentary">
+                <ab>The dipinto, in fine and detailed black streaks, is located in the upper left quadrant of the back wall of Bay 25, partially covered by dipinto D28.2. It depicts a scene of fighting between two gladiators. The anatomical details are rendered with care for proportions; thus, the overall composition was certainly drawn by an expert hand. The gladiator to the right is almost completely preserved, whereas of the one to the left only a stretched leg is visible and the shield to its left. The rest of the figure is almost completely effaced. The armor of the gladiator to the right suggests that the scene depicted a fight between two provocatores. The iconography is consistent with other imperial representations of the type. The visored helmet has no crest or brim and comes down over the neck, shoulders, and the back with a very long and rounded neck-guard. The man, his right leg advanced as he thrusts forward, wears the subligaculum and the balteus. The half-length greave on his left leg is also drawn in detail. The curved rectangular shield, decorated with a typical circular protruding boss, covers most of his body. Tied at his waist, to the back, is a short sword with a straight blade. The pose in the leg of the second gladiator indicates that the artist captured the duel at its clima <lb/>Close comparisons to the right gladiator’s outfit and pose occur in two depictions on gladiators’ gravestones, one from Kos and dated to the third century CE (see Pfuhl and Möbius 1977: vol. 2, no. 1202, p. 296), and the second one from Smyrna and generically dated to the “late empire” (i.e., third century CE), ibid. no. 1199, p. 295. Both had been previously published by Robert 1940: no. 187, pp. 189–90, and no. 254, p. 214. See also a graffito from Ephesos, dated to the Late Antique period, from a domestic context (Langner 2001: no. 788).</ab>
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 278-279.</p>
+                <p>Langner, M. 2001. Antike Graffitizeichnungen. Motive, Gestaltung, und Bedeutung. Palilia, 11.
+                    Wiesbaden: no. 788.</p>
+                <p>Pfuhl, E. and H. Möbius. 1977. Die ostgriechischen Grabreliefs. Mainz am Rhein: vol. 2, no. 1202, p. 296).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

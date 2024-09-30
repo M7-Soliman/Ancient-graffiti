@@ -1,0 +1,42 @@
+<!-- leaflet resources -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+
+ <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+
+<link rel="stylesheet"
+	href="<%=request.getContextPath()%>/resources/js/leaflet-compass-master/dist/leaflet-compass.min.css">
+<script
+	src="<%=request.getContextPath()%>/resources/js/leaflet-compass-master/dist/leaflet-compass.min.js"></script>
+
+<script type="text/javascript"
+	src="<%=request.getContextPath()%>/resources/js/pompeiiPropertyData.js"></script>
+<script type="text/javascript"
+	src="<%=request.getContextPath()%>/resources/js/pompeiiWallsData.js"></script>
+<script type="text/javascript"
+	src="<%=request.getContextPath()%>/resources/js/pompeiiOutlineData.js"></script>
+<script type="text/javascript"
+	src="<%=request.getContextPath()%>/resources/js/pompeiiStreetsData.js"></script>
+<script type="text/javascript"
+	src="<%=request.getContextPath()%>/resources/js/pompeiiFacadeData.js"></script>
+<script type="text/javascript"
+	src="<%=request.getContextPath()%>/resources/js/pompeiiUnexcavatedData.js"></script>
+<script type="text/javascript"
+	src="<%=request.getContextPath()%>/resources/js/pompeiiInsulaData.js"></script>
+<script type="text/javascript"
+	src="<%=request.getContextPath()%>/resources/js/pompeiiSectionData.js"></script>
+<script type="text/javascript"
+	src="<%=request.getContextPath()%>/resources/js/herculaneumInsulaData.js"></script>
+<script type="text/javascript"
+	src="<%=request.getContextPath()%>/resources/js/herculaneumSectionData.js"></script>
+<script type="text/javascript"
+	src="<%=request.getContextPath()%>/resources/js/herculaneumStreetData.js"></script>
+<script type="text/javascript"
+	src="<%=request.getContextPath()%>/resources/js/herculaneumPropertyData.js"></script>
+<script type="text/javascript"
+	src="<%=request.getContextPath()%>/resources/js/forumOutlineData.js"></script>
+<script type="text/javascript"
+	src="<%=request.getContextPath()%>/resources/js/columnData.js"></script>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T21.1.: Good wishes</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >T21.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t21-1</idno>
+                        <msName>Smyrna Agora Basilica T21.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 21 [= G28, between Piers A32 and A33].</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Graffito/incised</rs> The first graffito is in a tabula ansata, 28 cm wide × 16 cm high. Below the first graffito, there is the second graffito in a partly-preserved tabula ansata ca. 21 × 12 cm. The third graffito is incised below the second in a space 19 cm wide. First tabula ansata:
+                                    <dimensions>
+                                        <height unit="centimeter">28</height>
+                                        <width unit="centimeter">16</width>
+                                    </dimensions>
+                                    Second tabula ansata:
+                                    <dimensions>
+                                        <height unit="centimeter">21</height>
+                                        <width unit="centimeter">12</width>
+                                    </dimensions>
+                                   Area of third graffito:
+                                    <dimensions>
+                                        <width unit="centimeter">19</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>The first graffito has large block capitals letters<height unit="centimeter" scope="letter">8</height> cm high. The second and the third are in <height unit="centimeter" scope="letter">2</height> and <height unit="centimeter" min="3.5" max="7" scope="letter">3.5-7</height> cm high letters respectively.</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+            <div type="textpart" subtype="section" n="Inside the tabula" >
+                <ab> 
+                    <lb n="1"/><w lemma="ζάω">ζῇς</w>
+                </ab>
+            </div>
+            <div type="textpart" subtype="section" n="Below the tabula" >
+                <ab>
+                    <lb n="1"/><w lemma="ζάω">ζῇς</w>
+                </ab>
+            </div>
+            <div type="textpart" subtype="section" n="Below the tabula" >
+                <ab>
+                    <lb n="1"/><w lemma="ψύχω">ἔψυγμαι</w>
+                </ab>
+            </div>
+            </div>
+            <div type="apparatus">
+                <ab>This comes from ψύχω. Cf. T15.2 and T29.5. “I have been chilled!” Is the reference to the cooling shade of the basement level? The case of T29.5, however, where it is written on a testicle, suggests that a sexual meaning (or double-entendre?) may be intended, whether that refers to the cooling of emotion or more specifically to the loss of an erection. There appears to be one stroke after the word, whether connected with it cannot be determined.</ab>
+            </div> 
+            <div type="translation">
+            <div type="translation" subtype="section" n="Inside the tabula ansata">
+                <ab>“May you live!”</ab>
+            </div>
+            <div type="translation" subtype="section" n="Inside a partly-preserved ansata">
+                <ab>“May you live!”</ab>
+            </div>
+            <div type="translation" subtype="section" n="Below the second graffito">
+                <ab>“I have been chilled!”</ab>
+            </div>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 221-223.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

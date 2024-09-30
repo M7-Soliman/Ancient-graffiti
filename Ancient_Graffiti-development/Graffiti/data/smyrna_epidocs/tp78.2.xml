@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TP78.2.: Memorial and Greetings</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >TP78.2.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-tp78-2</idno>
+                        <msName>Smyrna Agora Basilica TP78.2.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Pier A78. On the east face. 121 cm from floor</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Graffito/incised</rs> Incised. Area:
+                                            <dimensions>
+                                        <height unit="centimeter">10</height>
+                                        <width unit="centimeter">18</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Letter heights: <height unit="centimeter" min="0.9" max="1.5"
+                                    scope="letter">0.9-1.5</height> cm high</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/><w lemma="μιμνήσκω">ἐμήσθη</w> Χ<unclear>α</unclear><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><w lemma="ὁ">τῆς</w> <w lemma="καλός">καλῆ<unclear>ς</unclear></w> <w lemma="κυρία"><unclear>κυ</unclear>λίας</w>
+                    <lb n="3"/><w lemma="εὐτυχέω">εὐτύχει</w> <persName type="attested"><name nymRef="nametable.xml#Χαρίτων" type="cognomen">Χαρίτω<unclear>ν</unclear></name></persName>
+                    <lb n="4"/><w lemma="">με<unclear>τ</unclear>ὰ</w> <persName type="attested"><name nymRef="nametable.xml#Ὑγεῖνος" type="cognomen">Ὑιείνου</name></persName>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <ab>1. Read <w lemma="μιμνήσκω">ἐμνήσθη</w>; we owe the reading to Angelos Chaniotis. It is most often construed with active meaning, taking a genitive object. What follows is presumably the beginning of the woman’s name; Χάρις or one of its derivatives, one supposes. This makes it attractive to take line 2 together with it. But there is then no stated subject: “He remembered (e.g.) Charis the beautiful lady.” The verb can also have passive meaning but should then have a nominative subject. Possibly the writer conflated the two constructions, but he may simply have omitted his own name.<lb/>
+                    2. Read <w lemma="κυρία">κυρίας</w>; cf. T20.3.<lb/>
+                    3–4. “Fare well, Chariton, with Hyginos.” The first iota in Ὑιείνου appears to have been corrected, so that it at present resembles a phi with faint central circle. It would be more attractive to take it as intended for gamma, but there is no sign of the needed horizontal stroke. Whatever the spelling, we take this as a phonetic spelling of <persName type="attested"><name nymRef="nametable.xml#Ὑγεῖνος" type="cognomen">Ὑγίνου</name></persName>.</ab>
+            </div> 
+            <div type="translation">
+                <ab> “He remembered (e.g.) Charis the beautiful lady. Fare well, Chariton, with Hyginos.”</ab>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 385-386.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

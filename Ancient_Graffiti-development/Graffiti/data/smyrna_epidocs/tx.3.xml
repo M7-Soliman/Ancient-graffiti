@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TX.3.: Riddle?</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >TX.3.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-tx-3</idno>
+                        <msName>Smyrna Agora Basilica TX.3.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>The third vault from the west, front [= south?] side of the vault, ca. 6 cm above floor level.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Graffito/incised</rs> To judge from the drawing, apparently in a tabula. Dimensions:
+                                    <dimensions>
+                                        <height unit="centimeter">35</height>
+                                        <width unit="centimeter">30</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Letters ca.<height unit="centimeter" scope="letter">3</height> cm high</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/>Ζ<gap reason="lost" quantity="1" unit="character"/>Τ<gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ΟΑΝΑ
+                    <lb n="2"/>Π<gap reason="illegible" quantity="2" unit="character"/>ΣΑΜΕΝΟΣ
+                    <lb n="3"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><w lemma="ζήτημα">ζήτημα</w>
+                    <lb n="4"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ΓΕΤΡ<gap reason="illegible" quantity="1" unit="character"/>ΦΟΡ<gap reason="illegible" quantity="1" unit="character"/>
+                    <lb n="5"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>Ω<gap reason="illegible" quantity="3" unit="character"/>Τ<gap reason="illegible" quantity="2" unit="character"/>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>1. It is hard not to suppose that originally the line began with <w lemma="ζήτημα">ζήτημα</w>, as in line 3 and in T0.4, T8.2, and T28.1. Following that, one might think of <w lemma="ἀναγινώσκω">ἀναγινώσκων</w>, but that would require more loss at right than the drawing allows us to see. If there is no loss, on the other hand, it is attractive to read, as Angelos Chaniotis suggests, ὁ <w lemma="ἀναπαύομαι">ἀνα|πα̣υ̣σάμενος</w>, although the traces of the bottoms of the needed alpha and upsilon do not look like those letters in Miltner’s drawing. We cannot say what its significance might be here.<lb/>
+               2. Perhaps an aorist middle participle.<lb/>
+               4. Perhaps a form of the perfect of <w lemma="γράφω">γράφω</w>?</p>
+            </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 59-60.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

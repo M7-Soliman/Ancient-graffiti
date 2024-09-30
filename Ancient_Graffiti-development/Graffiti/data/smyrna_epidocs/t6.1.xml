@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T6.1.: Scurrilous Allegation</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >T6.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t6-1</idno>
+                        <msName>Smyrna Agora Basilica T6.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 6 (equals G12, between Piers A16 and A17). In the left center part of the wall.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Three lines. Dimentions: 
+                                    <dimensions>
+                                        <width unit="centimeter">48</width>
+                                        <height unit="centimeter">19</height>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Detached majuscule letters <height unit="centimeter" scope="letter">4.5</height> cm high, rather effaced.
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/><persName type="attested"><name nymRef="nametable.xml#Λεόντιος nametable.xml#Λεοντίσκος" type="cognomen">Λειοντισ<supplied reason="lost"> </supplied></name></persName> <w lemma="εὑρίσκω"><supplied reason="lost"> εὑ</supplied>
+                    <lb n="2"  break="no"/>ρὼν</w> <w lemma="μοιχός">μοιχο<gap reason="lost" extent="unknown" unit="character"/></w>
+                    <lb n="3"/><w lemma="κατακτείνω">κατέκτανε</w> <gap reason="lost" extent="unknown" unit="character"/>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <ab>The last preserved letter is definitely sigma rather than omicron. The participle shows that the name is not the feminine <persName type="attested"><name nymRef="nametable.xml#Λεοντίς" type="cognomen">Λεοντίς</name></persName>, but either <persName type="attested"><name nymRef="nametable.xml#Λεόντις nametable.xml#Λεόντιος" type="cognomen">Λεόντι(ο)ς </name></persName> or <persName type="attested"><name nymRef="nametable.xml#Λεοντίσκος" type="cognomen">Λεοντίσκος</name></persName> can be intended. Both names are moderately common in Ionia and elsewhere in Asia Minor (see LGPN 5A 265, 5B 256), but only the second is known so far at Smyrna.<lb/>
+                    2. As the length of the lacuna is not determinable, it is not obvious whether we should restore only a nu or imagine something more. At a minimalist restoration, <persName><name nymRef="nametable.xml#Λεοντίσκος" type="cognomen">Λεοντίσ<supplied reason="lost">κος</supplied></name></persName> <w lemma="εὑρίσκω"><supplied reason="lost"> εὑ</supplied>|ρὼν</w>  <w lemma="μοιχός">μοιχὸ<supplied reason="lost">ν</supplied></w>| <w lemma="κατακτείνω" >κατέκτανε</w> <supplied reason="lost"><w lemma="αὐτός"> αὐτόν?</w></supplied>. But an adverb could easily be added in line 2.</ab>
+            </div> 
+            <div type="translation">
+                <ab>Leontis[kos?], finding an adulterer, killed [him].</ab>
+            </div>
+            <div type="commentary"> 
+                <p >Below T6.1 but above and partly to the right of the ship is a graffito in multiple hands, in bad condition. It is not possible to tell whether there are multiple graffiti over one another or a dialogical graffiti conversation, and it is at times difficult to distinguish ship’s rigging from letter strokes.</p> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 100.</p>
+                <p>Bagnall, R., Everyday Writing in the Graeco-Roman East (2011): 16.</p>
+                <p>SEG 61.959.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

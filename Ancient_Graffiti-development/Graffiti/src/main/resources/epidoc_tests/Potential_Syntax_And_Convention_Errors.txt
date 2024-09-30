@@ -1,0 +1,1632 @@
+File: Potential_Syntax_And_Convention_Errors.txt
+Date: 6/10/2019
+
+
+Potential Syntax And Convention Errors:
+----------------------------------------------------------------------
+Count: 1
+ID: EDR166750
+Errors: 
+1.)  <:in forma tabellae ansatae>
+Content:
+〈:in forma tabellae ansatae〉
+Antonius
+
+Epidocified Content:
+<lb n='1'/>&#60;:in forma tabellae ansatae&#62;
+<lb n='2'/>Antonius
+
+
+Count: 2
+ID: SMYT00012
+Errors: 
+1.)  (:Σ̣μυρναία)++
+Content:
+Π̣αρθέναΖ̣μυρνιαία (:Σ̣μυρναία)++
+
+Epidocified Content:
+<lb n='1'/><choice><reg><unclear>Σ</unclear>μυρναία</reg><orig><unclear>Π</unclear>αρθένα<unclear>Ζ</unclear>μυρνιαία</orig></choice><gap reason='illegible' quantity='2' unit='character'/>
+
+
+Count: 3
+ID: SMYT00291
+Errors: 
+1.)  -
+Content:
+[φι]λ̣ῶ φιλοῦσα μὴ φι- =
+λοῦσαν. ἐκράφη σου
+δακτυλε̣ι̣ς̣. 
+<:vacat>τί πόλεμον
+<:vacat>εἴπεις; τοῦ δὲ σοῦ
+<:vacat>διώλεσεν̣; 
+
+Epidocified Content:
+<lb n='1'/><supplied reason='lost'>φι</supplied><unclear>λ</unclear>ῶ φιλοῦσα μὴ φι-<lb n="2" break="no"/>λοῦσαν. ἐκράφη σου
+<lb n='3'/>δακτυλ<unclear>εις</unclear>. 
+<lb n='4'/><space/>τί πόλεμον
+<lb n='5'/><space/>εἴπεις; τοῦ δὲ σοῦ
+<lb n='6'/><space/>διώλεσε<unclear>ν</unclear>;
+
+
+Count: 4
+ID: EDR128290
+Errors: 
+1.)  <:textus non intellegitur>
+Content:
+〈:textus non intellegitur〉
+
+Epidocified Content:
+<lb n='1'/>&#60;:textus non intellegitur&#62;
+
+
+Count: 5
+ID: SMYT00102
+Errors: 
+1.)  <sup>, </sup>
+2.)  (δηνάρια)Δ
+Content:
++++ (δηνάρια)Δ 
+γρ+++
+αν+++
+γρα++ α<sup>γ</sup>+
+π̣αρατ̣++(δηνάρια) Γ 
+
+Epidocified Content:
+<lb n='1'/><gap reason='illegible' quantity='3' unit='character'/> <expan><abbr></abbr><ex>δηνάρια</ex></expan>Δ 
+<lb n='2'/>γρ<gap reason='illegible' quantity='3' unit='character'/>
+<lb n='3'/>αν<gap reason='illegible' quantity='3' unit='character'/>
+<lb n='4'/>γρα<gap reason='illegible' quantity='2' unit='character'/> α&#60;sup&#62;γ&#60;/sup&#62;<gap reason='illegible' quantity='1' unit='character'/>
+<lb n='5'/><unclear>π</unclear>αρα<unclear>τ</unclear><gap reason='illegible' quantity='2' unit='character'/><expan><abbr></abbr><ex>δηνάρια</ex></expan> Γ
+
+
+Count: 6
+ID: EDR149403
+Errors: 
+1.)  ?, ?
+2.)  Poppa(e)i
+Content:
+IL Poppa(e)i (?) ẹineri (?)
+
+Epidocified Content:
+<lb n='1'/>IL <expan><abbr>Poppa</abbr><ex>e</ex></expan>i <supplied reason='subaudible'>?</supplied> <unclear>e</unclear>ineri <supplied reason='subaudible'>?</supplied>
+
+
+Count: 7
+ID: EDR149187
+Errors: 
+1.)  <:trans hanc>
+Content:
+Antonius
+〈:trans hanc〉
+M M M S
+
+
+Epidocified Content:
+<lb n='1'/>Antonius
+<lb n='2'/>&#60;:trans hanc&#62;
+<lb n='3'/>M M M S
+
+
+Count: 8
+ID: SMYT00203
+Errors: 
+1.)  <sup>, </sup>
+Content:
+[---]ης
+[---] τῆς κ̣α̣λῆς κυρί=
+[ας] [---] ++++ καλῶν χρωτῶ<sup>ν</sup>
+[---] ++++++++++ ΕΩΝ ΚΕ++
+[---]+++++ς τῶν Κ+TΩΝΚΑ̣++
+[---]++++++ τῆς καλῆς κυλεία̣ς̣ (:κυρίας)
+[---] +++++++++++++++++ ΚΟΤΩΝΤΟ+
+〚<:textus non legitur>〛
+[---]οτο ++++++++++++++ ΕΝ ΜΕΣΩ++
+[---]++[------]++++OΔΕ μία ὥρα ἐστί
+[---]ο++[--]+ΑΝΑΝ̣++++
+
+Epidocified Content:
+<lb n='1'/><gap reason='lost' extent='unknown' unit='character'/>ης
+<lb n='2'/><gap reason='lost' extent='unknown' unit='character'/> τῆς <unclear>κα</unclear>λῆς κυρί<lb n="3" break="no"/><supplied reason='lost'>ας</supplied> <gap reason='lost' extent='unknown' unit='character'/> <gap reason='illegible' quantity='4' unit='character'/> καλῶν χρωτῶ&#60;sup&#62;ν&#60;/sup&#62;
+<lb n='4'/><gap reason='lost' extent='unknown' unit='character'/> <gap reason='illegible' quantity='10' unit='character'/> ΕΩΝ ΚΕ<gap reason='illegible' quantity='2' unit='character'/>
+<lb n='5'/><gap reason='lost' extent='unknown' unit='character'/><gap reason='illegible' quantity='5' unit='character'/>ς τῶν Κ<gap reason='illegible' quantity='1' unit='character'/>TΩΝΚ<unclear>Α</unclear><gap reason='illegible' quantity='2' unit='character'/>
+<lb n='6'/><gap reason='lost' extent='unknown' unit='character'/><gap reason='illegible' quantity='6' unit='character'/> τῆς καλῆς <choice><reg>κυρίας</reg><orig>κυλεί<unclear>ας</unclear></orig></choice>
+<lb n='7'/><gap reason='lost' extent='unknown' unit='character'/> <gap reason='illegible' quantity='17' unit='character'/> ΚΟΤΩΝΤΟ<gap reason='illegible' quantity='1' unit='character'/>
+<lb n='8'/>〚<gap reason='illegible' extent='unknown' unit='character'/>〛
+<lb n='9'/><gap reason='lost' extent='unknown' unit='character'/>οτο <gap reason='illegible' quantity='14' unit='character'/> ΕΝ ΜΕΣΩ<gap reason='illegible' quantity='2' unit='character'/><lb n='10'/><gap reason='lost' extent='unknown' unit='character'/><gap reason='illegible' quantity='2' unit='character'/><gap reason='lost' extent='1' unit='line'/><gap reason='illegible' quantity='4' unit='character'/>OΔΕ μία ὥρα ἐστί<lb n='11'/><gap reason='lost' extent='unknown' unit='character'/>ο<gap reason='illegible' quantity='2' unit='character'/><gap reason='lost' quantity='2' unit='character'/><gap reason='illegible' quantity='1' unit='character'/>ΑΝΑ<unclear>Ν</unclear><gap reason='illegible' quantity='4' unit='character'/>
+
+
+Count: 9
+ID: SMYT00271
+Errors: 
+1.)  -
+Content:
+ὀφθαλ- =
+μοὺς [ὑ]=
+πὸ θεῶ̣[ν]
+εὐχαρι =
+στῶ τῇ
+[Βαίτῃ]
+
+Epidocified Content:
+<lb n='1'/>ὀφθαλ-<lb n="2" break="no"/>μοὺς <supplied reason='lost'>ὑ</supplied><lb n="3" break="no"/>πὸ θε<unclear>ῶ</unclear><supplied reason='lost'>ν</supplied>
+<lb n='4'/>εὐχαρι<lb n="5" break="no"/>στῶ τῇ
+<lb n='6'/><supplied reason='lost'>Βαίτῃ</supplied>
+
+
+Count: 10
+ID: SMYT00281
+Errors: 
+1.)  <Ἰσ>
+Content:
+ζήτημα
+Εἴσιδι αδι 
+αδι διασω =
+θείς αδι α =
+δ[ι’] <Ἰσ>ίδωρ̣ος̣
+<:textus non legitur> ΕΝ 
+
+Epidocified Content:
+<lb n='1'/>ζήτημα
+<lb n='2'/>Εἴσιδι αδι 
+<lb n='3'/>αδι διασω<lb n="4" break="no"/>θείς αδι α<lb n="5" break="no"/>δ<supplied reason='lost'>ι’</supplied> &#60;Ἰσ&#62;ίδω<unclear>ρ</unclear>ο<unclear>ς</unclear>
+<lb n='6'/><gap reason='illegible' extent='unknown' unit='character'/> ΕΝ
+
+
+Count: 11
+ID: SMYT00521
+Errors: 
+1.)  <sup>, </sup>
+2.)  {ι} ὢν	-Potential Solution: Consider changing '{ι} ὢν' to 'ιὢν (:ὢν)' to meet our standard conventions
+Content:
+φίλ’ ἐλάθε{ι} ὢν [ν]όθ{η}<sup>ο</sup>ς
+
+Epidocified Content:
+<lb n='1'/>φίλ’ ἐλάθε<surplus>ι</surplus> ὢν <supplied reason='lost'>ν</supplied>όθ<surplus>η</surplus>&#60;sup&#62;ο&#60;/sup&#62;ς
+
+
+Count: 12
+ID: SMYTP0963
+Errors: 
+1.)  -
+Content:
+εἰ γνώμο- =
+νος τόπος
+
+Epidocified Content:
+<lb n='1'/>εἰ γνώμο-<lb n="2" break="no"/>νος τόπος
+
+
+Count: 13
+ID: SMYTP1051
+Errors: 
+1.)  -, -, (, )
+Content:
+[χ]αῖρε Τράλ- =
+[λε]ις πρώτ- =
+η̣ Ἀνατολῆς (or ἀνατολῆς)
+Π.ΡΕΙΣ 
+ΗΧΑ.Η 
+
+Epidocified Content:
+<lb n='1'/><supplied reason='lost'>χ</supplied>αῖρε Τράλ-<lb n="2" break="no"/><supplied reason='lost'>λε</supplied>ις πρώτ-<lb n="3" break="no"/><unclear>η</unclear> Ἀνατολῆς (or ἀνατολῆς)
+<lb n='4'/>Π.ΡΕΙΣ 
+<lb n='5'/>ΗΧΑ.Η
+
+
+Count: 14
+ID: SMYTP1281
+Errors: 
+1.)  <sup>, </sup>
+Content:
+- - - - - -
++++[--]+[-]++++[---]
+ταθίου καὶ πρωτο +[---]
+ε̣ὐχόμεθα ε̣ὐτυχεῖ[ν]
+μετὰ ἡμῶν. εὐτύχ[ει]
+Σ̣αβεῖνε μετὰ Εὐστα =
+〚ΥΤΩ〛θίου. <:vacat>
+εὐθόμεθα (:εὐχόμεθα) σὲ εὐτυχεῖ[ν]
+μετὰ ὑμ̣ῶν (:ἡμῶν)
+πολλ<sup>ο</sup>ῖςἔτεσιν. 
+
+Epidocified Content:
+<lb n='1'/><gap reason='lost' extent='unknown' unit='line'/>
+<lb n='2'/><gap reason='illegible' quantity='3' unit='character'/><gap reason='lost' quantity='2' unit='character'/><gap reason='illegible' quantity='1' unit='character'/><gap reason='lost' quantity='1' unit='character'/><gap reason='illegible' quantity='4' unit='character'/><gap reason='lost' extent='unknown' unit='character'/>
+<lb n='3'/>ταθίου καὶ πρωτο <gap reason='illegible' quantity='1' unit='character'/><gap reason='lost' extent='unknown' unit='character'/>
+<lb n='4'/><unclear>ε</unclear>ὐχόμεθα <unclear>ε</unclear>ὐτυχεῖ<supplied reason='lost'>ν</supplied>
+<lb n='5'/>μετὰ ἡμῶν. εὐτύχ<supplied reason='lost'>ει</supplied>
+<lb n='6'/><unclear>Σ</unclear>αβεῖνε μετὰ Εὐστα<lb n="7" break="no"/><del rend='erasure'><supplied reason='lost'>ΥΤΩ</supplied></del>θίου. <space/>
+<lb n='8'/><choice><reg>εὐχόμεθα</reg><orig>εὐθόμεθα</orig></choice> σὲ εὐτυχεῖ<supplied reason='lost'>ν</supplied>
+<lb n='9'/>μετὰ <choice><reg>ἡμῶν</reg><orig>ὑ<unclear>μ</unclear>ῶν</orig></choice><lb n='10'/>πολλ&#60;sup&#62;ο&#60;/sup&#62;ῖςἔτεσιν.
+
+
+Count: 15
+ID: EDR127975
+Errors: 
+1.)  (, ?, )
+Content:
+VCQ(?)
+
+Epidocified Content:
+<lb n='1'/><orig>vcq</orig>(?)
+
+
+Count: 16
+ID: EDR127818
+Errors: 
+1.)  (, ?, )
+Content:
+Asella(?) va(le)
+
+
+
+Epidocified Content:
+<lb n='1'/>Asella(?) <expan><abbr>va</abbr><ex>le</ex></expan>
+
+
+Count: 17
+ID: EDR127420
+Errors: 
+1.)  (, ?, )
+Content:
+socius
+Veṛviciu(s)
+SAV(?)
+
+Epidocified Content:
+<lb n='1'/>socius
+<lb n='2'/><expan><abbr>Ve<unclear>r</unclear>viciu</abbr><ex>s</ex></expan>
+<lb n='3'/><orig>sav</orig>(?)
+
+
+Count: 18
+ID: EDR128556
+Errors: 
+1.)  (, ?, )
+Content:
+emis CC K(?)
+
+Epidocified Content:
+<lb n='1'/>emis CC K(?)
+
+
+Count: 19
+ID: EDR127819
+Errors: 
+1.)  (, ?, )
+Content:
+N̂T, MA(?)
+
+Epidocified Content:
+<lb n='1'/><orig><hi rend='ligature'>nt</hi>,</orig> <orig>ma</orig>(?)
+
+
+Count: 20
+ID: EDR128774
+Errors: 
+1.)  <:scriptum deorsum>
+Content:
+〈:scriptum deorsum〉
+PI
+G
+G
+A
+C
+
+Epidocified Content:
+<lb n='1'/>&#60;:scriptum deorsum&#62;
+<lb n='2'/><orig>pi</orig>
+<lb n='3'/>G
+<lb n='4'/>G
+<lb n='5'/>A
+<lb n='6'/>C
+
+
+Count: 21
+ID: EDR128651
+Errors: 
+1.)  ?, ?
+Content:
+IV Non(as) Iul(ias) 
+paenulam, palliolum 
+[?posita ad Fau]stilla(m)
+Pr[o---] L usur[a] 
+[deduxit?] XIIIS (?) 
+[aeri]s a(sses) VIII
+
+Epidocified Content:
+<lb n='1'/>IV <expan><abbr>Non</abbr><ex>as</ex></expan> <expan><abbr>Iul</abbr><ex>ias</ex></expan> 
+<lb n='2'/>paenulam, palliolum 
+<lb n='3'/><supplied reason='lost'>?posita ad Fau</supplied><expan><abbr>stilla</abbr><ex>m</ex></expan>
+<lb n='4'/>Pr<supplied reason='lost'>o</supplied><gap reason='lost' extent='unknown' unit='character'/> L usur<supplied reason='lost'>a</supplied> 
+<lb n='5'/><supplied reason='lost' cert='low'>deduxit</supplied> <orig>xiiis</orig> <supplied reason='subaudible'>?</supplied> 
+<lb n='6'/><supplied reason='lost'>aeri</supplied>s <expan><abbr>a</abbr><ex>sses</ex></expan> VIII
+
+
+Count: 22
+ID: EDR168167
+Errors: 
+1.)  {&#703;}z	-Potential Solution: Consider changing '{&#703;}z' to '&#703;z (:z)' to meet our standard conventions
+Content:
+l ʾnʿm bn k{ʿ}z
+
+
+
+Epidocified Content:
+<lb n='1'/>l ʾnʿm bn k<surplus>ʿ</surplus>z
+
+
+Count: 23
+ID: SMYTG0031
+Errors: 
+1.)  -, -
+Content:
+Φοῦσ- =
+κος δ[ι]- 
+κάζων
+ΛΑΡΙΑ 
+
+Epidocified Content:
+<lb n='1'/>Φοῦσ-<lb n="2" break="no"/>κος δ<supplied reason='lost'>ι</supplied>- 
+<lb n='3'/>κάζων
+<lb n='4'/>ΛΑΡΙΑ
+
+
+Count: 24
+ID: SMYTP1003
+Errors: 
+1.)  (:Σμυρναίου)ἰσόψηφα
+Content:
+Ἀρτεμιδώρου
+Ζμυρναίου (:Σμυρναίου)ἰσόψηφα
+κύριος ω 
+πίστις ω 
+
+Epidocified Content:
+<lb n='1'/>Ἀρτεμιδώρου
+<lb n='2'/><choice><reg>Σμυρναίου</reg><orig>Ζμυρναίου</orig></choice>ἰσόψηφα
+<lb n='3'/>κύριος ω 
+<lb n='4'/>πίστις ω
+
+
+Count: 25
+ID: EDR127979
+Errors: 
+1.)  (, ?, ), (, ?, ), <:scripta ad perpendiculum>
+Content:
+iri           
+B      
+mille(?)
+Acan(thus)     
+f(e)li(citer)(?)
+〈:scripta ad perpendiculum〉
+
+Epidocified Content:
+<lb n='1'/>iri           
+<lb n='2'/>B      
+<lb n='3'/>mille(?)
+<lb n='4'/><expan><abbr>Acan</abbr><ex>thus</ex></expan>     
+<lb n='5'/><expan><abbr>f</abbr><ex>e</ex></expan><expan><abbr>li</abbr><ex>citer</ex></expan>(?)
+<lb n='6'/>&#60;:scripta ad perpendiculum&#62;
+
+
+Count: 26
+ID: SMYT00099
+Errors: 
+1.)  (, )
+Content:
+Ε+
+Ν+Α 
+Π (or Γ)
+ΠΕ̣
+Σ 
+
+Epidocified Content:
+<lb n='1'/>Ε<gap reason='illegible' quantity='1' unit='character'/>
+<lb n='2'/>Ν<gap reason='illegible' quantity='1' unit='character'/>Α 
+<lb n='3'/>Π (or Γ)
+<lb n='4'/>Π<unclear>Ε</unclear>
+<lb n='5'/>Σ
+
+
+Count: 27
+ID: SMYT00092
+Errors: 
+1.)  <sup>, </sup>
+Content:
+ὁ ἀναγεινώ<sup>σ</sup>=
+κων τὸν θεὸν
+σοι ὀρχῆσαι
+ΛΕ . Ν̣ΩΔΕΣ ὀρχη 
+
+Epidocified Content:
+<lb n='1'/>ὁ ἀναγεινώ&#60;sup&#62;σ&#60;/sup&#62;<lb n="2" break="no"/>κων τὸν θεὸν
+<lb n='3'/>σοι ὀρχῆσαι
+<lb n='4'/>ΛΕ . <unclear>Ν</unclear>ΩΔΕΣ ὀρχη
+
+
+Count: 28
+ID: SMYT00255
+Errors: 
+1.)  -
+Content:
+κοντροκυνή-=
+<:vacat>γις
+
+Epidocified Content:
+<lb n='1'/>κοντροκυνή-<lb n="2" break="no"/><space/>γις
+
+
+Count: 29
+ID: SMYT00273
+Errors: 
+1.)  <ἀ>
+Content:
+φιλῶ ἧς ὁ <ἀ>ριθμὸς
+Ατη
+
+Epidocified Content:
+<lb n='1'/>φιλῶ ἧς ὁ &#60;ἀ&#62;ριθμὸς
+<lb n='2'/>Ατη
+
+
+Count: 30
+ID: SMYTP1091
+Errors: 
+1.)  <sup>, </sup>
+Content:
+ὁ καὶ πυγίσετὸν ἀναγινό<sup>σ</sup>κοντα
+
+Epidocified Content:
+<lb n='1'/>ὁ καὶ πυγίσετὸν ἀναγινό&#60;sup&#62;σ&#60;/sup&#62;κοντα
+
+
+Count: 31
+ID: SMYT00241
+Errors: 
+1.)  -
+Content:
+τικτομ̣έ- =
+νη κατ̣ὰ
+ΠΑ+ΣΤ++
+
+Epidocified Content:
+<lb n='1'/>τικτο<unclear>μ</unclear>έ-<lb n="2" break="no"/>νη κα<unclear>τ</unclear>ὰ
+<lb n='3'/>ΠΑ<gap reason='illegible' quantity='1' unit='character'/>ΣΤ<gap reason='illegible' quantity='2' unit='character'/>
+
+
+Count: 32
+ID: EDR128734
+Errors: 
+1.)  (, ?, ), (, ?, ), ?, ?, ?
+Content:
+pane(m) a(ssibus) II
+purm(entarium) a(ssibus) III
+oleum a(sse) I
+[-]XC   a(ssibus) IIII
+vinum a(sse) s(emis)
+casium (:caseum) a(sse) s(emis)
+O(?)MR(?) a(ssibus) IIII
+vinum a(sse) s(emis)
+XI K(alendas) ac(ce)pi ((denarium)) I
+vinum a(sse) I
+porcin(am) a(sse) I
+viinum (:vinum) a(sse) s(emis)
+casiûm (:caseum) a(sse) s(emis)
+L(ucius) Gavi ((denarium?)) IIII s(emis) 〈:accepi?〉
+vinum a(sse) s(emis)
+carn(em) a(sse) I
+vin[u]m a(sse) I
+
+Epidocified Content:
+<lb n='1'/><expan><abbr>pane</abbr><ex>m</ex></expan> <expan><abbr>a</abbr><ex>ssibus</ex></expan> II
+<lb n='2'/><expan><abbr>purm</abbr><ex>entarium</ex></expan> <expan><abbr>a</abbr><ex>ssibus</ex></expan> III
+<lb n='3'/>oleum <expan><abbr>a</abbr><ex>sse</ex></expan> I
+<lb n='4'/><gap reason='lost' quantity='1' unit='character'/>XC   <expan><abbr>a</abbr><ex>ssibus</ex></expan> IIII
+<lb n='5'/>vinum <expan><abbr>a</abbr><ex>sse</ex></expan> <expan><abbr>s</abbr><ex>emis</ex></expan>
+<lb n='6'/><choice><reg>caseum</reg><orig>casium</orig></choice> <expan><abbr>a</abbr><ex>sse</ex></expan> <expan><abbr>s</abbr><ex>emis</ex></expan>
+<lb n='7'/>O(?)<orig>mr</orig>(?) <expan><abbr>a</abbr><ex>ssibus</ex></expan> IIII
+<lb n='8'/>vinum <expan><abbr>a</abbr><ex>sse</ex></expan> <expan><abbr>s</abbr><ex>emis</ex></expan>
+<lb n='9'/>XI <expan><abbr>K</abbr><ex>alendas</ex></expan> <expan><abbr>ac</abbr><ex>ce</ex></expan>pi <expan><abbr><am><g type='denarium'/></am></abbr><ex>denarium</ex></expan> I<lb n='10'/>vinum <expan><abbr>a</abbr><ex>sse</ex></expan> I<lb n='11'/><expan><abbr>porcin</abbr><ex>am</ex></expan> <expan><abbr>a</abbr><ex>sse</ex></expan> I<lb n='12'/><choice><reg>vinum</reg><orig>viinum</orig></choice> <expan><abbr>a</abbr><ex>sse</ex></expan> <expan><abbr>s</abbr><ex>emis</ex></expan><lb n='13'/><choice><reg>caseum</reg><orig>casi<hi rend='ligature'>um</hi></orig></choice> <expan><abbr>a</abbr><ex>sse</ex></expan> <expan><abbr>s</abbr><ex>emis</ex></expan><lb n='14'/><expan><abbr>L</abbr><ex>ucius</ex></expan> Gavi <expan><abbr><am><g type='denarium?'/></am></abbr><ex>denarium?</ex></expan> IIII <expan><abbr>s</abbr><ex>emis</ex></expan> <supplied reason='subaudible'>accepi?</supplied><lb n='15'/>vinum <expan><abbr>a</abbr><ex>sse</ex></expan> <expan><abbr>s</abbr><ex>emis</ex></expan><lb n='16'/><expan><abbr>carn</abbr><ex>em</ex></expan> <expan><abbr>a</abbr><ex>sse</ex></expan> I<lb n='17'/>vin<supplied reason='lost'>u</supplied>m <expan><abbr>a</abbr><ex>sse</ex></expan> I
+
+
+Count: 33
+ID: SMYTP0723
+Errors: 
+1.)  -
+Content:
+Ἀλέξανδ- =
+ρε
+
+Epidocified Content:
+<lb n='1'/>Ἀλέξανδ-<lb n="2" break="no"/>ρε
+
+
+Count: 34
+ID: EDR166098
+Errors: 
+1.)  XVI((semis))
+Content:
+XVI((semis))
+
+Epidocified Content:
+<lb n='1'/>XVI<expan><abbr><am><g type='semis'/></am></abbr><ex>semis</ex></expan>
+
+
+Count: 35
+ID: EDR081349
+Errors: 
+1.)  {Aus} Augustiana	-Potential Solution: Consider changing '{Aus} Augustiana' to 'AusAugustiana (:Augustiana)' to meet our standard conventions
+Content:
+Ìn curia {Aus} Augustiana
+
+Epidocified Content:
+<lb n='1'/>Ìn curia <surplus>Aus</surplus> Augustiana
+
+
+Count: 36
+ID: EDR102191
+Errors: 
+1.)  :
+Content:
+Hermeros Prìmigeniae dominae:
+venì Puteolos in vìco Tyaniano et quaere
+a Messio numulario(:nummulario) Hermerotem Phoebì
+
+Epidocified Content:
+<lb n='1'/>Hermeros Prìmigeniae dominae:
+<lb n='2'/>venì Puteolos in vìco Tyaniano et quaere
+<lb n='3'/>a Messio <choice><reg>nummulario</reg><orig>numulario</orig></choice> Hermerotem Phoebì
+
+
+Count: 37
+ID: EDR129306
+Errors: 
+1.)  </span>
+Content:
+Lollian(us)
+Euodus(:Euhodus)</span>,
+Priscus,
+Musicus,
+5 Atimetus,
+[Am?]p̣ẹlus,
+[---]c̣c̣us,
+G̲l̲aucus,
+C̲o̲mmuni̲s̲
+
+Epidocified Content:
+<lb n='1'/><expan><abbr>Lollian</abbr><ex>us</ex></expan>
+<lb n='2'/><choice><reg>Euhodus</reg><orig>Euodus</orig></choice>&#60;/span&#62;,
+<lb n='3'/>Priscus,
+<lb n='4'/>Musicus,
+<lb n='5'/>5 Atimetus,
+<lb n='6'/><supplied reason='lost' cert='low'>Am</supplied><unclear>pe</unclear>lus,
+<lb n='7'/><gap reason='lost' extent='unknown' unit='character'/><unclear>cc</unclear>us,
+<lb n='8'/><supplied reason='undefined' evidence='previouseditor'>Gl</supplied>aucus,
+<lb n='9'/><supplied reason='undefined' evidence='previouseditor'>Co</supplied>mmun<supplied reason='undefined' evidence='previouseditor'>is</supplied>
+
+
+Count: 38
+ID: EDR127429
+Errors: 
+1.)  <:nomen scriptum in semicirculum>
+Content:
+((:caput hominis))
+
+HCYXOC (:Ἥσυχος)
+〈:nomen scriptum in semicirculum〉
+
+Epidocified Content:
+<lb n='1'/><figure><figDesc>caput hominis</figDesc></figure>
+<lb n='2'/>
+<lb n='3'/><choice><reg>Ἥσυχος</reg><orig><orig>hcyxoc</orig></orig></choice>
+<lb n='4'/>&#60;:nomen scriptum in semicirculum&#62;
+
+
+Count: 39
+ID: EDR154447
+Errors: 
+1.)  ?
+Content:
+CELES (?)
+COSSSIIIIII
+
+Epidocified Content:
+<lb n='1'/><orig>celes</orig> <supplied reason='subaudible'>?</supplied>
+<lb n='2'/><orig>cosssiiiiii</orig>
+
+
+Count: 40
+ID: EDR143648
+Errors: 
+1.)  ?
+Content:
+〈:columna I〉
+[quid f]it? vi me, oculeì (:oculi), posquam (:postquam) deducxstis (:deduxistis) in ignem
+[no]n ob vim vestreis (:vestris) largificatis geneis.
+[porr]ọ non possunt lacrumae restinguere flamam (:flammam),
+[hae]c os incendunt tabificantque animum. 
+
+〈:columna II〉
+Tiburtinus epoese (:ἐποίησε)
+
+Epidocified Content:
+<div type='textpart' subtype='column' n='a'><lb n='1'/><supplied reason='lost'>quid f</supplied>it? vi me, <choice><reg>oculi</reg><orig>oculeì</orig></choice>, <choice><reg>postquam</reg><orig>posquam</orig></choice> <choice><reg>deduxistis</reg><orig>deducxstis</orig></choice> in ignem
+<lb n='2'/><supplied reason='lost'>no</supplied>n ob vim <choice><reg>vestris</reg><orig>vestreis</orig></choice> largificatis geneis.
+<lb n='3'/><supplied reason='lost'>porr</supplied><unclear>o</unclear> non possunt lacrumae restinguere <choice><reg>flammam</reg><orig>flamam</orig></choice>,
+<lb n='4'/><supplied reason='lost'>hae</supplied>c os incendunt tabificantque animum.</div><div type='textpart' subtype='column' n='b'><lb n='1'/>Tiburtinus <choice><reg>ἐποίησε</reg><orig>epoese</orig></choice></div>
+
+
+Count: 41
+ID: EDR149236
+Errors: 
+1.)  Vi(c)torius
+Content:
+Vi(c)torius
+
+Epidocified Content:
+<lb n='1'/><expan><abbr>Vi</abbr><ex>c</ex></expan>torius
+
+
+Count: 42
+ID: EDR149338
+Errors: 
+1.)  li(n)gis
+Content:
+Ianuari,
+li(n)gis [m]entula(m).
+
+Epidocified Content:
+<lb n='1'/>Ianuari,
+<lb n='2'/><expan><abbr>li</abbr><ex>n</ex></expan>gis <supplied reason='lost'>m</supplied><expan><abbr>entula</abbr><ex>m</ex></expan>.
+
+
+Count: 43
+ID: EDR166749
+Errors: 
+1.)  ?
+Content:
+[---?] A̲u̲relius
+
+Epidocified Content:
+<lb n='1'/><gap reason='lost' extent='unknown' unit='character'/><supplied reason='lost'>?</supplied> <supplied reason='undefined' evidence='previouseditor'>Au</supplied>relius
+
+
+Count: 44
+ID: EDR125509
+Errors: 
+1.)  ?
+2.)  Cresce(n)s
+Content:
+Quid vos augerem? miserere alium volueris. Cresce(n)s hic se curat. Salute(m)
+
+Epidocified Content:
+<lb n='1'/>Quid vos augerem? miserere alium volueris. <expan><abbr>Cresce</abbr><ex>n</ex></expan>s hic se curat. <expan><abbr>Salute</abbr><ex>m</ex></expan>
+
+
+Count: 45
+ID: EDR151713
+Errors: 
+1.)  {Ac}Accia	-Potential Solution: Consider changing '{Ac}Accia' to 'AcAccia (:Accia)' to meet our standard conventions
+Content:
+{Ac}Accia
+
+Epidocified Content:
+<lb n='1'/><surplus>Ac</surplus>Accia
+
+
+Count: 46
+ID: EDR128760
+Errors: 
+1.)  (, ?, )
+Content:
+〈:columna I, stria 11〉
+V(?) 
+
+〈:columna II, stria 13〉
+V 
+
+〈:columna III, stria 14〉
+M
+
+Epidocified Content:
+<div type='textpart' subtype='column' n='a'><lb n='1'/>V(?)</div><div type='textpart' subtype='column' n='b'><lb n='1'/>V</div><div type='textpart' subtype='column' n='c'><lb n='1'/>M</div>
+
+
+Count: 47
+ID: EDR160316
+Errors: 
+1.)  ?, (, ?, ), (, ?, )
+2.)  I(?)OVIA++
+Content:
+Cumm[une]m (:communem) nummum div[ide]n[d]
+〈:vacat〉 [+5-8?+]ius
+Venit summa [---]
+[---] ICA [---]NṢIA NTVM I(?)OVIA++
+[+7?+] quem(?) [+4?+] MAN[---]I[---]VIT Ṣ
+
+Epidocified Content:
+<lb n='1'/>Cumm<supplied reason='lost'>une</supplied><choice><reg>communem</reg><orig>m</orig></choice> nummum div<supplied reason='lost'>ide</supplied>n<supplied reason='lost'>d</supplied>
+<lb n='2'/><space/> <supplied reason='lost'><gap reason='illegible' quantity='1' unit='character'/>5</supplied><gap reason='lost' quantity='1' unit='character'/><supplied reason='lost'>8?<gap reason='illegible' quantity='1' unit='character'/></supplied>ius
+<lb n='3'/>Venit summa <gap reason='lost' extent='unknown' unit='character'/>
+<lb n='4'/><gap reason='lost' extent='unknown' unit='character'/> <orig>ica</orig> <gap reason='lost' extent='unknown' unit='character'/><orig>n<unclear>s</unclear>ia</orig> <orig>ntvm</orig> I(?)<orig>ovia</orig><gap reason='illegible' quantity='2' unit='character'/>
+<lb n='5'/><gap reason='lost' quantity='7' unit='character' precision='low'/> quem(?) <gap reason='lost' quantity='4' unit='character' precision='low'/> <orig>man</orig><gap reason='lost' extent='unknown' unit='character'/>I<gap reason='lost' extent='unknown' unit='character'/><orig>vit</orig> <unclear>S</unclear>
+
+
+Count: 48
+ID: EDR073610
+Errors: 
+1.)  ?
+Content:
+Fulgur [conditum ---?]
+
+Epidocified Content:
+<lb n='1'/>Fulgur <supplied reason='lost'>conditum </supplied><gap reason='lost' extent='unknown' unit='character'/><supplied reason='lost'>?</supplied>
+
+
+Count: 49
+ID: EDR071808
+Errors: 
+1.)  ?, ?
+2.)  M(arcus) Lucretius
+Content:
+M(arcus) Lucretius Fronto vir fortis
+et hon[ore? dignus?]
+
+Epidocified Content:
+<lb n='1'/><expan><abbr>M</abbr><ex>arcus</ex></expan> Lucretius Fronto vir fortis
+<lb n='2'/>et hon<supplied reason='lost'>ore? dignus?</supplied>
+
+
+Count: 50
+ID: EDR079713
+Errors: 
+1.)  (, ?, ), (, ?, )
+Content:
+Nigru(m?)
+cum Nesto(?)
+Cumis(?)
+
+Epidocified Content:
+<lb n='1'/><expan><abbr>Nigru</abbr><ex cert='low'>m</ex></expan>
+<lb n='2'/>cum Nesto(?)
+<lb n='3'/>Cumis(?)
+
+
+Count: 51
+ID: EDR167834
+Errors: 
+1.)  (
+Content:
+(((:navis cum malo velis remis et gubernatore))
+
+
+Epidocified Content:
+<lb n='1'/>(<figure><figDesc>navis cum malo velis remis et gubernatore</figDesc></figure>
+
+
+Count: 52
+ID: EDR127398
+Errors: 
+1.)  (, ?, ), (, ?, )
+Content:
+numeru(ṣ)
+cent(uria)ruṃ(?)
+D(ecimus) Iulius 
+T(h)rạ[s]o(?)
+Sagenio 
+Co(c)co 
+habeo 
+P(ublius) Iuilius (:Iulius)
+Trif̣olio 
+C(ai) Flav̂i  
+libra(ri) 
+C(ai) Flav(i) 
+librari 
+domûs
+T(iti) Lol(l)i
+[ạ]ger 
+em(p)tu(s) IIXS
+
+Epidocified Content:
+<lb n='1'/><expan><abbr>numeru</abbr><ex><unclear>s</unclear></ex></expan>
+<lb n='2'/><expan><abbr>cent</abbr><ex>uria</ex></expan>ru<unclear>m</unclear>(?)
+<lb n='3'/><expan><abbr>D</abbr><ex>ecimus</ex></expan> Iulius 
+<lb n='4'/><expan><abbr>T</abbr><ex>h</ex></expan>r<unclear>a</unclear><supplied reason='lost'>s</supplied>o(?)
+<lb n='5'/>Sagenio 
+<lb n='6'/><expan><abbr>Co</abbr><ex>c</ex></expan>co 
+<lb n='7'/>habeo 
+<lb n='8'/><expan><abbr>P</abbr><ex>ublius</ex></expan> <choice><reg>Iulius</reg><orig>Iuilius</orig></choice>
+<lb n='9'/>Tri<unclear>f</unclear>olio <lb n='10'/><expan><abbr>C</abbr><ex>ai</ex></expan> Fla<hi rend='ligature'>vi</hi>  <lb n='11'/><expan><abbr>libra</abbr><ex>ri</ex></expan> <lb n='12'/><expan><abbr>C</abbr><ex>ai</ex></expan> <expan><abbr>Flav</abbr><ex>i</ex></expan> <lb n='13'/>librari <lb n='14'/>dom<hi rend='ligature'>us</hi><lb n='15'/><expan><abbr>T</abbr><ex>iti</ex></expan> <expan><abbr>Lol</abbr><ex>l</ex></expan>i<lb n='16'/><supplied reason='lost'><unclear>a</unclear></supplied>ger <lb n='17'/><expan><abbr>em</abbr><ex>p</ex></expan><expan><abbr>tu</abbr><ex>s</ex></expan> <orig>iixs</orig>
+
+
+Count: 53
+ID: EDR143927
+Errors: 
+1.)  (, ?, ), (, ?, )
+2.)  ap(?)[---]
+Content:
+[---]n ore ap(?)[---]
+[---]sumat aut ea va[---]
+[---]sumpti opus est a[---]
+[---]udam eu ei(?)[---]VDAI[---]
+
+Epidocified Content:
+<lb n='1'/><gap reason='lost' extent='unknown' unit='character'/>n ore ap(?)<gap reason='lost' extent='unknown' unit='character'/>
+<lb n='2'/><gap reason='lost' extent='unknown' unit='character'/>sumat aut ea va<gap reason='lost' extent='unknown' unit='character'/>
+<lb n='3'/><gap reason='lost' extent='unknown' unit='character'/>sumpti opus est a<gap reason='lost' extent='unknown' unit='character'/>
+<lb n='4'/><gap reason='lost' extent='unknown' unit='character'/>udam eu ei(?)<gap reason='lost' extent='unknown' unit='character'/><orig>vdai</orig><gap reason='lost' extent='unknown' unit='character'/>
+
+
+Count: 54
+ID: EDR148022
+Errors: 
+1.)  Surre(n)tinas
+Content:
+Surre(n)tinas 
+Surrentinas 
+((:verba Surrentinas scripta in forma duae navium))
+((:words Surrentinas written in the shape of two boats))
+
+Epidocified Content:
+<lb n='1'/><expan><abbr>Surre</abbr><ex>n</ex></expan>tinas 
+<lb n='2'/>Surrentinas 
+<lb n='3'/><figure><figDesc>verba Surrentinas scripta in forma duae navium</figDesc></figure>
+<lb n='4'/><figure><figDesc>words Surrentinas written in the shape of two boats</figDesc></figure>
+
+
+Count: 55
+ID: EDR149063
+Errors: 
+1.)  ?
+Content:
+Pacạ[tus?]
+Pom[peia]nis (salutem?)
+
+Epidocified Content:
+<lb n='1'/>Pac<unclear>a</unclear><supplied reason='lost' cert='low'>tus</supplied>
+<lb n='2'/>Pom<supplied reason='lost'>peia</supplied>nis <supplied reason='subaudible'>salutem?</supplied>
+
+
+Count: 56
+ID: EDR149206
+Errors: 
+1.)  co(n)iuges
+Content:
+[Ba]lbus et Fortunata duo co(n)iuges
+
+Epidocified Content:
+<lb n='1'/><supplied reason='lost'>Ba</supplied>lbus et Fortunata duo <expan><abbr>co</abbr><ex>n</ex></expan>iuges
+
+
+Count: 57
+ID: EDR149245
+Errors: 
+1.)  Qui(s)quis
+Content:
+Qui(s)quis
+
+Epidocified Content:
+<lb n='1'/><expan><abbr>Qui</abbr><ex>s</ex></expan>quis
+
+
+Count: 58
+ID: EDR149323
+Errors: 
+1.)  Fabi(i)s
+Content:
+Duobus
+Fabi(i)s fe[l(iciter)]
+
+Epidocified Content:
+<lb n='1'/>Duobus
+<lb n='2'/><expan><abbr>Fabi</abbr><ex>i</ex></expan>s fe<supplied reason='lost'><expan><abbr>l</abbr><ex>iciter</ex></expan></supplied>
+
+
+Count: 59
+ID: EDR149047
+Errors: 
+1.)  R(h)esus
+Content:
+R(h)esus, vâ(le)
+
+Epidocified Content:
+<lb n='1'/><expan><abbr>R</abbr><ex>h</ex></expan>esus, <expan><abbr>v<hi rend='ligature'>a<</hi>/abbr><ex>le</ex></expan>
+
+
+Count: 60
+ID: EDR149340
+Errors: 
+1.)  (, ?, )
+Content:
+Con(?)
+
+Epidocified Content:
+<lb n='1'/>Con(?)
+
+
+Count: 61
+ID: EDR149249
+Errors: 
+1.)  ?
+Content:
+[---?] omnib(us)
+
+Epidocified Content:
+<lb n='1'/><gap reason='lost' extent='unknown' unit='character'/><supplied reason='lost'>?</supplied> <expan><abbr>omnib</abbr><ex>us</ex></expan>
+
+
+Count: 62
+ID: EDR149037
+Errors: 
+1.)  Pri(mi)ge[nius?]
+Content:
+P
+Pri(mi)ge[nius?]
+
+Epidocified Content:
+<lb n='1'/>P
+<lb n='2'/><expan><abbr>Pri</abbr><ex>mi</ex></expan>ge<supplied reason='lost' cert='low'>nius</supplied>
+
+
+Count: 63
+ID: EDR149298
+Errors: 
+1.)  -, -, -
+Content:
+At[ṛ](---?)
+
+Epidocified Content:
+<lb n='1'/>At<supplied reason='lost'><unclear>r</unclear></supplied><expan><abbr></abbr><ex cert='low'>---</ex></expan>
+
+
+Count: 64
+ID: EDR125531
+Errors: 
+1.)  sa[l(utem)]
+Content:
+Receptus · Actio · sa[l(utem)]
+Acti · v̂a(le)
+Receptus · Athicṭo · sal(utem)
+
+Epidocified Content:
+<lb n='1'/>Receptus · Actio · sa<supplied reason='lost'><expan><abbr>l</abbr><ex>utem</ex></expan></supplied>
+<lb n='2'/>Acti · <expan><abbr><hi rend='ligature'>va</hi></abbr><ex>le</ex></expan>
+<lb n='3'/>Receptus · Athic<unclear>t</unclear>o · sa<expan><abbr>l</abbr><ex>utem</ex></expan>
+
+
+Count: 65
+ID: EDR125533
+Errors: 
+1.)  Sur(r)en[tino?]
+Content:
+Falerno
+Sur(r)en[tino?]
+
+Epidocified Content:
+<lb n='1'/>Falerno
+<lb n='2'/><expan><abbr>Sur</abbr><ex>r</ex></expan>en<supplied reason='lost' cert='low'>tino</supplied>
+
+
+Count: 66
+ID: EDR149333
+Errors: 
+1.)  (, ?, )
+Content:
+Melisse vâ(le)
+hac(?)
+
+Epidocified Content:
+<lb n='1'/>Melisse <expan><abbr>v<hi rend='ligature'>a<</hi>/abbr><ex>le</ex></expan>
+<lb n='2'/>hac(?)
+
+
+Count: 67
+ID: EDR142569
+Errors: 
+1.)  (, ?, )
+Content:
+XI K(alendas) Iulias 
+man(?)
+
+Epidocified Content:
+<lb n='1'/>XI <expan><abbr>K</abbr><ex>alendas</ex></expan> Iulias 
+<lb n='2'/>man(?)
+
+
+Count: 68
+ID: EDR148671
+Errors: 
+1.)  ?, ?
+Content:
+Acetabula
+a(ssibus) II ((semis)) ((scripula?)) II
+Acetabela (:acetabula) APTL
+
+Epidocified Content:
+<lb n='1'/>Acetabula
+<lb n='2'/><expan><abbr>a</abbr><ex>ssibus</ex></expan> II <expan><abbr><am><g type='semis'/></am></abbr><ex>semis</ex></expan> <expan><abbr><am><g type='scripula?'/></am></abbr><ex>scripula?</ex></expan> II
+<lb n='3'/><choice><reg>acetabula</reg><orig>Acetabela</orig></choice> <orig>aptl</orig>
+
+
+Count: 69
+ID: EDR148788
+Errors: 
+1.)  ?, ?
+Content:
+in contra p(ondo?) VI ((scripula?)) VIII
+
+Epidocified Content:
+<lb n='1'/>in contra <expan><abbr>p</abbr><ex cert='low'>ondo</ex></expan> VI <expan><abbr><am><g type='scripula?'/></am></abbr><ex>scripula?</ex></expan> VIII
+
+
+Count: 70
+ID: EDR151699
+Errors: 
+1.)  a(-
+Content:
+Suavem a(- - -)
+
+Epidocified Content:
+<lb n='1'/>Suavem <abbr>a</abbr>
+
+
+Count: 71
+ID: EDR150787
+Errors: 
+1.)  (, :, )
+Content:
+L(ucius) Niniu[s] (:Ninnius)
+
+Epidocified Content:
+<lb n='1'/><expan><abbr>L</abbr><ex>ucius</ex></expan> Niniu<supplied reason='lost'>s</supplied> (:Ninnius)
+
+
+Count: 72
+ID: EDR150783
+Errors: 
+1.)  (, ?, )
+Content:
+Amante(?)
+
+Epidocified Content:
+<lb n='1'/>Amante(?)
+
+
+Count: 73
+ID: EDR151597
+Errors: 
+1.)  (, ?, )
+2.)  C(a)esareo(?)
+Content:
+C(a)esareo(?)
+
+
+
+
+Epidocified Content:
+<lb n='1'/><expan><abbr>C</abbr><ex>a</ex></expan>esareo(?)
+
+
+Count: 74
+ID: EDR159826
+Errors: 
+1.)  (, ?, ), ?, ?
+Content:
+Publi rogo frustra noli tibi [- - -] cura(?) [- - -]
+San+3?+ ce+4?+
+illa ++++ te carum semp(er)
+
+Epidocified Content:
+<lb n='1'/>Publi rogo frustra noli tibi <gap reason='lost' extent='unknown' unit='character'/> cura(?) <gap reason='lost' extent='unknown' unit='character'/>
+<lb n='2'/>San<gap reason='illegible' quantity='1' unit='character'/>3?<gap reason='illegible' quantity='1' unit='character'/> ce<gap reason='illegible' quantity='1' unit='character'/>4?<gap reason='illegible' quantity='1' unit='character'/>
+<lb n='3'/>illa <gap reason='illegible' quantity='4' unit='character'/> te carum <expan><abbr>semp</abbr><ex>er</ex></expan>
+
+
+Count: 75
+ID: EDR159815
+Errors: 
+1.)  <:ad dextram>
+Content:
+In acervo
+magno
+pali sun(t)
+
+〈:ad dextram〉
+((%1000)) XXIII
+
+Epidocified Content:
+<lb n='1'/>In acervo
+<lb n='2'/>magno
+<lb n='3'/>pali <expan><abbr>sun</abbr><ex>t</ex></expan>
+<lb n='4'/>
+<lb n='5'/>&#60;:ad dextram&#62;
+<lb n='6'/><expan><abbr><am><g type='%1000'/></am></abbr><ex>%1000</ex></expan> XXIII
+
+
+Count: 76
+ID: EDR161835
+Errors: 
+1.)  ?
+Content:
+E A R S T (?)
+
+Epidocified Content:
+<lb n='1'/>E A R S T <supplied reason='subaudible'>?</supplied>
+
+
+Count: 77
+ID: EDR073222
+Errors: 
+1.)  C(aius) Anneus
+Content:
+C(aius) Anneus (:Annaeus)
+Capito
+eq(ues) coh(ortis) X̅ pr(aetoriae)
+((centuria)) Grati
+
+Epidocified Content:
+<lb n='1'/><choice><reg>Annaeus</reg><orig><expan><abbr>C</abbr><ex>aius</ex></expan> Anneus</orig></choice>
+<lb n='2'/>Capito
+<lb n='3'/><expan><abbr>eq</abbr><ex>ues</ex></expan> <expan><abbr>coh</abbr><ex>ortis</ex></expan> X̅ <expan><abbr>pr</abbr><ex>aetoriae</ex></expan>
+<lb n='4'/><expan><abbr><am><g type='centuria'/></am></abbr><ex>centuria</ex></expan> Grati
+
+
+Count: 78
+ID: EDR147777
+Errors: 
+1.)  Cresce(n)s
+Content:
+Cresce(n)s Spatalo
+sal(utem)
+((:verba CRESCES SPATALO in forma navis scripta))
+
+Epidocified Content:
+<lb n='1'/><expan><abbr>Cresce</abbr><ex>n</ex></expan>s Spatalo
+<lb n='2'/><expan><abbr>sal</abbr><ex>utem</ex></expan>
+<lb n='3'/><figure><figDesc>verba <orig>cresces</orig> <orig>spatalo</orig> in forma navis scripta</figDesc></figure>
+
+
+Count: 79
+ID: EDR163896
+Errors: 
+1.)  genes&#803;[---]  (:Cllerigenes?)	-Potential Solution: Remove extra spaces between elements
+2.)  (, :, ?, )
+Content:
+Clleri geneṣ[---]  (:Cllerigenes?)
+
+Epidocified Content:
+<lb n='1'/>Clleri gene<unclear>s</unclear><gap reason='lost' extent='unknown' unit='character'/>  (:Cllerigenes?)
+
+
+Count: 80
+ID: EDR149196
+Errors: 
+1.)  (, ?, ), <:lectio incerta>
+2.)  C&#803;a&#803;r&#803;a&#803;(?)milus
+Content:
+Sacaba ẹt C̣ạṛạ(?)milus 〈:lectio incerta〉
+((:duo gladiatores, a quibus alter, sub SAC, alterum, sub M, tridente petit))
+((:two gladiators, one attacking the other with a trident))
+
+Epidocified Content:
+<lb n='1'/>Sacaba <unclear>e</unclear>t <unclear>Cara</unclear>(?)milus &#60;:lectio incerta&#62;
+<lb n='2'/><figure><figDesc>duo gladiatores, a quibus alter, sub <orig>sac,</orig> alterum, sub M, tridente petit</figDesc></figure>
+<lb n='3'/><figure><figDesc>two gladiators, one attacking the other with a trident</figDesc></figure>
+
+
+Count: 81
+ID: EDR149198
+Errors: 
+1.)  H&#803;ir(r)iu(s)
+Content:
+Ḥir(r)iu(s)
+
+Epidocified Content:
+<lb n='1'/><expan><abbr><unclear>H</unclear>ir</abbr><ex>r</ex></expan><expan><abbr>iu</abbr><ex>s</ex></expan>
+
+
+Count: 82
+ID: EDR136438
+Errors: 
+1.)  (, :, )
+2.)  VII((semis))
+Content:
+VII((semis)) (:septem et semis)
+
+Epidocified Content:
+<lb n='1'/>VII<expan><abbr><am><g type='semis'/></am></abbr><ex>semis</ex></expan> (:septem et semis)
+
+
+Count: 83
+ID: EDR149189
+Errors: 
+1.)  D((:navis))
+Content:
+D 〈:vacat〉 BA
+D
+D((:navis)) BK
+
+
+Epidocified Content:
+<lb n='1'/>D <space/> <orig>ba</orig>
+<lb n='2'/>D
+<lb n='3'/>D<figure><figDesc>navis</figDesc></figure> <orig>bk</orig>
+
+
+Count: 84
+ID: EDR072296
+Errors: 
+1.)  [, ]
+Content:
+Aedilem Proculam (:Proculum) [[CR]] cunctorum turba probavit. Hoc pudor ingenuus postulat et pietas
+
+Epidocified Content:
+<lb n='1'/><choice><reg>Proculum</reg><orig>Aedilem Proculam</orig></choice> [<supplied reason='lost'><orig>cr</orig></supplied>] cunctorum turba probavit. Hoc pudor ingenuus postulat et pietas
+
+
+Count: 85
+ID: EDR076755
+Errors: 
+1.)  (:salute) reditum
+Content:
+Pro salutem (:salute) reditum (:reditu) et victoria
+C(ai) Iuli Philippi votum h[ic] fecit Laribus
+P(ublius) Cornelius Felix et Vitalis Cuspi
+
+Epidocified Content:
+<lb n='1'/><choice><reg>salute</reg><orig>Pro salutem</orig></choice><choice><reg>reditu</reg><orig> reditum</orig></choice> et victoria
+<lb n='2'/><expan><abbr>C</abbr><ex>ai</ex></expan> Iuli Philippi votum h<supplied reason='lost'>ic</supplied> fecit Laribus
+<lb n='3'/><expan><abbr>P</abbr><ex>ublius</ex></expan> Cornelius Felix et Vitalis Cuspi
+
+
+Count: 86
+ID: EDR071662
+Errors: 
+1.)  (, )
+2.)  fil(io) co(n)s(ulibus)
+Content:
+Nerone Caesare Augusto
+Cosso Lentulo Cossi fil(io) co(n)s(ulibus)
+VIII Idus Febr(u)arias
+dies Solis luna XIIIIX nun(dinae) Cumis V (Idus Februarias) nun(dinae) Pompeis
+
+Epidocified Content:
+<lb n='1'/>Nerone Caesare Augusto
+<lb n='2'/>Cosso Lentulo Cossi <expan><abbr>fil</abbr><ex>io</ex></expan><expan><abbr> co</abbr><ex>n</ex></expan><expan><abbr>s</abbr><ex>ulibus</ex></expan>
+<lb n='3'/>VIII Idus <expan><abbr>Febr</abbr><ex>u</ex></expan>arias
+<lb n='4'/>dies Solis luna <expan><abbr>XIIIIX nun</abbr><ex>dinae</ex></expan> Cumis V (Idus Februarias)<expan><abbr> nun</abbr><ex>dinae</ex></expan> Pompeis
+
+
+Count: 87
+ID: EDR079495
+Errors: 
+1.)  T(h)iop(h)ilus
+Content:
+T(h)iop(h)ilus canis
+cunnu(m) lingere no=
+li puellis in muro
+
+Epidocified Content:
+<lb n='1'/><expan><abbr>T</abbr><ex>h</ex></expan><expan><abbr>iop</abbr><ex>h</ex></expan>ilus canis
+<lb n='2'/><expan><abbr>cunnu</abbr><ex>m</ex></expan> lingere no<lb n="3" break="no"/>li puellis in muro
+
+
+Count: 88
+ID: EDR168156
+Errors: 
+1.)  {g}rm	-Potential Solution: Consider changing '{g}rm' to 'grm (:rm)' to meet our standard conventions
+Content:
+l s²ms¹{g}rm
+
+Epidocified Content:
+<lb n='1'/>l s²ms¹<surplus>g</surplus>rm
+
+
+Count: 89
+ID: EDR168166
+Errors: 
+1.)  {m}{d}	-Potential Solution: Consider changing '{m}{d}' to 'm{d} (:{d})' to meet our standard conventions
+Content:
+l {m}{d}
+
+Epidocified Content:
+<lb n='1'/>l <surplus>m</surplus><surplus>d</surplus>
+
+
+Count: 90
+ID: EDR147856
+Errors: 
+1.)  Montan(u)s
+Content:
+Montan(u)s
+sum 
+v(ictoriarum)
+X
+((:gladiator)) 
+
+
+Epidocified Content:
+<lb n='1'/><expan><abbr>Montan</abbr><ex>u</ex></expan>s
+<lb n='2'/>sum 
+<lb n='3'/><expan><abbr>v</abbr><ex>ictoriarum</ex></expan>
+<lb n='4'/>X
+<lb n='5'/><figure><figDesc>gladiator</figDesc></figure>
+
+
+Count: 91
+ID: EDR147779
+Errors: 
+1.)  Cresce(n)s
+Content:
+Cresce(n)s architẹctus 
+((:verba CRESCES ARCHITECTUS in forma navis scripta)) 
+
+
+Epidocified Content:
+<lb n='1'/><expan><abbr>Cresce</abbr><ex>n</ex></expan>s archit<unclear>e</unclear>ctus 
+<lb n='2'/><figure><figDesc>verba <orig>cresces</orig> <orig>architectus</orig> in forma navis scripta</figDesc></figure>
+
+
+Count: 92
+ID: EDR151704
+Errors: 
+1.)  s[al(utem)?]
+Content:
+Antonius Rustio s[al(utem)?]
+
+Epidocified Content:
+<lb n='1'/>Antonius Rustio s<supplied reason='lost' cert='low'><expan><abbr>al</abbr><ex>utem</ex></expan></supplied>
+
+
+Count: 93
+ID: EDR161824
+Errors: 
+1.)  <:col. I>, <:col. II>
+Content:
+〈:col. I〉
+SSIIX
+
+〈:col. II〉
+Primigenia
+multa
+〈:textus non legitur〉
+
+Epidocified Content:
+<lb n='1'/>&#60;:col. I&#62;
+<lb n='2'/><orig>ssiix</orig>
+<lb n='3'/>
+<lb n='4'/>&#60;:col. II&#62;
+<lb n='5'/>Primigenia
+<lb n='6'/>multa
+<lb n='7'/><gap reason='illegible' extent='unknown' unit='character'/>
+
+
+Count: 94
+ID: EDR151848
+Errors: 
+1.)  ?
+Content:
+ΝΥΗΠΛΗ
+ΖΕΞΩ (?) ΤΥΧΗ
+
+Epidocified Content:
+<lb n='1'/>ΝΥΗΠΛΗ
+<lb n='2'/>ΖΕΞΩ <supplied reason='subaudible'>?</supplied> ΤΥΧΗ
+
+
+Count: 95
+ID: EDR151842
+Errors: 
+1.)  ?
+Content:
+Acti CA C+ [- - -?]
+
+Epidocified Content:
+<lb n='1'/>Acti <orig>ca</orig> C<gap reason='illegible' quantity='1' unit='character'/> <gap reason='lost' extent='unknown' unit='character'/><supplied reason='lost'>?</supplied>
+
+
+Count: 96
+ID: EDR151830
+Errors: 
+1.)  <:in tabella ansata>, ?
+Content:
+〈:in tabella ansata〉
+Ex scito
+ordinis
+primus OR
+VIΛIANIO [- - -?]
+
+Epidocified Content:
+<lb n='1'/>&#60;:in tabella ansata&#62;
+<lb n='2'/>Ex scito
+<lb n='3'/>ordinis
+<lb n='4'/>primus <orig>or</orig>
+<lb n='5'/>VIΛ<orig>ianio</orig> <gap reason='lost' extent='unknown' unit='character'/><supplied reason='lost'>?</supplied>
+
+
+Count: 97
+ID: EDR148378
+Errors: 
+1.)  Min((:labyrinthus))otaurus
+Content:
+labyrinthus 
+hic habitat 
+Min((:labyrinthus))otaurus (:Minotaurus)
+((:labyrinth))
+
+Epidocified Content:
+<lb n='1'/>labyrinthus 
+<lb n='2'/>hic habitat 
+<lb n='3'/>Min<figure><figDesc>labyrinthus</figDesc></figure><choice><reg>Minotaurus</reg><orig>otaurus</orig></choice>
+<lb n='4'/><figure><figDesc>labyrinth</figDesc></figure>
+
+
+Count: 98
+ID: EDR149250
+Errors: 
+1.)  cine&#948;u(s)  (:cinaedus)	-Potential Solution: Remove extra spaces between elements
+Content:
+Phoebus
+cineδu(s)  (:cinaedus)
+
+Epidocified Content:
+<lb n='1'/>Phoebus
+<lb n='2'/><choice><reg>cinaedus</reg><orig><expan><abbr>cineδu</abbr><ex>s</ex></expan> </orig></choice>
+
+
+Count: 99
+ID: EDR147687
+Errors: 
+1.)  Cresce(n)s
+Content:
+Cresce(n)s architectus  
+((:verba CRESCES ARCHITECTUS in forma navis scripta))
+
+Epidocified Content:
+<lb n='1'/><expan><abbr>Cresce</abbr><ex>n</ex></expan>s architectus  
+<lb n='2'/><figure><figDesc>verba <orig>cresces</orig> <orig>architectus</orig> in forma navis scripta</figDesc></figure>
+
+
+Count: 100
+ID: EDR149061
+Errors: 
+1.)  Li(n)ge
+Content:
+Li(n)ge ((:phallus ad sin. versus)), Aspasia
+
+Epidocified Content:
+<lb n='1'/><expan><abbr>Li</abbr><ex>n</ex></expan>ge <figure><figDesc>phallus ad sin. versus</figDesc></figure>, Aspasia
+
+
+Count: 101
+ID: EDR144785
+Errors: 
+1.)  ?
+Content:
+[nil sibi] habere aiunt Eum[am totum]que locare.
+[q]uid ṭum? [plus a]deo condere uti liceat
+
+Epidocified Content:
+<lb n='1'/><supplied reason='lost'>nil sibi</supplied> habere aiunt Eum<supplied reason='lost'>am totum</supplied>que locare.
+<lb n='2'/><supplied reason='lost'>q</supplied>uid <unclear>t</unclear>um? <supplied reason='lost'>plus a</supplied>deo condere uti liceat
+
+
+Count: 102
+ID: EDR160282
+Errors: 
+1.)  (, ?, )
+Content:
+Occasionem nactus non praetermisi tibi scribendi, ut scires me recte valere.
+Antenor potuit mediis elapsus Achivis Illiricos penetrare sinus. Appulit(?)
+
+Epidocified Content:
+<lb n='1'/>Occasionem nactus non praetermisi tibi scribendi, ut scires me recte valere.
+<lb n='2'/>Antenor potuit mediis elapsus Achivis Illiricos penetrare sinus. Appulit(?)
+
+
+Count: 103
+ID: EDR165024
+Errors: 
+1.)  <:in columna I>, <:signa incerta>, <:in columna II>
+Content:
+〈:in columna I〉 
+῾Ερμ̣ᾶς 
+〈:signa incerta〉
+
+〈:in columna II〉 
+ΕΡΜΤΩΙ (:῾Ερμίων)    
+῾Ερμᾶς 
+Σωτᾶς
+῾Ερμέρως
+
+Epidocified Content:
+<lb n='1'/>&#60;:in columna I&#62; 
+<lb n='2'/>῾Ερ<unclear>μ</unclear>ᾶς 
+<lb n='3'/>&#60;:signa incerta&#62;
+<lb n='4'/>
+<lb n='5'/>&#60;:in columna II&#62; 
+<lb n='6'/><choice><reg>῾Ερμίων</reg><orig>ΕΡΜΤΩΙ</orig></choice>    
+<lb n='7'/>῾Ερμᾶς 
+<lb n='8'/>Σωτᾶς
+<lb n='9'/>῾Ερμέρως
+
+
+Count: 104
+ID: EDR147971
+Errors: 
+1.)  :, (, )
+Content:
+((:circulus circino tractus et circulos sectiles continens:)) 
+((:compass-drawn circle containing overlapping circles))
+
+Epidocified Content:
+<lb n='1'/><choice><reg>circulus circino tractus et circulos sectiles continens:</reg><orig>(</orig></choice>) 
+<lb n='2'/><figure><figDesc>compass-drawn circle containing overlapping circles</figDesc></figure>
+
+
+Count: 105
+ID: EDR112869
+Errors: 
+1.)  <, >, </span>
+2.)  class='testo_nascosto'>(:&#966;&#8051;&#961;&#949;&#963;&#952;&#945;&#953;)</span>
+Content:
+Διογένης ὁ κυνικὸς φιλόσοφος
+ἰδὼν γυναῖκα ὑπὸ ποταμοῦ φε=
+ρομένην, εἶπεν· ἄφες φέρεσσθαι<span class='testo_nascosto'>(:φέρεσθαι)</span>
+τὸ κακ⌜ὸ⌝ν ὑπὸ κα`κοῦ´ ΚΙΥΣ.
+
+Epidocified Content:
+<lb n='1'/>Διογένης ὁ κυνικὸς φιλόσοφος
+<lb n='2'/>ἰδὼν γυναῖκα ὑπὸ ποταμοῦ φε<lb n="3" break="no"/>ρομένην, εἶπεν· ἄφες φέρεσσθαι&#60;span <choice><reg>φέρεσθαι</reg><orig>class='testo_nascosto'&#62;</orig></choice>&#60;/span&#62;
+<lb n='4'/>τὸ κακ⌜ὸ⌝ν ὑπὸ κα`κοῦ´ ΚΙΥΣ.
+
+
+Count: 106
+ID: EDR154371
+Errors: 
+1.)  ?
+Content:
+Salar[ius] glabe(r) rusiunnae (?) Lavinia(m) futui
+
+Epidocified Content:
+<lb n='1'/>Salar<supplied reason='lost'>ius</supplied> <expan><abbr>glabe</abbr><ex>r</ex></expan> rusiunnae <supplied reason='subaudible'>?</supplied> <expan><abbr>Lavinia</abbr><ex>m</ex></expan> futui
+
+
+Count: 107
+ID: EDR167537
+Errors: 
+1.)  (, ?, )
+Content:
+Ceio(?)
+et mul=
+tis pupa
+venust=
+a
+
+Epidocified Content:
+<lb n='1'/>Ceio(?)
+<lb n='2'/>et mul<lb n="3" break="no"/>tis pupa
+<lb n='4'/>venust<lb n="5" break="no"/>a
+
+
+Count: 108
+ID: EDR140980
+Errors: 
+1.)  ?, ?, ?
+Content:
+Quam mita (?) vis (?) · Pastores ateque (:atque) · Caste monit erga pugiles (?).
+
+Epidocified Content:
+<lb n='1'/>Quam mita <supplied reason='subaudible'>?</supplied> vis <supplied reason='subaudible'>?</supplied> · Pastores <choice><reg>atque</reg><orig>ateque</orig></choice> · Caste monit erga pugiles <supplied reason='subaudible'>?</supplied>.
+
+
+Count: 109
+ID: EDR154570
+Errors: 
+1.)  (, ?, )
+Content:
+Quant(?)
+
+Epidocified Content:
+<lb n='1'/>Quant(?)

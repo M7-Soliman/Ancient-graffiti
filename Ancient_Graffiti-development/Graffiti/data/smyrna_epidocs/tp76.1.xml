@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TP76.1.: Uncertain; penalty clause?</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >TP76.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-tp76-1</idno>
+                        <msName>Smyrna Agora Basilica TP76.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Pier A76. On the west face. 121 cm from floor.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Graffito/incised</rs> Area of the first graffito:
+                                            <dimensions>
+                                        <height unit="centimeter">8</height>
+                                        <width unit="centimeter">30</width>
+                                    </dimensions>
+                                    The third inscription is of 2–3 lines with incised letters. Area: 
+                                    <dimensions>
+                                        <height unit="centimeter">18</height>
+                                        <width unit="centimeter">37</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Letter of first graffito <height unit="centimeter" scope="letter">2</height> cm high. The second graffito is with small incised letters <height unit="centimeter" scope="letter">1</height> cm high.</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+            <div type="textpart" subtype="section" n="1" >
+                <ab> 
+                    <lb n="1"/>ΜΗ<gap reason="lost" quantity="2" unit="character"/> <gap reason="illegible" extent="unknown" unit="character"/>
+                </ab>
+            </div>
+            <div type="textpart" subtype="section" n="2" >
+                <ab>
+                    <lb n="1"/>ΠΟΛAΖΗ
+                </ab>
+            </div>
+             <div type="textpart" subtype="section" n="3" >
+                <ab>
+                    <lb n="1"/>//ΕΤΕΙΜΗΚΤΤΟΝΠΔΡΙ////ΞΟ/// ATΤIΚΑΙΣ
+                    <lb n="2"/>ΠΕΝΤΑΚOΣ<gap reason="lost" extent="unknown" unit="character"/>
+                </ab>
+            </div>
+            </div>
+            <div type="apparatus">
+                <div type="commentary" subtype="section" n="1">
+                    <ab>Perhaps <w lemma="μή">μή</w> followed by a command now lost, unless it refers to the next line, separated from it by a horizontal rule.
+                    </ab>
+                </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+                <div type="commentary" subtype="section" n="1">
+                    <ab>Can this be <w lemma="πολάζω">πολάζῃ</w>, from <w lemma="πολάζω">πολάζω</w>, cited once in LSJ Addenda with the meaning “to be common, abound”?
+                </ab>
+                </div>
+                <div type="commentary" subtype="section" n="3">
+                    <ab>If there is not text lost, one can readily understand <w lemma="ἀττικός">Ἀττικαῖς</w> (<w lemma="δραχμή">δραχμαῖς</w>) <w lemma="πεντακοσίος">πεντακοσ[ίαις</w>, 500 Attic drachmas (= denarii). At the beginning, probably a form of <w lemma="τιμάω">τιμάω</w>, either (as Angelos Chaniotis suggests) <w lemma="τιμάω">τετείμηκε</w>, or (as Thomas Corsten would prefer) <w lemma="τιμάω">ἐτείμησε</w>, followed by <w lemma="ὁ">τόν</w>. What follows that escapes us.
+                    </ab>
+                </div>
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 379-380.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

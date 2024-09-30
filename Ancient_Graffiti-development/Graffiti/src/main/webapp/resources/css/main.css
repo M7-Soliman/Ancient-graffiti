@@ -1,0 +1,149 @@
+@charset "UTF-8";
+
+#map {
+	height: 500px;
+	width: 800px;
+}
+
+/* For displaying the insula on the maps: https://jsfiddle.net/yckart/5tt1ypaq/ */
+.fraction {
+	display: inline-block;
+	text-align: center;
+	vertical-align: middle;
+	margin-left: 2px;
+	margin-right: 2px;
+}
+
+.frac {
+	line-height: 100%;
+	padding-left: 6px;
+	padding-right: 6px;
+}
+
+.numerator {
+	text-decoration: underline;
+}
+
+
+.labelClass {
+	white-space: nowrap;
+	color: gray;
+	font-size: 10pt;
+}
+
+.labelClassInsula {
+	white-space: nowrap;
+	color: gray;
+	font-size: 8pt;
+}
+
+.labelClassInsulaZoom {
+	white-space: nowrap;
+	color: gray;
+	font-size: 12pt;
+}
+
+.labelClassHerculaneum {
+	white-space: nowrap;
+	color: gray;
+	font-size: 14pt;
+}
+
+a.leaflet-control-zoom-in, a.leaflet-control-zoom-out, .leaflet-bar a.leaflet-disabled
+	{
+	background: transparent;
+}
+
+
+.mapdiv {
+	height: 500px;
+	width: 700px;
+	position: absolute;
+	margin-left: auto;
+	float: left;
+}
+
+@media only screen and (max-width: 770px) {
+	.mapdiv {
+		width: 85%;
+	}
+}
+
+#search_info {
+	margin: auto;
+	width: 400px;
+}
+
+.searchResultsHerculaneum, .searchResultsPompeii {
+	height: 375px;
+	width: 475px;
+	margin-top: 10px;
+	margin-right: 20px;
+	float: left;
+	border: 3px solid #800000;
+}
+
+.searchResultsStabiae {
+	max-height: 300px;
+	max-width: 300px;
+	margin-top: 530px;
+	margin-left: 720px;
+	float: right;
+	border: 3px solid #800000;
+	position: absolute;
+
+}
+
+img {
+	/* test new height for image */
+	max-width: 100%;
+	max-height: 100%;
+}
+
+#search-results {
+	max-width: 100%;
+}
+
+.findspotMap {
+	height: 400px;
+	width: 500px;
+	float: right;
+	/* position:relative; */
+	position: absolute;
+	border: 3px solid #800000;
+}
+
+@media only screen and (max-width: 510px) {
+	.findspotMap {
+		width: 95%;
+	}
+}
+
+.propertyMetadataMap {
+	height: 400px;
+	width: 500px;
+	position: absolute;
+	border: 3px solid #800000;
+}
+
+@media only screen and (max-width: 520px) {
+	.propertyMetadataMap {
+		width: 85%;
+	}
+}
+
+/* Used in ? */
+.info h4 {
+	margin: 0 0 5px;
+	color: #777;
+}
+
+.learnMoreDiv {
+	margin-bottom: 20px;
+}
+
+.locationMetadataDiv {
+	text-align: right;
+	margin-bottom: 5px;
+	margin-top: 10px;
+}

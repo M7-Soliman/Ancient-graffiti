@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T13.3.: Uncertain</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >T13.3.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t13-3</idno>
+                        <msName>Smyrna Agora Basilica T13.3.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 13 [= G19, between Piers A23 and A24]. At the top of the preserved area, 31 cm from the left edge of the bay.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Broken at right and particularly upper right, the preserved Area:
+                                            <dimensions>
+                                        <height unit="centimeter">54</height>
+                                        <width unit="centimeter">60</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Majuscule letters <height unit="centimeter" min="5" max="7"
+                                    scope="letter">5-7</height> cm high.</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+<lb n="1"/>Ε<gap reason="lost" quantity="3" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/>Σ ΔΕΙ<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/>ΚΑΤΑΠΟΤΑ <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/><unclear>Γ</unclear>ΡΑΦΙΤΑΥ<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/>ΣΙΠΙΛΑΣ<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="5"/>ΜΑΝ<unclear>Η</unclear>Σ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="6"/><w lemma="οὗτος">ταῦτα</w> <w lemma="λέγω">λεγό<unclear>μ</unclear><supplied reason="lost">ε</supplied>ν<unclear>ος</unclear> <gap reason="lost" extent="unknown" unit="character"/></w>
+<lb n="7"/><w lemma="ἄν">ἂν</w> <w lemma="σός">σοὶ</w> <w lemma="δοκέω">δοκεῖ</w> <gap reason="lost" extent="unknown" unit="character"/>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <ab>2. Cf. the note on T15.10. LSJ shows a plural of <w lemma="κατάποτον">κατάποτον</w> as “things swallowed.” The context here is too lacunose to allow an interpretation.<lb/>
+                    3. Perhaps <w lemma="γράφω">γράφι (l. -ει)</w> <w lemma="οὗτος">ταῦ|τα</w>.<lb/>
+                    4. The first letter could be epsilon instead of sigma.<lb/>
+                    5. The last letter is likely alpha or lambda.<lb/>
+                    6–7. Alternatively, one could read and divide <w lemma="οὗτος">ταῦτα</w> <w lemma="λέγω">λέγο̣μ̣[ε]ν· Σ[</w> | <w lemma="ἄν">ἂν</w> <w lemma="σός">σοὶ</w> <w lemma="δοκέω">δοκεῖ</w> [̣ .
+                </ab>
+            </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 169-170.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

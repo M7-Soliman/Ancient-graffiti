@@ -1,0 +1,90 @@
+@CHARSET "UTF-8";
+
+#selectors {
+	padding-bottom: 20px;
+	float: right;
+}
+
+#idCol {
+	width: 10%;
+}
+
+#textCol {
+	width: 20%;
+}
+
+#transCol {
+	width: 20%;
+}
+
+img {
+	display: inherit;
+	max-width: 500px;
+}
+
+.themes-grid {
+	list-style: none;
+	padding: 0;
+	margin: 0 auto;
+	text-align: center;
+	width: 75%;
+}
+
+.themes-grid li {
+	display: inline-block;
+	margin: 25px 25px 25px 25px;
+	vertical-align: middle;
+	width: 175px;
+}
+
+.themes-grid li>a, .themes-grid li>a img {
+	width: 100%;
+	border: none;
+	outline: none;
+	display: block;
+	position: relative;
+	transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+}
+
+.themes-grid li>a img:hover {
+	border-radius: 50%;
+	z-index: 500;
+}
+
+a.darken {
+	display: inline-block;
+	background: black;
+	padding: 0;
+}
+
+a.darken span {
+	display: none;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	padding: 10px;
+	float: left;
+	color: white;
+}
+
+a.darken img {
+	display: block;
+	-webkit-transition: all 0.25s linear;
+	-moz-transition: all 0.25s linear;
+	-ms-transition: all 0.25s linear;
+	-o-transition: all 0.25s linear;
+	transition: all 0.25s linear;
+}
+
+a.darken:hover img {
+	opacity: 0.25;
+}
+
+.message {
+	text-align: center;
+	font-size: 11pt;
+	color: white;
+}

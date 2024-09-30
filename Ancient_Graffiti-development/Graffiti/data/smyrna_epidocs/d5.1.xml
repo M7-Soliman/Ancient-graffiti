@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>D5.1.: Ship</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >D5.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-d5-1</idno>
+                        <msName>Smyrna Agora Basilica D5.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Dipinto of a ship located at the center of the back wall of Bay 5, where it occupies the whole span of the bay. </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Dimensions:
+                                            <dimensions>
+                                        <height unit="centimeter">113</height>
+                                        <width unit="centimeter">162</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en">Ship</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab/>
+            </div>
+
+            <div type="apparatus"> 
+                <p /> 
+            </div> 
+            <div type="translation">
+                
+                <ab/>
+            </div>
+            <div type="commentary">
+                <ab>It depicts a medium-sized commercial vessel sailing on port tack. Clearly visible are the ropes connecting the single mast to the yard (κηροῦχοι), the mast to the boat (πρότονοι), as well as those connecting the sail to the hull (πόδες). The round prow (πρώρα) is decorated with the drawing of an eye, interpretable as the ὀφθαλμός, and two concentric lines that mimic a fish’s operculum, so that the whole prow is shaped to evoke a fish’s head. Despite the large lacuna at the center, the ship seems to have a raised deck to the right of the mast. There, a sailor, his body fully frontal and the face in profile, is rendered with minimal attention for anatomical details. He is shown in the act of attending to a rope connected with the mast, which is covered in rigging. At the stern, a helmsman (κυβερνήτης), seated in elevated position, controls two rudders (πηδάλιοι), shown as raised from the water. There are no signs of other oars. Of the sailor, only the bust and the face turned toward the viewer are visible, both rendered in few and poorly executed details.</ab>
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 96.</p>
+                <p>Pomey, P. 2006. “Les graffiti navals de l’agora. Etude preliminaire.” Anatolia Antiqua 14: 328–30, figs. 19–20.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

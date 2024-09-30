@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TP100.4.: Uncertain</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >TP100.4.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-tp100-4</idno>
+                        <msName>Smyrna Agora Basilica TP100.4.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Pier 100. On the bevel to the left of the south side. On the lower layer of plaster. </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Graffito/incised</rs> Area:
+                                            <dimensions>
+                                        <height unit="centimeter">16</height>
+                                        <width unit="centimeter">14</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Ιncised in majuscule letters <height unit="centimeter" scope="letter">1.5</height> cm high</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/>ΚΟ<gap reason="illegible" quantity="1" unit="character"/>ΤΗ
+                    <lb n="2"/>ΤΟ<gap reason="illegible" quantity="2" unit="character"/><unclear>Ο</unclear>ΥΔΙΝ
+                    <lb n="3"/><placeName ref="https://pleiades.stoa.org/places/981509"><w lemma="Ἀσία">Ἀσία<unclear>ς</unclear></w></placeName> <w lemma="τύχη">τύχη</w>
+                    <lb n="4"/><del rend="erasure"><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="2" unit="character"/>Ω<gap reason="lost" quantity="2" unit="character"/>Σ</del>
+                    <lb n="5"/>ΦΥΛΑΞΕΥ<gap reason="illegible" quantity="1" unit="character"/>ΟΖΥ
+                    <lb n="6"/>ΓΟΚΑΜ<unclear>Ε</unclear><gap reason="illegible" quantity="1" unit="character"/>ΜΕ
+                    <lb n="7"/><w lemma="τώπος"><choice><reg>τόπος</reg><orig>τώπος</orig></choice></w>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <ab>3. Not much is visible of the second sigma of <placeName ref="https://pleiades.stoa.org/places/981509"><w lemma="Ἀσία">Ἀσίας</w></placeName>, but it seems syntactically unavoidable.
+                    4. A horizontal trench has been cut in the plaster to eliminate whatever was originally written here.
+                    5–6. <w lemma="φυλάττω">φυλάξε</w> = φυλάξαι? Perhaps following that we should read <w lemma="ὑποζυγόω">ὑπ̣οζυ|γόκαμε̣ν̣</w> (l. <w lemma="ὑποζυγόω">ὑπεζυγώκαμεν</w>), requiring two phonetic errors to get an acceptable perfect form of the unattested compound <w lemma="ὑποζυγόω">ὑποζυγόω</w> (the simplex is known).</ab>
+            </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 424-426.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

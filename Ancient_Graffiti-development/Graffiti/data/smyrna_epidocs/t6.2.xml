@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T6.2.: Uncertain</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >T6.2.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t6-2</idno>
+                        <msName>Smyrna Agora Basilica T6.2.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 6 (equals G12, between Piers A16 and A17). In the left center part of the wall.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Four lines. Dimentions: 
+                                    <dimensions>
+                                        <width unit="centimeter">64</width>
+                                        <height unit="centimeter">36</height>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Letters <height
+                                    unit="centimeter" scope="letter"
+                                >3</height> cm high. Lines 2–3 are in one hand (majuscules), line 4 definitely in a different hand. It is not certain if line 1 is in the same hand as lines 2–3, but it appears more ligatured.
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                   <lb n="1"/>ΤΙΤ<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ΗΝ<gap reason="illegible" quantity="2" unit="character"/>Ω<gap reason="illegible" quantity="1" unit="character"/>
+                   <lb n="2"/><gap reason="illegible" quantity="3" unit="character"/>ΤΟΝΜ<gap reason="illegible" quantity="4" unit="character"/>ΟΥ
+                   <lb n="3"/><gap reason="illegible" quantity="14" unit="character" precision="low"><certainty match=".." locus="name"/></gap>ΛΕ<gap reason="illegible" quantity="2" unit="character"/>Η
+                   <lb n="4"/><gap reason="illegible" quantity="10" unit="character" precision="low"><certainty match=".." locus="name"/></gap><gap reason="illegible" quantity="1" unit="character"/>ΑΝ
+                </ab>
+            </div>
+            <div type="apparatus">
+                <ab/>
+            </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary"> 
+                <p >On the bevel of the pier at right (a17) is a drawing of an animal, evidently a cat (D6.2).</p> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 101.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

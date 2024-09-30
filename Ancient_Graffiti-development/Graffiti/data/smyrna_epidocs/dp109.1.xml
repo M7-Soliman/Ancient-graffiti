@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>DP109.1.: Architecture</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >DP109.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-dp109-1</idno>
+                        <msName>Smyrna Agora Basilica DP109.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>On the south face of Pier A109.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Graffito/incised</rs> Dimensions:
+                                            <dimensions>
+                                        <height unit="centimeter">13</height>
+                                        <width unit="centimeter">9</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en">Architecture</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab/>
+            </div>
+
+            <div type="apparatus"> 
+                <p /> 
+            </div> 
+            <div type="translation">
+                
+                <ab/>
+            </div>
+            <div type="commentary">
+                <ab>Graffito of a building, located on the south face of Pier A109, currently tucked back into a crevice of the buttress that abuts the pier and that was built to reinforce the structure. It is now very difficult to see the graffito, as it is partially obscured by the ancient repair that covers the remaining surface of the pier. As far as visible, the graffito, etched in the plaster, depicts a temple façade. The façade is characterized by a crepidoma with a two-stepped stereobate below the stylobate. Above the stylobate are a series of columns (possibly six) without bases but with round capitals; these elements suggest that the building could be a Doric hexastyle temple. The facade is completed by a triangular pediment decorated with a human head in profile. Flags seem to be hanging from both sides attached on very long poles. <lb/>Considering the large number of pictorial graffiti in the basilica depicting gladiators and gladiatorial games, this depiction could be interpreted as the Nemeseion, the temple of the two Nemeseis. Indeed, the temple stood on the south side of the Agora, and thus was in the vicinity of the underground corridor where the graffiti were drawn or etched, and its cult to the two Nemeseis had strong connections to the gladiatorial games (see discussion in the introduction, p. 35). The temple went through an important phase of reconstruction under Caracalla (211–212 CE) during which it was extensively expanded. This important building activity could provide a terminus post quem for the graffito. A discussion of the temple of the Nemeseis and its role in the gladiatorial games can be found in Tataki 2009, esp. p. 646. See also Hornum 1993: 43–88 and I. Smyrna 263–271, pp. 304–9). Alternatively, the graffito could be interpreted as a representation of the temple of Hadrian that was built after the emperor’s visit to the city in 124 CE using part of the imperial gift of money and construction materials (among which were imported columns) meant for the gymnasium and other building projects in the city. See Burrell 2002: 40–44.</ab>
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 454-455.</p>
+                <p>Burrell, B. 2002. “Temples of Hadrian, not Zeus.” Greek, Roman, and Byzantine Studies 43:3: 40-44</p>
+                <p>Hornum, M. B. 1993. Nemesis, the Roman State, and the Games. New York: 43-88</p>
+                <p>I. Smyrna, 263–271, pp. 304–9</p>
+                <p>Tataki, A. 2009. “Nemesis, Nemeseis, and the Gladiatorial Games at Smyrna.” Mnemosyne 62: 646.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

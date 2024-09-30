@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tx.1.: Uncertain</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >TX.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-tx-1</idno>
+                        <msName>Smyrna Agora Basilica TX.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>A121 (stairs). To the right of the staircase, at the lower end, 87 cm above the second step. Incised in plaster. </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Graffito/incised</rs> The underlineed letters were still visible in 2014; the plaster of line 2 has been lost. Dimensions:
+                                    <dimensions>
+                                        <height unit="centimeter">10</height>
+                                        <width unit="centimeter">23.5</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Letter heights: <height unit="centimeter" min="3" max="3.5"
+                                    scope="letter">3.0-3.5</height> cm high</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/>Ο<hi rend="underline">ΔΟΦΟΡΟ</hi>Σ
+                    <lb n="2"/><w lemma="συναίρω"><gap extent="unknown" reason="lost" unit="character"/><gap quantity="1" reason="illegible" unit="character"/>ΝΗΡΘΗ</w>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>1. If this is not broken at left, one would naturally read <w lemma="ὁδοφόρος">*ὁδοφόρος</w>, “road-bearing” or “road-bearer.” As this word is not otherwise attested to our knowledge, more promising would be the assumption of a lost letter and a reading <w lemma="ῥοδοφόρος">ῥοδοφόρος</w>.
+                    <lb/>2. See the drawing. The initial letter(s) could be omicron, epsilon, epsilon iota, or perhaps sigma upsilon. The first eta is also indistinct in Miltner’s copy and could represent something else. The only suggestion for an intepretation that has occurred to us is <w lemma="συναίρω">συνήρθη</w>, aorist passive of <w lemma="συναίρω">συναίρω</w>. we cannot propose a suitable meaning with either the putative <w lemma="ὁδοφόρος">*ὁδοφόρος</w> or <w lemma="ῥοδοφόρος">ῥοδοφόρος</w> with any confidence.</p>
+            </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 56-57.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

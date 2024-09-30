@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>D15.5.: Gladiator</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >D15.5.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-d15-5</idno>
+                        <msName>Smyrna Agora Basilica D15.5.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>In the upper left quadrant of the bay.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Dimensions:
+                                            <dimensions>
+                                        <height unit="centimeter">22</height>
+                                        <width unit="centimeter">19</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                         <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en">Gladiator</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab/>
+            </div>
+            <div type="apparatus"> 
+                <p /> 
+            </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary">
+                <ab>Dipinto of a gladiator, located in the upper left quadrant of the back wall of Bay 14. The man, depicted in a three-quarter view, has his back toward the viewer. Only the upper portion of the body, down to the hips, is visible, while the lower half is completely effaced. The gladiator is portrayed in the act of stretching his right arm forward. He holds a short sword, whose contours are now almost entirely faded. At his waist a balteus is recognizable, and to his left side is a tall scutum. The crest on the helmet and the long flange protecting the neck indicate that the gladiator is probably a secutor. <lb/>The iconography of this helmet is typical of gladiatorial reliefs from Smyrna, as demonstrated by a very close parallel in a funerary stele from Smyrna: Robert 1940: 203 no. 226.</ab>
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 196.</p>
+                <p>Robert, L. 1940. Les gladiateurs dans l’orient grec. Paris, 203 no. 226.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

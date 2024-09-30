@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T28.2.: Label?</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>,
+                    <author>R. Casagrande-Kim</author>,
+                    <author>A. Ersoy</author>,
+                    <author>C. Tanriver</author> and
+                    <author>B. Yolaçan</author>,
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title>
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>),
+                    <biblScope unit="item"
+                        >T28.2.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t28-2</idno>
+                        <msName>Smyrna Agora Basilica T28.2.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 28 [= G35, between Piers A39 and A40]. The large ship in the center of the panel (D28.1).</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> The  ship has three letters placed in the middle of the central panel of the hull.
+                                            <dimensions>
+                                        <height unit="centimeter"></height>
+                                        <width unit="centimeter"></width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Detached letters: <height unit="centimeter" min="2" max="2.5" scope="letter">2-2.5</height> cm high</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+            <div type="textpart" subtype="section" n="Central panel" >
+                <ab> 
+                    <lb n="1"/>κυβ
+                </ab>
+            </div>
+            <div type="textpart" subtype="section" n="In front of the front rigging" >
+                <ab>
+                    <lb n="1"/>οβ
+                </ab>
+            </div>
+            </div>            
+            <div type="apparatus">
+                <ab>One should probably take the first of these as κυβ(ερνήτης), pilot. On the second, see T15.5.1n.</ab>
+            </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 272.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

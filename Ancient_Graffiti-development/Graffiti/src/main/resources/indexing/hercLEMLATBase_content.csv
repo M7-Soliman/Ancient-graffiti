@@ -1,0 +1,636 @@
+EDR154563,Vale,uale,ualeo,V2,u0050,,VmG,Va(le) va(le)
+EDR145936,Echio,echio,echios,N2,e0049,f,NcB,Echio va(le)
+EDR140257,kalendas,kalendas,kalendae,N1,k0002,f,NcA,XVII k(alendas) X k(alendas) VII id(us)
+EDR140257,kalendas,kalendas,kalendae,N1,k0002,f,NcA,XVII k(alendas) X k(alendas) VII id(us)
+EDR154575,cinaedus,cinaedus,cinaedus,N2,c1631,m,NcB,Lasius cinedus (:cinaedus)
+EDR154575,cinaedus,cinaedus,cinaedus,N2/1,c1631,*,Af-,Lasius cinedus (:cinaedus)
+EDR151898,lingis,lingis,lingo,V3,l0821,,VmH,Phlavia (:Flavia) &#920;&#818; l&#818;i&#818;g&#818;i&#818;s&#818; (:lingis)
+EDR140061,accepit,accepit,accipio,V5,a0275,,VmM,[--- acce]pit Secundus Crusali ser(vus?) et Valentina ((:phallus))
+EDR140061,Secundus,secundus,secundus,N2/1,s9990,*,Ao-,[--- acce]pit Secundus Crusali ser(vus?) et Valentina ((:phallus))
+EDR140061,Secundus,secundus,secor,V3,s1348,,VmH,[--- acce]pit Secundus Crusali ser(vus?) et Valentina ((:phallus))
+EDR140061,Secundus,secundus,sequor/-o,V3,s1348,,VmH,[--- acce]pit Secundus Crusali ser(vus?) et Valentina ((:phallus))
+EDR140061,et,et,et,I,e0997,,X--,[--- acce]pit Secundus Crusali ser(vus?) et Valentina ((:phallus))
+EDR081349,curia,curia,curia,N1,c4683,f,NcA,I&#768;n curia {Aus} Augustiana
+EDR081349,In,in,eo,VA,e0655,,VmN,I&#768;n curia {Aus} Augustiana
+EDR081349,In,in,in,I,i0702,,X--,I&#768;n curia {Aus} Augustiana
+EDR154534,Echio,echio,echios,N2,e0049,f,NcB,Echio · va(le)
+EDR154421,asses,asses,as/assis,N3B,a3009,m,NcC,VII a(sses) III
+EDR154421,asses,asses,asso,V1,a3183,,VmF,VII a(sses) III
+EDR154421,asses,asses,axis,N3B,a3654,m,NcC,VII a(sses) III
+EDR140254,Idibus,idibus,idus,N4,i9914,f,NcD,&#919;dibus (:Idibus) Ianyaris (:Ianuarias) mystacogus (:mystagogus &#956;&#965;&#963;&#964;&#945;&#947;&#969;&#947;&#972;&#962;) docens GEBEUM et &#7864;t&#803;o&#803;e&#803;n l&#803;u&#803;c&#803;i&#803;a&#803;n&#803;+ VIC&#803;IC 
+EDR140254,mystagogus,mystagogus,mystagogus/-os,N2,m1930,m,NcB,&#919;dibus (:Idibus) Ianyaris (:Ianuarias) mystacogus (:mystagogus &#956;&#965;&#963;&#964;&#945;&#947;&#969;&#947;&#972;&#962;) docens GEBEUM et &#7864;t&#803;o&#803;e&#803;n l&#803;u&#803;c&#803;i&#803;a&#803;n&#803;+ VIC&#803;IC 
+EDR140254,docens,docens,doceo,V2,d2067,,VmG,&#919;dibus (:Idibus) Ianyaris (:Ianuarias) mystacogus (:mystagogus &#956;&#965;&#963;&#964;&#945;&#947;&#969;&#947;&#972;&#962;) docens GEBEUM et &#7864;t&#803;o&#803;e&#803;n l&#803;u&#803;c&#803;i&#803;a&#803;n&#803;+ VIC&#803;IC 
+EDR140254,et,et,et,I,e0997,,X--,&#919;dibus (:Idibus) Ianyaris (:Ianuarias) mystacogus (:mystagogus &#956;&#965;&#963;&#964;&#945;&#947;&#969;&#947;&#972;&#962;) docens GEBEUM et &#7864;t&#803;o&#803;e&#803;n l&#803;u&#803;c&#803;i&#803;a&#803;n&#803;+ VIC&#803;IC 
+EDR140036,senatus,senatus,senatus,N4,s1202,m,NcD,Ex se[na]tu (:senatus) con=  sul[to] VVCA [---]E ICA m&#770;ansi solus
+EDR140036,Ex,ex,ex,I,e1167,,X--,Ex se[na]tu (:senatus) con=  sul[to] VVCA [---]E ICA m&#770;ansi solus
+EDR140036,consulto,consulto,consulo,V3,c3652,,VmH,Ex se[na]tu (:senatus) con=  sul[to] VVCA [---]E ICA m&#770;ansi solus
+EDR140036,consulto,consulto,consulo,V3,c3652,,VmH,Ex se[na]tu (:senatus) con=  sul[to] VVCA [---]E ICA m&#770;ansi solus
+EDR140036,consulto,consulto,consulto/-or,V1,c3656,,VmF,Ex se[na]tu (:senatus) con=  sul[to] VVCA [---]E ICA m&#770;ansi solus
+EDR140036,consulto,consulto,consultus,N2,c9966,m,NcB,Ex se[na]tu (:senatus) con=  sul[to] VVCA [---]E ICA m&#770;ansi solus
+EDR140036,consulto,consulto,consultum,N2,c9966,n,NcB,Ex se[na]tu (:senatus) con=  sul[to] VVCA [---]E ICA m&#770;ansi solus
+EDR140036,mansi,mansi,mando/-or,V3,m0261,,VmH,Ex se[na]tu (:senatus) con=  sul[to] VVCA [---]E ICA m&#770;ansi solus
+EDR140036,mansi,mansi,maneo,V2,m0273,,VmG,Ex se[na]tu (:senatus) con=  sul[to] VVCA [---]E ICA m&#770;ansi solus
+EDR140036,mansi,mansi,maneo,V2,m0273,,VmG,Ex se[na]tu (:senatus) con=  sul[to] VVCA [---]E ICA m&#770;ansi solus
+EDR140255,Sextus,sextus,sextus,N2/1,s1541,*,Ao-,Se(xtus) Porcius s s
+EDR140171,matri,matri,mater,N3B,m0448,f,NcC,Saturnina[e] matr(i) uncus a(ssibus) III 
+EDR140171,assibus,assibus,as/assis,N3B,a3009,m,NcC,Saturnina[e] matr(i) uncus a(ssibus) III 
+EDR140171,assibus,assibus,axis,N3B,a3654,m,NcC,Saturnina[e] matr(i) uncus a(ssibus) III 
+EDR140171,uncus,uncus,uncus,N2,u1026,m,NcB,Saturnina[e] matr(i) uncus a(ssibus) III 
+EDR140171,uncus,uncus,uncus,N2/1,u1026,*,Af-,Saturnina[e] matr(i) uncus a(ssibus) III 
+EDR144354,Faustus,faustus,faustus,N2/1,f0287,*,Af-,&#920; Faustus Nothus Nothus ((:nomina FAVSTVS et NOTHVS scripta in forma trium navium NOTHVS bis)) 
+EDR144354,Nothus,nothus,nothus,N2/1,n0545,*,Af-,&#920; Faustus Nothus Nothus ((:nomina FAVSTVS et NOTHVS scripta in forma trium navium NOTHVS bis)) 
+EDR144354,Nothus,nothus,nothus,N2/1,n0545,*,Af-,&#920; Faustus Nothus Nothus ((:nomina FAVSTVS et NOTHVS scripta in forma trium navium NOTHVS bis)) 
+EDR140224,Tertio,tertio,tertius,N2/1,t0413,*,Ao-,[---]gius a Tertio S
+EDR140224,Tertio,tertio,tertio,V1,t0410,,VmF,[---]gius a Tertio S
+EDR140224,Tertio,tertio,tertius,N2/1,t0413,*,Ao-,[---]gius a Tertio S
+EDR151892,Cosmus,cosmus,cosmos/-us,N2,c4185,m,NcB,Cosmus cas(tus?)
+EDR140219,suae,suae,suus/-os,PR,s3894,*,Ps-,[---]lius CINT &#12296;:vacat&#12297; genius suae sal(utem)  [---]CIN N AGIO GORC R
+EDR140219,genius,genius,genius,N2,g0201,m,NcB,[---]lius CINT &#12296;:vacat&#12297; genius suae sal(utem)  [---]CIN N AGIO GORC R
+EDR140219,salutem,salutem,salus,N3B,s0233,f,NcC,[---]lius CINT &#12296;:vacat&#12297; genius suae sal(utem)  [---]CIN N AGIO GORC R
+EDR140219,salutem,salutem,saluto,V1,s0245,,VmF,[---]lius CINT &#12296;:vacat&#12297; genius suae sal(utem)  [---]CIN N AGIO GORC R
+EDR140223,redire,redire,redeo,VA,r1080,,VmN,P P P redire   si minus   innecteb(is?) et te [---]
+EDR140223,minus,minus,minor,N3A,m1049,*,Af-,P P P redire   si minus   innecteb(is?) et te [---]
+EDR140223,minus,minus,minus,N2/1,m1060,*,Af-,P P P redire   si minus   innecteb(is?) et te [---]
+EDR140223,et,et,et,I,e0997,,X--,P P P redire   si minus   innecteb(is?) et te [---]
+EDR140226,quo,quo,quis,PR,q0198,,P4-,Secundus quo Hectic [+10?+ plu]rimam salutem
+EDR140226,quo,quo,qui,PR,q9410,,P7-,Secundus quo Hectic [+10?+ plu]rimam salutem
+EDR140226,Secundus,secundus,secundus,N2/1,s9990,*,Ao-,Secundus quo Hectic [+10?+ plu]rimam salutem
+EDR140226,Secundus,secundus,secor,V3,s1348,,VmH,Secundus quo Hectic [+10?+ plu]rimam salutem
+EDR140226,Secundus,secundus,sequor/-o,V3,s1348,,VmH,Secundus quo Hectic [+10?+ plu]rimam salutem
+EDR140226,plurimam,plurimam,plurimus,N2/1,p2395,*,Au-,Secundus quo Hectic [+10?+ plu]rimam salutem
+EDR154444,Omnes,omnes,omnis,N3A,o0723,*,Au-,Omnes XXXI
+EDR140135,amor,amor,amor,N3B,a1716,m,NcC,Hic amor sapiet
+EDR140135,amor,amor,amo,V1,a1705,,VmF,Hic amor sapiet
+EDR140135,Hic,hic,hic,PR,h0360,,Py-,Hic amor sapiet
+EDR081346,Mammium,mammium,mammium,N2,m0228,n,NcB,Mamium(:Mammium) Anicetum rogamus guria(:curia) Augustiana
+EDR081346,rogamus,rogamus,rogo,V1,r1472,,VmF,Mamium(:Mammium) Anicetum rogamus guria(:curia) Augustiana
+EDR081346,Anicetum,anicetum,anicetus,N2/1,a2020,*,Af-,Mamium(:Mammium) Anicetum rogamus guria(:curia) Augustiana
+EDR081346,curia,curia,curia,N1,c4683,f,NcA,Mamium(:Mammium) Anicetum rogamus guria(:curia) Augustiana
+EDR140039,trans,trans,trans,I,t0969,,X--,&#12296;:columna I&#12297; Branc broc trans nus  &#12296;:columna II&#12297; Nos= ter  tros  men   &#12296;:columna III&#12297; Quod quid quae quas  &#12296;:columna IV&#12297; Rum quis  que dem  &#12296;:columna V&#12297; Con  les lis  mu&#7735;  &#12296;:columna VI&#12297; Mol ma me mae
+EDR140039,Noster,noster,noster,PR,n0569,*,Ps-,&#12296;:columna I&#12297; Branc broc trans nus  &#12296;:columna II&#12297; Nos= ter  tros  men   &#12296;:columna III&#12297; Quod quid quae quas  &#12296;:columna IV&#12297; Rum quis  que dem  &#12296;:columna V&#12297; Con  les lis  mu&#7735;  &#12296;:columna VI&#12297; Mol ma me mae
+EDR140039,quid,quid,quis,PR,q0198,,P4-,&#12296;:columna I&#12297; Branc broc trans nus  &#12296;:columna II&#12297; Nos= ter  tros  men   &#12296;:columna III&#12297; Quod quid quae quas  &#12296;:columna IV&#12297; Rum quis  que dem  &#12296;:columna V&#12297; Con  les lis  mu&#7735;  &#12296;:columna VI&#12297; Mol ma me mae
+EDR140039,Quod,quod,qui,PR,q9410,,P7-,&#12296;:columna I&#12297; Branc broc trans nus  &#12296;:columna II&#12297; Nos= ter  tros  men   &#12296;:columna III&#12297; Quod quid quae quas  &#12296;:columna IV&#12297; Rum quis  que dem  &#12296;:columna V&#12297; Con  les lis  mu&#7735;  &#12296;:columna VI&#12297; Mol ma me mae
+EDR140039,quas,quas,qui,PR,q9410,,P7-,&#12296;:columna I&#12297; Branc broc trans nus  &#12296;:columna II&#12297; Nos= ter  tros  men   &#12296;:columna III&#12297; Quod quid quae quas  &#12296;:columna IV&#12297; Rum quis  que dem  &#12296;:columna V&#12297; Con  les lis  mu&#7735;  &#12296;:columna VI&#12297; Mol ma me mae
+EDR140039,quae,quae,quis,PR,q0198,,P4-,&#12296;:columna I&#12297; Branc broc trans nus  &#12296;:columna II&#12297; Nos= ter  tros  men   &#12296;:columna III&#12297; Quod quid quae quas  &#12296;:columna IV&#12297; Rum quis  que dem  &#12296;:columna V&#12297; Con  les lis  mu&#7735;  &#12296;:columna VI&#12297; Mol ma me mae
+EDR140039,quae,quae,qui,PR,q9410,,P7-,&#12296;:columna I&#12297; Branc broc trans nus  &#12296;:columna II&#12297; Nos= ter  tros  men   &#12296;:columna III&#12297; Quod quid quae quas  &#12296;:columna IV&#12297; Rum quis  que dem  &#12296;:columna V&#12297; Con  les lis  mu&#7735;  &#12296;:columna VI&#12297; Mol ma me mae
+EDR140039,quis,quis,quis,PR,q0198,,P4-,&#12296;:columna I&#12297; Branc broc trans nus  &#12296;:columna II&#12297; Nos= ter  tros  men   &#12296;:columna III&#12297; Quod quid quae quas  &#12296;:columna IV&#12297; Rum quis  que dem  &#12296;:columna V&#12297; Con  les lis  mu&#7735;  &#12296;:columna VI&#12297; Mol ma me mae
+EDR140039,quis,quis,qui,PR,q9410,,P7-,&#12296;:columna I&#12297; Branc broc trans nus  &#12296;:columna II&#12297; Nos= ter  tros  men   &#12296;:columna III&#12297; Quod quid quae quas  &#12296;:columna IV&#12297; Rum quis  que dem  &#12296;:columna V&#12297; Con  les lis  mu&#7735;  &#12296;:columna VI&#12297; Mol ma me mae
+EDR140039,quis,quis,queo,VA,q0178,,VmN,&#12296;:columna I&#12297; Branc broc trans nus  &#12296;:columna II&#12297; Nos= ter  tros  men   &#12296;:columna III&#12297; Quod quid quae quas  &#12296;:columna IV&#12297; Rum quis  que dem  &#12296;:columna V&#12297; Con  les lis  mu&#7735;  &#12296;:columna VI&#12297; Mol ma me mae
+EDR140039,Rum,rum,rhus,N4,r0694,2,NcD,&#12296;:columna I&#12297; Branc broc trans nus  &#12296;:columna II&#12297; Nos= ter  tros  men   &#12296;:columna III&#12297; Quod quid quae quas  &#12296;:columna IV&#12297; Rum quis  que dem  &#12296;:columna V&#12297; Con  les lis  mu&#7735;  &#12296;:columna VI&#12297; Mol ma me mae
+EDR140039,dem,dem,do,V1,d2066,,VmF,&#12296;:columna I&#12297; Branc broc trans nus  &#12296;:columna II&#12297; Nos= ter  tros  men   &#12296;:columna III&#12297; Quod quid quae quas  &#12296;:columna IV&#12297; Rum quis  que dem  &#12296;:columna V&#12297; Con  les lis  mu&#7735;  &#12296;:columna VI&#12297; Mol ma me mae
+EDR140039,que,que,q,I,q0001,,X--,&#12296;:columna I&#12297; Branc broc trans nus  &#12296;:columna II&#12297; Nos= ter  tros  men   &#12296;:columna III&#12297; Quod quid quae quas  &#12296;:columna IV&#12297; Rum quis  que dem  &#12296;:columna V&#12297; Con  les lis  mu&#7735;  &#12296;:columna VI&#12297; Mol ma me mae
+EDR140039,les,les,leo,V2,l0550,,VmG,&#12296;:columna I&#12297; Branc broc trans nus  &#12296;:columna II&#12297; Nos= ter  tros  men   &#12296;:columna III&#12297; Quod quid quae quas  &#12296;:columna IV&#12297; Rum quis  que dem  &#12296;:columna V&#12297; Con  les lis  mu&#7735;  &#12296;:columna VI&#12297; Mol ma me mae
+EDR140039,Con,con,cum,I,c4579,,X--,&#12296;:columna I&#12297; Branc broc trans nus  &#12296;:columna II&#12297; Nos= ter  tros  men   &#12296;:columna III&#12297; Quod quid quae quas  &#12296;:columna IV&#12297; Rum quis  que dem  &#12296;:columna V&#12297; Con  les lis  mu&#7735;  &#12296;:columna VI&#12297; Mol ma me mae
+EDR140039,lis,lis,lis,N3B,l0895,f,NcC,&#12296;:columna I&#12297; Branc broc trans nus  &#12296;:columna II&#12297; Nos= ter  tros  men   &#12296;:columna III&#12297; Quod quid quae quas  &#12296;:columna IV&#12297; Rum quis  que dem  &#12296;:columna V&#12297; Con  les lis  mu&#7735;  &#12296;:columna VI&#12297; Mol ma me mae
+EDR150399,Luci,luci,lux,N3B,l1250,f,NcC,L(uci) Aviani votus (:votum)
+EDR150399,Luci,luci,lucius,N2,l1100,m,NcB,L(uci) Aviani votus (:votum)
+EDR150399,Luci,luci,lucus,N2,l1140,m,NcB,L(uci) Aviani votus (:votum)
+EDR150399,Luci,luci,lux,N3B,l1250,f,NcC,L(uci) Aviani votus (:votum)
+EDR150399,votum,uotum,uoueo,V2,u1227,,VmG,L(uci) Aviani votus (:votum)
+EDR150399,votum,uotum,uoueo,V2,u1227,,VmG,L(uci) Aviani votus (:votum)
+EDR150399,votum,uotum,uotum/-us,N2,u9882,1,NcB,L(uci) Aviani votus (:votum)
+EDR140206,Oceanus,oceanus,oceanus,N2,o9727,m,NcB,Ocaeanus (:Oceanus) &#969;
+EDR140141,centonem,centonem,cento,N3B,c1150,m,NcC,Centurio centonem non habet  cen(---?)
+EDR140141,Centurio,centurio,centurio,N3B,c1171,m,NcC,Centurio centonem non habet  cen(---?)
+EDR140141,Centurio,centurio,centurio,V1,c1169,,VmF,Centurio centonem non habet  cen(---?)
+EDR140141,habet,habet,habeo,V2,h0004,,VmG,Centurio centonem non habet  cen(---?)
+EDR140141,non,non,non,I,n9508,,X--,Centurio centonem non habet  cen(---?)
+EDR151877,redibis,redibis,redeo,VA,r1080,,VmN,Spedio Antymo [- - -] [redi?]bis e Pompeian[o] a Colono sa&#803;(lutem?)  est augusta&#818;l&#818;[is]
+EDR151877,Colono,colono,colonus,N2,c2497,m,NcB,Spedio Antymo [- - -] [redi?]bis e Pompeian[o] a Colono sa&#803;(lutem?)  est augusta&#818;l&#818;[is]
+EDR151877,est,est,sum,VA,s3436,,VaN,Spedio Antymo [- - -] [redi?]bis e Pompeian[o] a Colono sa&#803;(lutem?)  est augusta&#818;l&#818;[is]
+EDR151877,est,est,e'do,VA,e0094,,VmN,Spedio Antymo [- - -] [redi?]bis e Pompeian[o] a Colono sa&#803;(lutem?)  est augusta&#818;l&#818;[is]
+EDR151877,salutem,salutem,salus,N3B,s0233,f,NcC,Spedio Antymo [- - -] [redi?]bis e Pompeian[o] a Colono sa&#803;(lutem?)  est augusta&#818;l&#818;[is]
+EDR151877,salutem,salutem,saluto,V1,s0245,,VmF,Spedio Antymo [- - -] [redi?]bis e Pompeian[o] a Colono sa&#803;(lutem?)  est augusta&#818;l&#818;[is]
+EDR151890,salutem,salutem,salus,N3B,s0233,f,NcC,[- - -]cio s(alutem?) morieris Tomi. Feliciter
+EDR151890,salutem,salutem,saluto,V1,s0245,,VmF,[- - -]cio s(alutem?) morieris Tomi. Feliciter
+EDR151890,Tomi,tomi,tomus,N2,t0793,m,NcB,[- - -]cio s(alutem?) morieris Tomi. Feliciter
+EDR151890,morieris,morieris,morior/-io,V5,m1411,,VmM,[- - -]cio s(alutem?) morieris Tomi. Feliciter
+EDR140053,Paris,paris,par/-is,N3A,p0286,*,Af-,R&#818; P&#818;a&#818;r&#818;i&#818;s&#818; a&#818;mas&#818;
+EDR140053,Paris,paris,pario,V5,p0411,,VmM,R&#818; P&#818;a&#818;r&#818;i&#818;s&#818; a&#818;mas&#818;
+EDR140053,Paris,paris,parrus,N2,p0288,m,NcB,R&#818; P&#818;a&#818;r&#818;i&#818;s&#818; a&#818;mas&#818;
+EDR152964,Augustas,augustas,augusto,V1,a3491,,VmF,K(alendas) Aug&#803;(ustas) Nonas&#803; A&#818;p&#818;r&#818;(ilis) At&#818;i&#818;n&#818;a&#818;s&#818;
+EDR152964,Augustas,augustas,augustus,N2/1,a3492,*,Af-,K(alendas) Aug&#803;(ustas) Nonas&#803; A&#818;p&#818;r&#818;(ilis) At&#818;i&#818;n&#818;a&#818;s&#818;
+EDR152964,Kalendas,kalendas,kalendae,N1,k0002,f,NcA,K(alendas) Aug&#803;(ustas) Nonas&#803; A&#818;p&#818;r&#818;(ilis) At&#818;i&#818;n&#818;a&#818;s&#818;
+EDR152964,Nonas,nonas,nonus,N2/1,n0145,*,Ao-,K(alendas) Aug&#803;(ustas) Nonas&#803; A&#818;p&#818;r&#818;(ilis) At&#818;i&#818;n&#818;a&#818;s&#818;
+EDR152964,Nonas,nonas,nona,N1,n0177,f,NcA,K(alendas) Aug&#803;(ustas) Nonas&#803; A&#818;p&#818;r&#818;(ilis) At&#818;i&#818;n&#818;a&#818;s&#818;
+EDR154569,et,et,et,I,e0997,,X--,Casium et tres sc[- - -]rios habes
+EDR154569,tres,tres,tres/-is,N3A,t1158,*,An-,Casium et tres sc[- - -]rios habes
+EDR153355,Qui,qui,queo,VA,q0178,,VmN,Qui · se tutari · nescit · nescit · vivere Minimum · malu (:malum) · fit contemnendo · maximum
+EDR153355,Qui,qui,quis,PR,q0198,,P4-,Qui · se tutari · nescit · nescit · vivere Minimum · malu (:malum) · fit contemnendo · maximum
+EDR153355,Qui,qui,qui,PR,q9410,,P7-,Qui · se tutari · nescit · nescit · vivere Minimum · malu (:malum) · fit contemnendo · maximum
+EDR153355,tutari,tutari,tutor/-o,V1,t1843,,VmF,Qui · se tutari · nescit · nescit · vivere Minimum · malu (:malum) · fit contemnendo · maximum
+EDR153355,nescit,nescit,nescio,V4,n0249,,VmL,Qui · se tutari · nescit · nescit · vivere Minimum · malu (:malum) · fit contemnendo · maximum
+EDR153355,nescit,nescit,nescio,V4,n0249,,VmL,Qui · se tutari · nescit · nescit · vivere Minimum · malu (:malum) · fit contemnendo · maximum
+EDR153355,vivere,uiuere,uiuo,V3,u0913,,VmH,Qui · se tutari · nescit · nescit · vivere Minimum · malu (:malum) · fit contemnendo · maximum
+EDR153355,Minimum,minimum,minimus,N2/1,m1031,*,Af-,Qui · se tutari · nescit · nescit · vivere Minimum · malu (:malum) · fit contemnendo · maximum
+EDR153355,malum,malum,malis,N3B,m0192,f,NcC,Qui · se tutari · nescit · nescit · vivere Minimum · malu (:malum) · fit contemnendo · maximum
+EDR153355,malum,malum,malus,N2/1,m0216,*,Af-,Qui · se tutari · nescit · nescit · vivere Minimum · malu (:malum) · fit contemnendo · maximum
+EDR153355,malum,malum,ma'lum,N2,m0216,n,NcB,Qui · se tutari · nescit · nescit · vivere Minimum · malu (:malum) · fit contemnendo · maximum
+EDR153355,malum,malum,malus,N2,m0218,m,NcB,Qui · se tutari · nescit · nescit · vivere Minimum · malu (:malum) · fit contemnendo · maximum
+EDR153355,malum,malum,ma"lum,N2,m0218,n,NcB,Qui · se tutari · nescit · nescit · vivere Minimum · malu (:malum) · fit contemnendo · maximum
+EDR153355,malum,malum,malus,N2,m0219,f,NcB,Qui · se tutari · nescit · nescit · vivere Minimum · malu (:malum) · fit contemnendo · maximum
+EDR153355,fit,fit,fio,VA,f0557,,VmN,Qui · se tutari · nescit · nescit · vivere Minimum · malu (:malum) · fit contemnendo · maximum
+EDR153355,contemnendo,contemnendo,contemno,V3,c3690,,VmH,Qui · se tutari · nescit · nescit · vivere Minimum · malu (:malum) · fit contemnendo · maximum
+EDR153355,contemnendo,contemnendo,contemno,V3,c3690,,VmH,Qui · se tutari · nescit · nescit · vivere Minimum · malu (:malum) · fit contemnendo · maximum
+EDR154533,Paris,paris,par/-is,N3A,p0286,*,Af-,Anicete Paris va(lete)
+EDR154533,Paris,paris,pario,V5,p0411,,VmM,Anicete Paris va(lete)
+EDR154533,Paris,paris,parrus,N2,p0288,m,NcB,Anicete Paris va(lete)
+EDR154533,Anicete,anicete,anicetus,N2/1,a2020,*,Af-,Anicete Paris va(lete)
+EDR154500,vale,uale,ualeo,V2,u0050,,VmG,Maior va(le) Maior va(le) OMCA VIII
+EDR154500,Maior,maior,maior,N3A,m0139,*,Af-,Maior va(le) Maior va(le) OMCA VIII
+EDR154500,vale,uale,ualeo,V2,u0050,,VmG,Maior va(le) Maior va(le) OMCA VIII
+EDR154500,Maior,maior,maior,N3A,m0139,*,Af-,Maior va(le) Maior va(le) OMCA VIII
+EDR154185,cubicularius,cubicularius,cubicularius,N2/1,c4483,*,Af-,Apelles cubicularius cum Dextro Caesar(is) pranderunt hic iucundissime et future simul.
+EDR154185,cubicularius,cubicularius,cubicularis,N3A,c7325,*,Af-,Apelles cubicularius cum Dextro Caesar(is) pranderunt hic iucundissime et future simul.
+EDR154185,cubicularius,cubicularius,cubicularius,N2/1,c4483,*,Af-,Apelles cubicularius cum Dextro Caesar(is) pranderunt hic iucundissime et future simul.
+EDR154185,cubicularius,cubicularius,cubicularius,N2,c7326,m,NcB,Apelles cubicularius cum Dextro Caesar(is) pranderunt hic iucundissime et future simul.
+EDR154185,Apelles,apelles,apello,V3,a2317,,VmH,Apelles cubicularius cum Dextro Caesar(is) pranderunt hic iucundissime et future simul.
+EDR154185,Dextro,dextro,dexter,N2/1,d0000,*,Af-,Apelles cubicularius cum Dextro Caesar(is) pranderunt hic iucundissime et future simul.
+EDR154185,cum,cum,cum,I,c4579,,X--,Apelles cubicularius cum Dextro Caesar(is) pranderunt hic iucundissime et future simul.
+EDR154185,cum,cum,cum,I,c4584,,X--,Apelles cubicularius cum Dextro Caesar(is) pranderunt hic iucundissime et future simul.
+EDR154185,pranderunt,pranderunt,prandeo,V2,p3461,,VmG,Apelles cubicularius cum Dextro Caesar(is) pranderunt hic iucundissime et future simul.
+EDR154185,iucundissime,iucundissime,iucundus,N2/1,i2989,*,Af-,Apelles cubicularius cum Dextro Caesar(is) pranderunt hic iucundissime et future simul.
+EDR154185,hic,hic,hic,PR,h0360,,Py-,Apelles cubicularius cum Dextro Caesar(is) pranderunt hic iucundissime et future simul.
+EDR154185,future,future,sum,VA,s3436,,VaN,Apelles cubicularius cum Dextro Caesar(is) pranderunt hic iucundissime et future simul.
+EDR154185,et,et,et,I,e0997,,X--,Apelles cubicularius cum Dextro Caesar(is) pranderunt hic iucundissime et future simul.
+EDR154190,Mortuus,mortuus,morior/-io,V5,m1411,,VmM,Mortus (:Mortuus) Sumpo(rus) (:Symphorus)
+EDR151886,Sacomata,sacomata,sacoma,N3B,s0049,n,NcC,Saco(mata?) XX
+EDR153850,Semis,semis,semis,N3B,s1133,m,NcC,S(emis) C Y ((mille)) S(emis) S(emis)
+EDR153850,Semis,semis,semus,N2/1,s8195,*,Af-,S(emis) C Y ((mille)) S(emis) S(emis)
+EDR153850,mille,mille,mille,N,m0992,,AnP,S(emis) C Y ((mille)) S(emis) S(emis)
+EDR153850,mille,mille,mille,N,m0992,,NnP,S(emis) C Y ((mille)) S(emis) S(emis)
+EDR153850,mille,mille,millus,N2,m0663,m,NcB,S(emis) C Y ((mille)) S(emis) S(emis)
+EDR153850,Semis,semis,semis,N3B,s1133,m,NcC,S(emis) C Y ((mille)) S(emis) S(emis)
+EDR153850,Semis,semis,semus,N2/1,s8195,*,Af-,S(emis) C Y ((mille)) S(emis) S(emis)
+EDR154433,pedica,pedica,paedico,V1,p0041,,VmF,Vitalio p&#818;e&#818;dica ut comatus&#818; Urosacula&#818; Suu&#818;r&#818;us (:Syrus?) Fo&#818;l&#818;i&#818;a&#818;t&#818;u&#818;s&#818;
+EDR154433,pedica,pedica,pedica,N1,p0711,f,NcA,Vitalio p&#818;e&#818;dica ut comatus&#818; Urosacula&#818; Suu&#818;r&#818;us (:Syrus?) Fo&#818;l&#818;i&#818;a&#818;t&#818;u&#818;s&#818;
+EDR154433,pedica,pedica,pedicus,N2/1,p9708,*,Af-,Vitalio p&#818;e&#818;dica ut comatus&#818; Urosacula&#818; Suu&#818;r&#818;us (:Syrus?) Fo&#818;l&#818;i&#818;a&#818;t&#818;u&#818;s&#818;
+EDR154433,comatus,comatus,como,V1,c2758,,VmF,Vitalio p&#818;e&#818;dica ut comatus&#818; Urosacula&#818; Suu&#818;r&#818;us (:Syrus?) Fo&#818;l&#818;i&#818;a&#818;t&#818;u&#818;s&#818;
+EDR140980,mita,mita,mitto,V3,m1143,,VmH,Quam mita (?) vis (?) · Pastores ateque (:atque) · Caste monit erga pugiles (?).
+EDR140980,Quam,quam,qui,PR,q9410,,P7-,Quam mita (?) vis (?) · Pastores ateque (:atque) · Caste monit erga pugiles (?).
+EDR140980,vis,uis,uis,N3B,u0804,,NcC,Quam mita (?) vis (?) · Pastores ateque (:atque) · Caste monit erga pugiles (?).
+EDR140980,vis,uis,uolo,VA,u1167,,VmN,Quam mita (?) vis (?) · Pastores ateque (:atque) · Caste monit erga pugiles (?).
+EDR140980,atque,atque,atque,I,a3301,,X--,Quam mita (?) vis (?) · Pastores ateque (:atque) · Caste monit erga pugiles (?).
+EDR140980,atque,atque,ad,I,a0479,,X--,Quam mita (?) vis (?) · Pastores ateque (:atque) · Caste monit erga pugiles (?).
+EDR140980,atque,atque,at,I,a0547,,X--,Quam mita (?) vis (?) · Pastores ateque (:atque) · Caste monit erga pugiles (?).
+EDR140980,Pastores,pastores,pastor,N3B,p0534,m,NcC,Quam mita (?) vis (?) · Pastores ateque (:atque) · Caste monit erga pugiles (?).
+EDR140980,Caste,caste,castus,N2/1,c0798,*,Af-,Quam mita (?) vis (?) · Pastores ateque (:atque) · Caste monit erga pugiles (?).
+EDR140980,erga,erga,erga,I,e0866,,X--,Quam mita (?) vis (?) · Pastores ateque (:atque) · Caste monit erga pugiles (?).
+EDR154539,Florus,florus,florus,N2/1,f0702,*,Af-,Vin(icius?) Florus Paris C(aius) Messenius
+EDR154539,Paris,paris,par/-is,N3A,p0286,*,Af-,Vin(icius?) Florus Paris C(aius) Messenius
+EDR154539,Paris,paris,pario,V5,p0411,,VmM,Vin(icius?) Florus Paris C(aius) Messenius
+EDR154539,Paris,paris,parrus,N2,p0288,m,NcB,Vin(icius?) Florus Paris C(aius) Messenius
+EDR156998,Mortuus,mortuus,morior/-io,V5,m1411,,VmM,Mortus (:Mortuus) Ercolanius (:Hercolanius)
+EDR151831,hic,hic,hic,PR,h0360,,Py-,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,Quaesivi,quaesiui,quaero,V3,q0096,,VmH,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,Quaesivi,quaesiui,quaeso,V3,q0099,,VmH,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,facias,facias,facia,N1,f0043,f,NcA,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,facias,facias,facio,V5,f0048,,VmM,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,omnes,omnes,omnis,N3A,o0723,*,Au-,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,serva,serua,seruo,V1,s1428,,VmF,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,serva,serua,serua,N1,s1432,f,NcA,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,serva,serua,seruus,N2/1,s1432,*,Af-,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,tuas,tuas,tuus/-os,PR,t1849,*,Ps-,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,quem,quem,quis,PR,q0198,,P4-,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,quem,quem,qui,PR,q9410,,P7-,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,noli,noli,nolo,VA,n0489,,VmN,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,iunge,iunge,iungo,V3,i3044,,VmH,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,iunge,iunge,iynx,N3B,i3115,f,NcC,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,nobis,nobis,nos,PR,n0773,,Pq-,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,servabo,seruabo,seruo,V1,s1428,,VmF,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,neque,neque,neque,I,n9758,,X--,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,neque,neque,ne,I,n0130,,X--,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,neque,neque,ne,I,n0131,,X--,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,neque,neque,neo,V2,n0211,,VmG,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,quis,quis,quis,PR,q0198,,P4-,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,quis,quis,qui,PR,q9410,,P7-,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,quis,quis,queo,VA,q0178,,VmN,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR151831,luminum,luminum,lumen,N3B,l1176,n,NcC,Qu[aesi]vi hic facias re[s s]erva omnes res tuas [- - -] quem nol[i - - -] nobi[s iun]ge neque servabo ne q[ui]s ius lum(inum) salvum  
+EDR140217,ovas,ouas,ouo,V1,o1167,,VmF,ovas EVCL E VA M X P vectat
+EDR140978,Ater,ater,ater,N2/1,a6288,*,Af-,Vivaniu&#818;s&#803; At&#803;er u&#803;b&#803;i&#803;que
+EDR140248,Caves,caues,caueo,V2,c0949,,VmG,Caves Timinia Iures
+EDR140248,Caves,caues,cauo,V1,c0980,,VmF,Caves Timinia Iures
+EDR140213,sint,sint,sum,VA,s3436,,VaN,Cereales sint Cums (:Cumis) 
+EDR140213,Cumis,cumis,cyma,N1,c4795,f,NcA,Cereales sint Cums (:Cumis) 
+EDR140139,Salvia,saluia,saluia,N1,s0226,f,NcA,Salvia Superba
+EDR159778,Misit,misit,mitto,V3,m1143,,VmH,Misit &#12296;:vacat&#12297; iter(um?) agnas s o sim&#803;plex cima nempius
+EDR159778,agnas,agnas,agna,N1,a1182,f,NcA,Misit &#12296;:vacat&#12297; iter(um?) agnas s o sim&#803;plex cima nempius
+EDR159778,agnas,agnas,agna,N1,a1207,f,NcA,Misit &#12296;:vacat&#12297; iter(um?) agnas s o sim&#803;plex cima nempius
+EDR159778,simplex,simplex,simplex,N3A,s1698,*,Af-,Misit &#12296;:vacat&#12297; iter(um?) agnas s o sim&#803;plex cima nempius
+EDR140188,Kalendas,kalendas,kalendae,N1,k0002,f,NcA,VIII K(alendas) Martias Numisii Genialis gladiatorum paria X Herculani
+EDR140188,gladiatorum,gladiatorum,gladiator,N3B,g0324,m,NcC,VIII K(alendas) Martias Numisii Genialis gladiatorum paria X Herculani
+EDR140188,gladiatorum,gladiatorum,gladiatus,N2/1,g0329,*,Af-,VIII K(alendas) Martias Numisii Genialis gladiatorum paria X Herculani
+EDR140188,Genialis,genialis,genialis,N3A,g0183,*,Af-,VIII K(alendas) Martias Numisii Genialis gladiatorum paria X Herculani
+EDR140188,paria,paria,parias,N1,p0374,m,NcA,VIII K(alendas) Martias Numisii Genialis gladiatorum paria X Herculani
+EDR140188,paria,paria,pario,V1,p0410,,VmF,VIII K(alendas) Martias Numisii Genialis gladiatorum paria X Herculani
+EDR140188,paria,paria,par/-is,N3A,p0286,*,Af-,VIII K(alendas) Martias Numisii Genialis gladiatorum paria X Herculani
+EDR140983,Fortunatus,fortunatus,fortuno,V1,f0898,,VmF,Fo&#818;rtunatus · amat · Ampl&#818;i&#818;a&#818;nda (:Ampliandam). Ianuarius · amat · Veneria (:Veneriam). Rogamus · damna (:domina) · Venus ut · nos · in · mente · h&#818;a&#818;bias (:habeas) quod te · modo · introrgamus (:interrogamus)
+EDR140983,amat,amat,amo,V1,a1705,,VmF,Fo&#818;rtunatus · amat · Ampl&#818;i&#818;a&#818;nda (:Ampliandam). Ianuarius · amat · Veneria (:Veneriam). Rogamus · damna (:domina) · Venus ut · nos · in · mente · h&#818;a&#818;bias (:habeas) quod te · modo · introrgamus (:interrogamus)
+EDR140983,Ampliandam,ampliandam,amplio,V1,a1774,,VmF,Fo&#818;rtunatus · amat · Ampl&#818;i&#818;a&#818;nda (:Ampliandam). Ianuarius · amat · Veneria (:Veneriam). Rogamus · damna (:domina) · Venus ut · nos · in · mente · h&#818;a&#818;bias (:habeas) quod te · modo · introrgamus (:interrogamus)
+EDR140983,amat,amat,amo,V1,a1705,,VmF,Fo&#818;rtunatus · amat · Ampl&#818;i&#818;a&#818;nda (:Ampliandam). Ianuarius · amat · Veneria (:Veneriam). Rogamus · damna (:domina) · Venus ut · nos · in · mente · h&#818;a&#818;bias (:habeas) quod te · modo · introrgamus (:interrogamus)
+EDR140983,Rogamus,rogamus,rogo,V1,r1472,,VmF,Fo&#818;rtunatus · amat · Ampl&#818;i&#818;a&#818;nda (:Ampliandam). Ianuarius · amat · Veneria (:Veneriam). Rogamus · damna (:domina) · Venus ut · nos · in · mente · h&#818;a&#818;bias (:habeas) quod te · modo · introrgamus (:interrogamus)
+EDR140983,domina,domina,domina,N1,d0165,f,NcA,Fo&#818;rtunatus · amat · Ampl&#818;i&#818;a&#818;nda (:Ampliandam). Ianuarius · amat · Veneria (:Veneriam). Rogamus · damna (:domina) · Venus ut · nos · in · mente · h&#818;a&#818;bias (:habeas) quod te · modo · introrgamus (:interrogamus)
+EDR140983,domina,domina,domino,V1,d1471,,VmF,Fo&#818;rtunatus · amat · Ampl&#818;i&#818;a&#818;nda (:Ampliandam). Ianuarius · amat · Veneria (:Veneriam). Rogamus · damna (:domina) · Venus ut · nos · in · mente · h&#818;a&#818;bias (:habeas) quod te · modo · introrgamus (:interrogamus)
+EDR140983,Venus,uenus,uenus,N3B,u0331,f,NcC,Fo&#818;rtunatus · amat · Ampl&#818;i&#818;a&#818;nda (:Ampliandam). Ianuarius · amat · Veneria (:Veneriam). Rogamus · damna (:domina) · Venus ut · nos · in · mente · h&#818;a&#818;bias (:habeas) quod te · modo · introrgamus (:interrogamus)
+EDR140983,Venus,uenus,uenus,N4,u0470,f,NcD,Fo&#818;rtunatus · amat · Ampl&#818;i&#818;a&#818;nda (:Ampliandam). Ianuarius · amat · Veneria (:Veneriam). Rogamus · damna (:domina) · Venus ut · nos · in · mente · h&#818;a&#818;bias (:habeas) quod te · modo · introrgamus (:interrogamus)
+EDR140983,Venus,uenus,uenus,N2,u0396,f,NcB,Fo&#818;rtunatus · amat · Ampl&#818;i&#818;a&#818;nda (:Ampliandam). Ianuarius · amat · Veneria (:Veneriam). Rogamus · damna (:domina) · Venus ut · nos · in · mente · h&#818;a&#818;bias (:habeas) quod te · modo · introrgamus (:interrogamus)
+EDR140983,nos,nos,nos,PR,n0773,,Pq-,Fo&#818;rtunatus · amat · Ampl&#818;i&#818;a&#818;nda (:Ampliandam). Ianuarius · amat · Veneria (:Veneriam). Rogamus · damna (:domina) · Venus ut · nos · in · mente · h&#818;a&#818;bias (:habeas) quod te · modo · introrgamus (:interrogamus)
+EDR140983,mente,mente,mens,N3B,m0733,f,NcC,Fo&#818;rtunatus · amat · Ampl&#818;i&#818;a&#818;nda (:Ampliandam). Ianuarius · amat · Veneria (:Veneriam). Rogamus · damna (:domina) · Venus ut · nos · in · mente · h&#818;a&#818;bias (:habeas) quod te · modo · introrgamus (:interrogamus)
+EDR140983,mente,mente,miniscor,V3,m1033,,VmH,Fo&#818;rtunatus · amat · Ampl&#818;i&#818;a&#818;nda (:Ampliandam). Ianuarius · amat · Veneria (:Veneriam). Rogamus · damna (:domina) · Venus ut · nos · in · mente · h&#818;a&#818;bias (:habeas) quod te · modo · introrgamus (:interrogamus)
+EDR140983,habeas,habeas,habeo,V2,h0004,,VmG,Fo&#818;rtunatus · amat · Ampl&#818;i&#818;a&#818;nda (:Ampliandam). Ianuarius · amat · Veneria (:Veneriam). Rogamus · damna (:domina) · Venus ut · nos · in · mente · h&#818;a&#818;bias (:habeas) quod te · modo · introrgamus (:interrogamus)
+EDR140983,quod,quod,qui,PR,q9410,,P7-,Fo&#818;rtunatus · amat · Ampl&#818;i&#818;a&#818;nda (:Ampliandam). Ianuarius · amat · Veneria (:Veneriam). Rogamus · damna (:domina) · Venus ut · nos · in · mente · h&#818;a&#818;bias (:habeas) quod te · modo · introrgamus (:interrogamus)
+EDR140983,modo,modo,modo,I,m9610,,X--,Fo&#818;rtunatus · amat · Ampl&#818;i&#818;a&#818;nda (:Ampliandam). Ianuarius · amat · Veneria (:Veneriam). Rogamus · damna (:domina) · Venus ut · nos · in · mente · h&#818;a&#818;bias (:habeas) quod te · modo · introrgamus (:interrogamus)
+EDR140983,modo,modo,modus,N2,m1190,m,NcB,Fo&#818;rtunatus · amat · Ampl&#818;i&#818;a&#818;nda (:Ampliandam). Ianuarius · amat · Veneria (:Veneriam). Rogamus · damna (:domina) · Venus ut · nos · in · mente · h&#818;a&#818;bias (:habeas) quod te · modo · introrgamus (:interrogamus)
+EDR140983,interrogamus,interrogamus,interrogo,V1,i2476,,VmF,Fo&#818;rtunatus · amat · Ampl&#818;i&#818;a&#818;nda (:Ampliandam). Ianuarius · amat · Veneria (:Veneriam). Rogamus · damna (:domina) · Venus ut · nos · in · mente · h&#818;a&#818;bias (:habeas) quod te · modo · introrgamus (:interrogamus)
+EDR151822,habitat,habitat,habito,V1,h0015,,VmF,Vasileus habitat Putelis (:Puteolis) in castris August[i - - -] su(b) Valeri[o - - -]
+EDR151822,castris,castris,castrum/-us,N2,c0787,1,NcB,Vasileus habitat Putelis (:Puteolis) in castris August[i - - -] su(b) Valeri[o - - -]
+EDR151822,castris,castris,castra,N1,c0787,f,NcA,Vasileus habitat Putelis (:Puteolis) in castris August[i - - -] su(b) Valeri[o - - -]
+EDR151822,Augusti,augusti,augustus,N2/1,a3492,*,Af-,Vasileus habitat Putelis (:Puteolis) in castris August[i - - -] su(b) Valeri[o - - -]
+EDR151822,sub,sub,sub,I,s2719,,X--,Vasileus habitat Putelis (:Puteolis) in castris August[i - - -] su(b) Valeri[o - - -]
+EDR140046,Colono,colono,colonus,N2,c2497,m,NcB,Col= ((denarius)) ono (:Colono)
+EDR152815,Rare,rare,rarus,N2/1,r0082,*,Af-,&#12296;:ad perpendiculum&#12297; Rare lali omnes a
+EDR152815,omnes,omnes,omnis,N3A,o0723,*,Au-,&#12296;:ad perpendiculum&#12297; Rare lali omnes a
+EDR154576,trama,trama,trama,N1,t0962,f,NcA,[+1?+]anthi trama p(ondo) IX stame(n) p(ondo) VII VIII
+EDR154576,pondo,pondo,pondo,I,p2558,,X--,[+1?+]anthi trama p(ondo) IX stame(n) p(ondo) VII VIII
+EDR154576,pondo,pondo,pondo,I,p2558,,X--,[+1?+]anthi trama p(ondo) IX stame(n) p(ondo) VII VIII
+EDR154576,stamen,stamen,stamen,N3B,s2370,n,NcC,[+1?+]anthi trama p(ondo) IX stame(n) p(ondo) VII VIII
+EDR151818,solus,solus,solus,N2/1,s1947,*,Af-,M&#770;ansi solus x (:ex) s(enatus) c(onsulto)
+EDR151818,Mansi,mansi,mando/-or,V3,m0261,,VmH,M&#770;ansi solus x (:ex) s(enatus) c(onsulto)
+EDR151818,Mansi,mansi,maneo,V2,m0273,,VmG,M&#770;ansi solus x (:ex) s(enatus) c(onsulto)
+EDR151818,Mansi,mansi,maneo,V2,m0273,,VmG,M&#770;ansi solus x (:ex) s(enatus) c(onsulto)
+EDR151818,senatus,senatus,senatus,N4,s1202,m,NcD,M&#770;ansi solus x (:ex) s(enatus) c(onsulto)
+EDR154535,Acti,acti,ago,V3,a1208,,VmH,L(uci) Acti va(le).  Mystice  mus comici Icui &#12296;:vacat&#12297; pro &#12296;:vacat&#12297; te fuimus.
+EDR154535,Acti,acti,actum,N2,a9991,n,NcB,L(uci) Acti va(le).  Mystice  mus comici Icui &#12296;:vacat&#12297; pro &#12296;:vacat&#12297; te fuimus.
+EDR154535,Luci,luci,lux,N3B,l1250,f,NcC,L(uci) Acti va(le).  Mystice  mus comici Icui &#12296;:vacat&#12297; pro &#12296;:vacat&#12297; te fuimus.
+EDR154535,Luci,luci,lucius,N2,l1100,m,NcB,L(uci) Acti va(le).  Mystice  mus comici Icui &#12296;:vacat&#12297; pro &#12296;:vacat&#12297; te fuimus.
+EDR154535,Luci,luci,lucus,N2,l1140,m,NcB,L(uci) Acti va(le).  Mystice  mus comici Icui &#12296;:vacat&#12297; pro &#12296;:vacat&#12297; te fuimus.
+EDR154535,Luci,luci,lux,N3B,l1250,f,NcC,L(uci) Acti va(le).  Mystice  mus comici Icui &#12296;:vacat&#12297; pro &#12296;:vacat&#12297; te fuimus.
+EDR154535,Mystice,mystice,mysticus,N2/1,m1935,*,Af-,L(uci) Acti va(le).  Mystice  mus comici Icui &#12296;:vacat&#12297; pro &#12296;:vacat&#12297; te fuimus.
+EDR154535,vale,uale,ualeo,V2,u0050,,VmG,L(uci) Acti va(le).  Mystice  mus comici Icui &#12296;:vacat&#12297; pro &#12296;:vacat&#12297; te fuimus.
+EDR154535,comici,comici,comicus,N2,c2577,m,NcB,L(uci) Acti va(le).  Mystice  mus comici Icui &#12296;:vacat&#12297; pro &#12296;:vacat&#12297; te fuimus.
+EDR154535,comici,comici,comicus,N2/1,c2577,*,Af-,L(uci) Acti va(le).  Mystice  mus comici Icui &#12296;:vacat&#12297; pro &#12296;:vacat&#12297; te fuimus.
+EDR154535,pro,pro,pro,I,p3593,,X--,L(uci) Acti va(le).  Mystice  mus comici Icui &#12296;:vacat&#12297; pro &#12296;:vacat&#12297; te fuimus.
+EDR154535,pro,pro,pro,I,p2610,,X--,L(uci) Acti va(le).  Mystice  mus comici Icui &#12296;:vacat&#12297; pro &#12296;:vacat&#12297; te fuimus.
+EDR154574,nonas,nonas,nonus,N2/1,n0145,*,Ao-,III non(as) M&#770;a&#770;i(as) VII idus paeriit (:periit)
+EDR154574,nonas,nonas,nona,N1,n0177,f,NcA,III non(as) M&#770;a&#770;i(as) VII idus paeriit (:periit)
+EDR154574,Maias,maias,maea,N1,m0070,f,NcA,III non(as) M&#770;a&#770;i(as) VII idus paeriit (:periit)
+EDR154574,periit,periit,pereo,VA,p1081,,VmN,III non(as) M&#770;a&#770;i(as) VII idus paeriit (:periit)
+EDR154574,idus,idus,idus,N4,i9914,f,NcD,III non(as) M&#770;a&#770;i(as) VII idus paeriit (:periit)
+EDR152930,deliciae,deliciae,delicia,N1,d0549,f,NcA,[deli?]ciae [---]si tangere possem [---]entur aquas
+EDR152930,deliciae,deliciae,delicia,N1,d0550,f,NcA,[deli?]ciae [---]si tangere possem [---]entur aquas
+EDR152930,possem,possem,possum,VA,p2697,,VmN,[deli?]ciae [---]si tangere possem [---]entur aquas
+EDR152930,tangere,tangere,tango,V3,t0096,,VmH,[deli?]ciae [---]si tangere possem [---]entur aquas
+EDR151868,Aquaria,aquaria,aquarius,N2/1,a1289,*,Af-,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,Aquaria,aquaria,aquarium,N2,a1316,n,NcB,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,basis,basis,basis,N3B,b0170,f,NcC,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,basis,basis,basis,N3B,b0170,f,NcC,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,basis,basis,basium,N2,b0171,n,NcB,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,basis,basis,basus,N2/1,b0177,*,Af-,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,cum,cum,cum,I,c4579,,X--,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,cum,cum,cum,I,c4584,,X--,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,manus,manus,manus,N4,m0362,f,NcD,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,manus,manus,manus,N2/1,m0363,*,Af-,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,basis,basis,basis,N3B,b0170,f,NcC,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,basis,basis,basis,N3B,b0170,f,NcC,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,basis,basis,basium,N2,b0171,n,NcB,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,basis,basis,basus,N2/1,b0177,*,Af-,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,cum,cum,cum,I,c4579,,X--,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,cum,cum,cum,I,c4584,,X--,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,duas,duas,duas,N3B,d2253,f,NcC,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,duas,duas,dyas,N3B,d2410,f,NcC,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,duas,duas,do,V1,d2066,,VmF,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,duas,duas,duo,N2/1,d2327,*,An-,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,Hamas,hamas,hamo,V1,h0097,,VmF,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,Hamas,hamas,hama,N1,h0081,f,NcA,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,basis,basis,basis,N3B,b0170,f,NcC,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,basis,basis,basis,N3B,b0170,f,NcC,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,basis,basis,basium,N2,b0171,n,NcB,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,basis,basis,basus,N2/1,b0177,*,Af-,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,cum,cum,cum,I,c4579,,X--,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,cum,cum,cum,I,c4584,,X--,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,Aquaria,aquaria,aquarius,N2/1,a1289,*,Af-,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,Aquaria,aquaria,aquarium,N2,a1316,n,NcB,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,manus,manus,manus,N4,m0362,f,NcD,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,manus,manus,manus,N2/1,m0363,*,Af-,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,basis,basis,basis,N3B,b0170,f,NcC,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,basis,basis,basis,N3B,b0170,f,NcC,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,basis,basis,basium,N2,b0171,n,NcB,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,basis,basis,basus,N2/1,b0177,*,Af-,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,cum,cum,cum,I,c4579,,X--,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,cum,cum,cum,I,c4584,,X--,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,urceolos,urceolos,urceolus,N2,u1412,m,NcB,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,Candelabra,candelabra,candelabrum,N2,c0385,n,NcB,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,quattuor,quattuor,quattuor,N,q0166,,AnP,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,lucubratorium,lucubratorium,lucubratorius,N2/1,l1130,*,Af-,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,et,et,et,I,e0997,,X--,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,Lucernam,lucernam,lucerna,N1,l1076,f,NcA,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,unum,unum,unus,N2/1,u1136,*,An-,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,Hamulam,hamulam,hamula,N1,h0099,f,NcA,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,aeneam,aeneam,aeneus,N2/1,a2286,*,Af-,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,Pelvis,peluis,peluis,N3B,p0778,f,NcC,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,unam,unam,unus,N2/1,u1136,*,An-,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,basim,basim,basis,N3B,b0170,f,NcC,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,cum,cum,cum,I,c4579,,X--,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,cum,cum,cum,I,c4584,,X--,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,luterem,luterem,luter,N3B,l1239,m,NcC,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,et,et,et,I,e0997,,X--,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,tres,tres,tres/-is,N3A,t1158,*,An-,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,Gutos,gutos,gutus,N2,g0675,m,NcB,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,strigiles,strigiles,strigilis,N3B,s2604,f,NcC,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,Ferreas,ferreas,ferreus,N2/1,f0394,*,Af-,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,Ferreas,ferreas,ferrea,N1,f0394,f,NcA,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,quattuor,quattuor,quattuor,N,q0166,,AnP,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,cum,cum,cum,I,c4579,,X--,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,cum,cum,cum,I,c4584,,X--,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,Marmorem,marmorem,marmoro,V1,m0404,,VmF,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR151868,basim,basim,basis,N3B,b0170,f,NcC,&#12296;:columna I&#12297; Aquaria dua cum basis Aqua(ria?) in manus dua cum basis Hamas duas cum basis Aqua(ria) in manu (:manus) cotidian[u I] cum basis Urciolos (:urceolos) duos Candelabra quatuor (:quattuor) et lucubratoriu(m) unum Lucerna(m) aenea(m) Hamula(m) una(m) Pelvi(s) cum basim et lytrum (:luterem) Gutos tres Scapheola dua Ferreas strig(i)les VII Haenas quattor (:quattuor)  &#12296;:columna II&#12297; Marmor(em) cum basim aenea Fuminaria dua
+EDR140037,kalendas,kalendas,kalendae,N1,k0002,f,NcA,XI k(alendas) Febarias (:Februarias)
+EDR140037,Februarias,februarias,februarius,N2/1,f0772,*,Af-,XI k(alendas) Febarias (:Februarias)
+EDR153110,Quintus,quintus,quintus,N2/1,q0144,*,Ao-,Q(uintus)  M[---] Antu[s ---]
+EDR140230,Anicete,anicete,anicetus,N2/1,a2020,*,Af-,Anicete va(le)
+EDR142441,Ad,ad,ad,I,a0479,,X--,Ad Ner[---]
+EDR142441,Ad,ad,at,I,a0547,,X--,Ad Ner[---]
+EDR140179,aedituus,aedituus,aedituus,N2,a0863,m,NcB,P S edituis (:aedituus)
+EDR154370,kalendas,kalendas,kalendae,N1,k0002,f,NcA,VIII k(alendas) Iulias
+EDR151829,Myrine,myrine,myron/-um,N2,m1911,n,NcB,Myrine mari
+EDR156779,Fausta,fausta,faustus,N2/1,f0287,*,Af-,[A]ve Fausta s(alutem)
+EDR156779,Ave,aue,aueo,V2,a3448,,VmG,[A]ve Fausta s(alutem)
+EDR156779,Ave,aue,aueo,V2,a3465,,VmG,[A]ve Fausta s(alutem)
+EDR156779,Ave,aue,auis,N3B,a3502,f,NcC,[A]ve Fausta s(alutem)
+EDR156779,Ave,aue,auus/-os,N2,a3634,m,NcB,[A]ve Fausta s(alutem)
+EDR156779,Ave,aue,a,I,a0001,,X--,[A]ve Fausta s(alutem)
+EDR073355,medicus,medicus,me"dicus,N2/1,m0643,*,Af-,Apollinaris medicus Ti&#768;ti&#768; Impe(ratoris) &#12296;:servus&#12297; hic cacavit bene
+EDR073355,medicus,medicus,me'dicus,N2,m0549,m,NcB,Apollinaris medicus Ti&#768;ti&#768; Impe(ratoris) &#12296;:servus&#12297; hic cacavit bene
+EDR073355,medicus,medicus,me'dicus,N2/1,m0549,*,Af-,Apollinaris medicus Ti&#768;ti&#768; Impe(ratoris) &#12296;:servus&#12297; hic cacavit bene
+EDR073355,Apollinaris,apollinaris,apollinarius,N2/1,a2406,*,Af-,Apollinaris medicus Ti&#768;ti&#768; Impe(ratoris) &#12296;:servus&#12297; hic cacavit bene
+EDR073355,Apollinaris,apollinaris,apollinaris,N3A,a2407,*,Af-,Apollinaris medicus Ti&#768;ti&#768; Impe(ratoris) &#12296;:servus&#12297; hic cacavit bene
+EDR073355,Imperatoris,imperatoris,imperator,N3B,i0480,m,NcC,Apollinaris medicus Ti&#768;ti&#768; Impe(ratoris) &#12296;:servus&#12297; hic cacavit bene
+EDR073355,Imperatoris,imperatoris,imperatorius,N2/1,i0481,*,Af-,Apollinaris medicus Ti&#768;ti&#768; Impe(ratoris) &#12296;:servus&#12297; hic cacavit bene
+EDR073355,cacavit,cacauit,caco,V1,c0036,,VmF,Apollinaris medicus Ti&#768;ti&#768; Impe(ratoris) &#12296;:servus&#12297; hic cacavit bene
+EDR073355,hic,hic,hic,PR,h0360,,Py-,Apollinaris medicus Ti&#768;ti&#768; Impe(ratoris) &#12296;:servus&#12297; hic cacavit bene
+EDR102191,Primigeniae,primigeniae,primigenius,N2/1,p3539,*,Af-,Hermeros Prìmigeniae dominae: venì Puteolos in vìco Tyaniano et quaere a Messio numulario(:nummulario) Hermerotem Phoebì
+EDR102191,dominae,dominae,domina,N1,d0165,f,NcA,Hermeros Prìmigeniae dominae: venì Puteolos in vìco Tyaniano et quaere a Messio numulario(:nummulario) Hermerotem Phoebì
+EDR102191,veni,ueni,ueneo,VA,u0284,,VmN,Hermeros Prìmigeniae dominae: venì Puteolos in vìco Tyaniano et quaere a Messio numulario(:nummulario) Hermerotem Phoebì
+EDR102191,veni,ueni,uenio,V4,u0300,,VmL,Hermeros Prìmigeniae dominae: venì Puteolos in vìco Tyaniano et quaere a Messio numulario(:nummulario) Hermerotem Phoebì
+EDR102191,veni,ueni,uenio,V4,u0300,,VmL,Hermeros Prìmigeniae dominae: venì Puteolos in vìco Tyaniano et quaere a Messio numulario(:nummulario) Hermerotem Phoebì
+EDR102191,veni,ueni,uenus,N2,u0396,f,NcB,Hermeros Prìmigeniae dominae: venì Puteolos in vìco Tyaniano et quaere a Messio numulario(:nummulario) Hermerotem Phoebì
+EDR102191,vico,uico,uicus,N2,u1337,m,NcB,Hermeros Prìmigeniae dominae: venì Puteolos in vìco Tyaniano et quaere a Messio numulario(:nummulario) Hermerotem Phoebì
+EDR102191,et,et,et,I,e0997,,X--,Hermeros Prìmigeniae dominae: venì Puteolos in vìco Tyaniano et quaere a Messio numulario(:nummulario) Hermerotem Phoebì
+EDR102191,quaere,quaere,quaero,V3,q0096,,VmH,Hermeros Prìmigeniae dominae: venì Puteolos in vìco Tyaniano et quaere a Messio numulario(:nummulario) Hermerotem Phoebì
+EDR102191,nummulario,nummulario,nummularius,N2/1,n0665,*,Af-,Hermeros Prìmigeniae dominae: venì Puteolos in vìco Tyaniano et quaere a Messio numulario(:nummulario) Hermerotem Phoebì
+EDR102191,nummulario,nummulario,nummularius,N2,n0665,m,NcB,Hermeros Prìmigeniae dominae: venì Puteolos in vìco Tyaniano et quaere a Messio numulario(:nummulario) Hermerotem Phoebì
+EDR102191,Messio,messio,messio,N3B,m0856,f,NcC,Hermeros Prìmigeniae dominae: venì Puteolos in vìco Tyaniano et quaere a Messio numulario(:nummulario) Hermerotem Phoebì
+EDR140239,Iunius,iunius,iunius,N2/1,i3222,*,Af-,C(aius) Iunius ((:nomen C(AIUS) IUNIUS in forma navis scriptum))
+EDR140239,Iunius,iunius,iunius,N2/1,i3222,*,Af-,C(aius) Iunius ((:nomen C(AIUS) IUNIUS in forma navis scriptum))
+EDR154092,cunei,cunei,cuneus,N2,c4628,m,NcB,Qunei (:cunei) XXIII Asseres XV
+EDR154092,Asseres,asseres,asser,N3B,a3138,m,NcC,Qunei (:cunei) XXIII Asseres XV
+EDR154092,Asseres,asseres,assero,V3,a3140,,VmH,Qunei (:cunei) XXIII Asseres XV
+EDR154092,Asseres,asseres,assero,V3,a3141,,VmH,Qunei (:cunei) XXIII Asseres XV
+EDR151910,Quintus,quintus,quintus,N2/1,q0144,*,Ao-,Q(uintus) M[---]ANTV[---]
+EDR154566,exempta,exempta,eximo,V3,e1497,,VmH,Exemta (:exempta) stecora (:stercora) a(ssibus) XI
+EDR154566,stercora,stercora,stercoro,V1,s2439,,VmF,Exemta (:exempta) stecora (:stercora) a(ssibus) XI
+EDR154566,stercora,stercora,stercus,N3B,s2442,n,NcC,Exemta (:exempta) stecora (:stercora) a(ssibus) XI
+EDR154566,assibus,assibus,as/assis,N3B,a3009,m,NcC,Exemta (:exempta) stecora (:stercora) a(ssibus) XI
+EDR154566,assibus,assibus,axis,N3B,a3654,m,NcC,Exemta (:exempta) stecora (:stercora) a(ssibus) XI
+EDR140140,Quintus,quintus,quintus,N2/1,q0144,*,Ao-,Q&#803;(uintus) Vet&#803;ius&#803; (:Vettius)
+EDR145942,Proculus,proculus,proculus,N2/1,p3689,*,Af-,Proculus ((:herma viri)) 
+EDR154430,Salinensi,salinensi,saliniensis,N3A,s0167,*,Af-,omnibus Salinensi v[---]
+EDR154430,omnibus,omnibus,omnis,N3A,o0723,*,Au-,omnibus Salinensi v[---]
+EDR157024,Mortuus,mortuus,morior/-io,V5,m1411,,VmM,Mortus (:Mortuus) Deii (:Deius)
+EDR157024,Deius,deius,dius,N2/1,d1461,*,Af-,Mortus (:Mortuus) Deii (:Deius)
+EDR157024,Deius,deius,dius,N2/1,d1461,*,Af-,Mortus (:Mortuus) Deii (:Deius)
+EDR140165,Surus,surus,surus,N2,s3833,m,NcB,AM Surus Ianua va(le)
+EDR140187,Quintus,quintus,quintus,N2/1,q0144,*,Ao-,Q(uintus?) V(---) R(---)
+EDR154567,quattuor,quattuor,quattuor,N,q0166,,AnP,Quatuor (:quattuor) cer[---]
+EDR154186,Mus,mus,mus,N3B,m1804,m,NcC,Apelles Mus cum fratre Dextro amabiliter futuimus bis bina (:binas)
+EDR154186,Apelles,apelles,apello,V3,a2317,,VmH,Apelles Mus cum fratre Dextro amabiliter futuimus bis bina (:binas)
+EDR154186,fratre,fratre,frater,N3B,f0934,m,NcC,Apelles Mus cum fratre Dextro amabiliter futuimus bis bina (:binas)
+EDR154186,cum,cum,cum,I,c4579,,X--,Apelles Mus cum fratre Dextro amabiliter futuimus bis bina (:binas)
+EDR154186,cum,cum,cum,I,c4584,,X--,Apelles Mus cum fratre Dextro amabiliter futuimus bis bina (:binas)
+EDR154186,amabiliter,amabiliter,amabilis,N3A,a1565,*,Af-,Apelles Mus cum fratre Dextro amabiliter futuimus bis bina (:binas)
+EDR154186,Dextro,dextro,dexter,N2/1,d0000,*,Af-,Apelles Mus cum fratre Dextro amabiliter futuimus bis bina (:binas)
+EDR154186,futuimus,futuimus,futuo,V3,f1265,,VmH,Apelles Mus cum fratre Dextro amabiliter futuimus bis bina (:binas)
+EDR154186,futuimus,futuimus,futuo,V3,f1265,,VmH,Apelles Mus cum fratre Dextro amabiliter futuimus bis bina (:binas)
+EDR154186,binas,binas,binus,N2/1,b0391,*,Ad-,Apelles Mus cum fratre Dextro amabiliter futuimus bis bina (:binas)
+EDR140152,hic,hic,hic,PR,h0360,,Py-,Hyacinthus hic fu&#818;i&#818;t&#818; Verginiam s&#818;u&#818;a&#818;m&#818;
+EDR140152,Hyacinthus,hyacinthus,hyacinthus/-os,N2,h0665,m,NcB,Hyacinthus hic fu&#818;i&#818;t&#818; Verginiam s&#818;u&#818;a&#818;m&#818;
+EDR140152,fuit,fuit,sum,VA,s3436,,VaN,Hyacinthus hic fu&#818;i&#818;t&#818; Verginiam s&#818;u&#818;a&#818;m&#818;
+EDR140669,pondo,pondo,pondo,I,p2558,,X--,Rufûla p(ondo?) V s(emis?)
+EDR140669,Rufula,rufula,rufulus,N2/1,r0877,*,Af-,Rufûla p(ondo?) V s(emis?)
+EDR140233,Vale,uale,ualeo,V2,u0050,,VmG,V&#770;ale Procam&#770;u (:Procame)
+EDR154572,Iustus,iustus,iustus,N2/1,i3087,*,Af-,Iustus cinaedu[- - -]
+EDR140221,cum,cum,cum,I,c4579,,X--,vol cum Marcello bona[---]
+EDR140221,cum,cum,cum,I,c4584,,X--,vol cum Marcello bona[---]
+EDR142438,Quintus,quintus,quintus,N2/1,q0144,*,Ao-,Q(uintus) [-] LA
+EDR157025,Aulus,aulus,aulos/-us,N2,a3518,m,NcB,A(ulus) Memm(ius)
+EDR151872,Quintus,quintus,quintus,N2/1,q0144,*,Ao-,Q(uintus) ++++++++
+EDR154179,sodales,sodales,sodalis,N3A,s1863,*,Af-,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,Duo,duo,duo,N2/1,d2327,*,An-,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,fuerunt,fuerunt,sum,VA,s3436,,VaN,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,hic,hic,hic,PR,h0360,,Py-,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,cum,cum,cum,I,c4579,,X--,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,cum,cum,cum,I,c4584,,X--,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,et,et,et,I,e0997,,X--,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,malum,malum,malis,N3B,m0192,f,NcC,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,malum,malum,malus,N2/1,m0216,*,Af-,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,malum,malum,ma'lum,N2,m0216,n,NcB,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,malum,malum,malus,N2,m0218,m,NcB,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,malum,malum,ma"lum,N2,m0218,n,NcB,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,malum,malum,malus,N2,m0219,f,NcB,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,diu,diu,diu,I,d1466,,X--,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,diu,diu,diu,I,d1998,,X--,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,diu,diu,diuinus,N2/1,d2040,*,Y--,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,diu,diu,dium,N2,d2047,n,NcB,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,ministrum,ministrum,minister,N2,m1034,m,NcB,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,ministrum,ministrum,minister,N2/1,m1034,*,Af-,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,haberent,haberent,habeo,V2,h0004,,VmG,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,omnia,omnia,omnis,N3A,o0723,*,Au-,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,nomine,nomine,nomen,N3B,n0492,n,NcC,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,nomine,nomine,nomos,N2,n0507,m,NcB,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,nomine,nomine,nomos,N2,n0357,m,NcB,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,tarde,tarde,tardeo,V2,t0117,,VmG,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,tarde,tarde,tardus,N2/1,t0131,*,Af-,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,vix,uix,uix,I,u0915,,X--,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,foras,foras,foras,I,f0812,,X--,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,foras,foras,foro,V1,f0879,,VmF,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,eum,eum,is,PR,i2912,,P3-,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,exegerunt,exegerunt,exigo,V3,e1487,,VmH,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,persuavissime,persuauissime,persuauis,N3A,p1641,*,Af-,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,Consumpserunt,consumpserunt,consumo,V3,c3658,,VmH,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,futuere,futuere,futuo,V3,f1265,,VmH,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,futuere,futuere,futuo,V3,f1265,,VmH,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,cum,cum,cum,I,c4579,,X--,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR154179,cum,cum,cum,I,c4584,,X--,Duo sodales hic fuerunt et cum diu malum ministrum in omnia haberent nomine Epaphroditum vix tarde eum foras exigerunt (:exegerunt). Consumpserunt persuavissime cum fu`tu´ere ((sestertii)) CVS
+EDR140151,Aulus,aulus,aulos/-us,N2,a3518,m,NcB,A(ulus) Tati(us?) [- - -]p&#818;r&#818;ius
+EDR140147,conclave,conclaue,conclaue,N3B,c3049,n,NcC,[---]A&#818;S&#818;[---] conclave Puteolis C&#803;[-]AN&#803;A&#803; [---]V&#818;LII consitont (:consistunt) Herculaneses (:Herculanenses) navculae (:naviculae) 
+EDR140147,conclave,conclaue,conchula,N1,c3004,f,NcA,[---]A&#818;S&#818;[---] conclave Puteolis C&#803;[-]AN&#803;A&#803; [---]V&#818;LII consitont (:consistunt) Herculaneses (:Herculanenses) navculae (:naviculae) 
+EDR140147,consistunt,consistunt,consisto,V3,c3543,,VmH,[---]A&#818;S&#818;[---] conclave Puteolis C&#803;[-]AN&#803;A&#803; [---]V&#818;LII consitont (:consistunt) Herculaneses (:Herculanenses) navculae (:naviculae) 
+EDR140147,naviculae,nauiculae,nauicula,N1,n0091,f,NcA,[---]A&#818;S&#818;[---] conclave Puteolis C&#803;[-]AN&#803;A&#803; [---]V&#818;LII consitont (:consistunt) Herculaneses (:Herculanenses) navculae (:naviculae) 
+EDR140054,feliciter,feliciter,felicito,V1,f0323,,VmF,f&#803;eliter (:feliciter) ((:FELICITER in forma navis scriptum))
+EDR140054,feliciter,feliciter,felix,N3A,f0327,*,Af-,f&#803;eliter (:feliciter) ((:FELICITER in forma navis scriptum))
+EDR154429,Urbane,urbane,urbanus,N2/1,u1237,*,Af-,Urban(e) v&#770;a(le)
+EDR154429,Urbane,urbane,uruo,V1,u1276,,VmF,Urban(e) v&#770;a(le)
+EDR154429,Urbane,urbane,uruum,N2,u1278,n,NcB,Urban(e) v&#770;a(le)
+EDR140232,suis,suis,sus/suis,N3B,s3834,2,NcC,suis P ave viban (:vivant)
+EDR140232,suis,suis,suo,V3,s3459,,VmH,suis P ave viban (:vivant)
+EDR140232,suis,suis,sus/suis,N3B,s3834,2,NcC,suis P ave viban (:vivant)
+EDR140232,suis,suis,suus/-os,PR,s3894,*,Ps-,suis P ave viban (:vivant)
+EDR140232,vivant,uiuant,uiuo,V3,u0913,,VmH,suis P ave viban (:vivant)
+EDR153111,aegrotes,aegrotes,aegroto,V1,a0890,,VmF,Fuibus (:Phoebus) egrotes (:aegrotes)
+EDR140986,Urso,urso,ursus,N2,u1269,m,NcB,&#12296;:columna I&#12297; Urso  &#12296;:columna II&#12297; Urso
+EDR154568,pisu,pisu,pinso,V3,p7113,,VmH,Extan[+1?+] pisu [- - -]QVATVS ne quinque 
+EDR154568,pisu,pisu,piso,V3,p7113,,VmH,Extan[+1?+] pisu [- - -]QVATVS ne quinque 
+EDR140138,Burrus,burrus,burrus,N2/1,b0758,*,Af-,Burr&#803;[us] &#12296;:vacat&#12297; p&#803;edad (:petat) H
+EDR140138,petat,petat,peto,V3,p1809,,VmH,Burr&#803;[us] &#12296;:vacat&#12297; p&#803;edad (:petat) H
+EDR140144,Mansueta,mansueta,mansuesco,V3,m0317,,VmH,Masueta (:Mansueta) tene ((:phallus))
+EDR140144,Mansueta,mansueta,mansueto,V1,m0319,,VmF,Masueta (:Mansueta) tene ((:phallus))
+EDR140144,tene,tene,teneo,V2,t0289,,VmG,Masueta (:Mansueta) tene ((:phallus))
+EDR140144,tene,tene,t,I,t0001,,X--,Masueta (:Mansueta) tene ((:phallus))
+EDR140144,tene,tene,tu,PR,t1483,,Pq-,Masueta (:Mansueta) tene ((:phallus))
+EDR153487,venimus,uenimus,ueneo,VA,u0284,,VmN,Venimus venimus hoc cupidi multo magis ire cupimus.
+EDR153487,venimus,uenimus,uenio,V4,u0300,,VmL,Venimus venimus hoc cupidi multo magis ire cupimus.
+EDR153487,venimus,uenimus,uenio,V4,u0300,,VmL,Venimus venimus hoc cupidi multo magis ire cupimus.
+EDR153487,Venimus,uenimus,ueneo,VA,u0284,,VmN,Venimus venimus hoc cupidi multo magis ire cupimus.
+EDR153487,Venimus,uenimus,uenio,V4,u0300,,VmL,Venimus venimus hoc cupidi multo magis ire cupimus.
+EDR153487,Venimus,uenimus,uenio,V4,u0300,,VmL,Venimus venimus hoc cupidi multo magis ire cupimus.
+EDR153487,cupidi,cupidi,cupidus,N2/1,c4651,*,Af-,Venimus venimus hoc cupidi multo magis ire cupimus.
+EDR153487,hoc,hoc,hic,PR,h0360,,Py-,Venimus venimus hoc cupidi multo magis ire cupimus.
+EDR153487,magis,magis,magis,N3B,m0096,m,NcC,Venimus venimus hoc cupidi multo magis ire cupimus.
+EDR153487,magis,magis,magis,I,m0095,,X--,Venimus venimus hoc cupidi multo magis ire cupimus.
+EDR153487,magis,magis,magus,N2,m0134,m,NcB,Venimus venimus hoc cupidi multo magis ire cupimus.
+EDR153487,magis,magis,magus,N2/1,m0134,*,Af-,Venimus venimus hoc cupidi multo magis ire cupimus.
+EDR153487,magis,magis,maga,N1,m0134,f,NcA,Venimus venimus hoc cupidi multo magis ire cupimus.
+EDR153487,multo,multo,multus,N2/1,m1695,*,Af-,Venimus venimus hoc cupidi multo magis ire cupimus.
+EDR153487,multo,multo,multo,V1,m1693,,VmF,Venimus venimus hoc cupidi multo magis ire cupimus.
+EDR153487,multo,multo,multus,N2/1,m1695,*,Af-,Venimus venimus hoc cupidi multo magis ire cupimus.
+EDR153487,multo,multo,multum,N2,m1696,n,NcB,Venimus venimus hoc cupidi multo magis ire cupimus.
+EDR140258,Mus,mus,mus,N3B,m1804,m,NcC,Mus nequa(m)
+EDR154177,biberes,biberes,biber,N3B,b0299,f,NcC,Nuc (:nuces?) &#12296;:vacat&#12297; biber(es) XIIII (assibus) Singa (:singula) III  Panem III &#12296;:vacat&#12297; LI (assibus) Orrellas (:ofellas) III &#12296;:vacat&#12297; XII (assibus) Thymatla (:thymatula) IIII &#12296;:vacat&#12297; VIII (assibus)
+EDR154177,biberes,biberes,bibo,V3,b0311,,VmH,Nuc (:nuces?) &#12296;:vacat&#12297; biber(es) XIIII (assibus) Singa (:singula) III  Panem III &#12296;:vacat&#12297; LI (assibus) Orrellas (:ofellas) III &#12296;:vacat&#12297; XII (assibus) Thymatla (:thymatula) IIII &#12296;:vacat&#12297; VIII (assibus)
+EDR154177,biberes,biberes,uiuo,V3,u0913,,VmH,Nuc (:nuces?) &#12296;:vacat&#12297; biber(es) XIIII (assibus) Singa (:singula) III  Panem III &#12296;:vacat&#12297; LI (assibus) Orrellas (:ofellas) III &#12296;:vacat&#12297; XII (assibus) Thymatla (:thymatula) IIII &#12296;:vacat&#12297; VIII (assibus)
+EDR154177,assibus,assibus,as/assis,N3B,a3009,m,NcC,Nuc (:nuces?) &#12296;:vacat&#12297; biber(es) XIIII (assibus) Singa (:singula) III  Panem III &#12296;:vacat&#12297; LI (assibus) Orrellas (:ofellas) III &#12296;:vacat&#12297; XII (assibus) Thymatla (:thymatula) IIII &#12296;:vacat&#12297; VIII (assibus)
+EDR154177,assibus,assibus,axis,N3B,a3654,m,NcC,Nuc (:nuces?) &#12296;:vacat&#12297; biber(es) XIIII (assibus) Singa (:singula) III  Panem III &#12296;:vacat&#12297; LI (assibus) Orrellas (:ofellas) III &#12296;:vacat&#12297; XII (assibus) Thymatla (:thymatula) IIII &#12296;:vacat&#12297; VIII (assibus)
+EDR154177,singula,singula,singula,N1,s0280,f,NcA,Nuc (:nuces?) &#12296;:vacat&#12297; biber(es) XIIII (assibus) Singa (:singula) III  Panem III &#12296;:vacat&#12297; LI (assibus) Orrellas (:ofellas) III &#12296;:vacat&#12297; XII (assibus) Thymatla (:thymatula) IIII &#12296;:vacat&#12297; VIII (assibus)
+EDR154177,singula,singula,singulus,N2/1,s0275,*,Ad-,Nuc (:nuces?) &#12296;:vacat&#12297; biber(es) XIIII (assibus) Singa (:singula) III  Panem III &#12296;:vacat&#12297; LI (assibus) Orrellas (:ofellas) III &#12296;:vacat&#12297; XII (assibus) Thymatla (:thymatula) IIII &#12296;:vacat&#12297; VIII (assibus)
+EDR154177,Panem,panem,panis/-e,N3B,p0232,1,NcC,Nuc (:nuces?) &#12296;:vacat&#12297; biber(es) XIIII (assibus) Singa (:singula) III  Panem III &#12296;:vacat&#12297; LI (assibus) Orrellas (:ofellas) III &#12296;:vacat&#12297; XII (assibus) Thymatla (:thymatula) IIII &#12296;:vacat&#12297; VIII (assibus)
+EDR154177,assibus,assibus,as/assis,N3B,a3009,m,NcC,Nuc (:nuces?) &#12296;:vacat&#12297; biber(es) XIIII (assibus) Singa (:singula) III  Panem III &#12296;:vacat&#12297; LI (assibus) Orrellas (:ofellas) III &#12296;:vacat&#12297; XII (assibus) Thymatla (:thymatula) IIII &#12296;:vacat&#12297; VIII (assibus)
+EDR154177,assibus,assibus,axis,N3B,a3654,m,NcC,Nuc (:nuces?) &#12296;:vacat&#12297; biber(es) XIIII (assibus) Singa (:singula) III  Panem III &#12296;:vacat&#12297; LI (assibus) Orrellas (:ofellas) III &#12296;:vacat&#12297; XII (assibus) Thymatla (:thymatula) IIII &#12296;:vacat&#12297; VIII (assibus)
+EDR154177,ofellas,ofellas,ofella,N1,o0551,f,NcA,Nuc (:nuces?) &#12296;:vacat&#12297; biber(es) XIIII (assibus) Singa (:singula) III  Panem III &#12296;:vacat&#12297; LI (assibus) Orrellas (:ofellas) III &#12296;:vacat&#12297; XII (assibus) Thymatla (:thymatula) IIII &#12296;:vacat&#12297; VIII (assibus)
+EDR154177,assibus,assibus,as/assis,N3B,a3009,m,NcC,Nuc (:nuces?) &#12296;:vacat&#12297; biber(es) XIIII (assibus) Singa (:singula) III  Panem III &#12296;:vacat&#12297; LI (assibus) Orrellas (:ofellas) III &#12296;:vacat&#12297; XII (assibus) Thymatla (:thymatula) IIII &#12296;:vacat&#12297; VIII (assibus)
+EDR154177,assibus,assibus,axis,N3B,a3654,m,NcC,Nuc (:nuces?) &#12296;:vacat&#12297; biber(es) XIIII (assibus) Singa (:singula) III  Panem III &#12296;:vacat&#12297; LI (assibus) Orrellas (:ofellas) III &#12296;:vacat&#12297; XII (assibus) Thymatla (:thymatula) IIII &#12296;:vacat&#12297; VIII (assibus)
+EDR154368,Fusci,fusci,fuscus,N2/1,f1246,*,Af-,[F]usci Cilix Cilix
+EDR151835,Est,est,sum,VA,s3436,,VaN,Est res INCOSID
+EDR151835,Est,est,e'do,VA,e0094,,VmN,Est res INCOSID
+EDR153853,Ursi,ursi,urgeo,V2,u1252,,VmG,Ursi me comedan[t]
+EDR153853,Ursi,ursi,urgueo,V2,u1252,,VmG,Ursi me comedan[t]
+EDR153853,Ursi,ursi,ursus,N2,u1269,m,NcB,Ursi me comedan[t]
+EDR156999,situs,situs,sino,V3,s1756,,VmH,Hic situs Suellius
+EDR156999,situs,situs,situs,N4,s1774,m,NcD,Hic situs Suellius
+EDR156999,situs,situs,situs,N4,s4029,m,NcD,Hic situs Suellius
+EDR156999,Hic,hic,hic,PR,h0360,,Py-,Hic situs Suellius
+EDR154043,pro,pro,pro,I,p3593,,X--,Septembr(es) III idus pro tunica ((denarius)) I a(sses) VIII
+EDR154043,pro,pro,pro,I,p2610,,X--,Septembr(es) III idus pro tunica ((denarius)) I a(sses) VIII
+EDR154043,idus,idus,idus,N4,i9914,f,NcD,Septembr(es) III idus pro tunica ((denarius)) I a(sses) VIII
+EDR154043,tunica,tunica,tunica,N1,t1745,f,NcA,Septembr(es) III idus pro tunica ((denarius)) I a(sses) VIII
+EDR154043,tunica,tunica,tunico,V1,t1747,,VmF,Septembr(es) III idus pro tunica ((denarius)) I a(sses) VIII
+EDR154043,asses,asses,as/assis,N3B,a3009,m,NcC,Septembr(es) III idus pro tunica ((denarius)) I a(sses) VIII
+EDR154043,asses,asses,asso,V1,a3183,,VmF,Septembr(es) III idus pro tunica ((denarius)) I a(sses) VIII
+EDR154043,asses,asses,axis,N3B,a3654,m,NcC,Septembr(es) III idus pro tunica ((denarius)) I a(sses) VIII
+EDR140177,Assis,assis,as/assis,N3B,a3009,m,NcC,Assis IIIIHIINII CCCXXX
+EDR140177,Assis,assis,adsum,VA,a0761,,VmN,Assis IIIIHIINII CCCXXX
+EDR140177,Assis,assis,as/assis,N3B,a3009,m,NcC,Assis IIIIHIINII CCCXXX
+EDR140177,Assis,assis,assus,N2/1,a3108,*,Af-,Assis IIIIHIINII CCCXXX
+EDR140177,Assis,assis,assa,N1,a3108,f,NcA,Assis IIIIHIINII CCCXXX
+EDR140177,Assis,assis,assum,N2,a3108,n,NcB,Assis IIIIHIINII CCCXXX
+EDR140177,Assis,assis,axis,N3B,a3654,m,NcC,Assis IIIIHIINII CCCXXX
+EDR154538,Feliciter,feliciter,felicito,V1,f0323,,VmF,F&#818;e&#818;licite&#803;r&#803; [P]ro&#803;c&#803;u&#803;l&#803;o&#803;
+EDR154538,Feliciter,feliciter,felix,N3A,f0327,*,Af-,F&#818;e&#818;licite&#803;r&#803; [P]ro&#803;c&#803;u&#803;l&#803;o&#803;
+EDR140124,Quis,quis,quis,PR,q0198,,P4-,Quis d
+EDR140124,Quis,quis,qui,PR,q9410,,P7-,Quis d
+EDR140124,Quis,quis,queo,VA,q0178,,VmN,Quis d
+EDR154042,Iulis,iulis,iulis,N3B,i3029,f,NcC,Nonis Iulis MVS[---]N M[---]N[---] VIII[ Idus Iul]ias nata CV Prid[ie Nonas?] Non[is? H]erclan (:Herculaneo?)  Nol(ae?)  Pomp[---]ans &#12296;:vacat&#12297; CN I III
+EDR154042,Iulis,iulis,iulus/-os,N2,i3030,m,NcB,Nonis Iulis MVS[---]N M[---]N[---] VIII[ Idus Iul]ias nata CV Prid[ie Nonas?] Non[is? H]erclan (:Herculaneo?)  Nol(ae?)  Pomp[---]ans &#12296;:vacat&#12297; CN I III
+EDR154042,Iulis,iulis,iulius,N2/1,i3221,*,Af-,Nonis Iulis MVS[---]N M[---]N[---] VIII[ Idus Iul]ias nata CV Prid[ie Nonas?] Non[is? H]erclan (:Herculaneo?)  Nol(ae?)  Pomp[---]ans &#12296;:vacat&#12297; CN I III
+EDR154042,Nonis,nonis,nonus,N2/1,n0145,*,Ao-,Nonis Iulis MVS[---]N M[---]N[---] VIII[ Idus Iul]ias nata CV Prid[ie Nonas?] Non[is? H]erclan (:Herculaneo?)  Nol(ae?)  Pomp[---]ans &#12296;:vacat&#12297; CN I III
+EDR154042,Nonis,nonis,nona,N1,n0177,f,NcA,Nonis Iulis MVS[---]N M[---]N[---] VIII[ Idus Iul]ias nata CV Prid[ie Nonas?] Non[is? H]erclan (:Herculaneo?)  Nol(ae?)  Pomp[---]ans &#12296;:vacat&#12297; CN I III
+EDR154042,Nonis,nonis,nonussis,N3B,n0524,m,NcC,Nonis Iulis MVS[---]N M[---]N[---] VIII[ Idus Iul]ias nata CV Prid[ie Nonas?] Non[is? H]erclan (:Herculaneo?)  Nol(ae?)  Pomp[---]ans &#12296;:vacat&#12297; CN I III
+EDR154042,Idus,idus,idus,N4,i9914,f,NcD,Nonis Iulis MVS[---]N M[---]N[---] VIII[ Idus Iul]ias nata CV Prid[ie Nonas?] Non[is? H]erclan (:Herculaneo?)  Nol(ae?)  Pomp[---]ans &#12296;:vacat&#12297; CN I III
+EDR154042,nata,nata,nascor/-o,V3,n0044,,VmH,Nonis Iulis MVS[---]N M[---]N[---] VIII[ Idus Iul]ias nata CV Prid[ie Nonas?] Non[is? H]erclan (:Herculaneo?)  Nol(ae?)  Pomp[---]ans &#12296;:vacat&#12297; CN I III
+EDR154042,nata,nata,nata,N1,n0088,f,NcA,Nonis Iulis MVS[---]N M[---]N[---] VIII[ Idus Iul]ias nata CV Prid[ie Nonas?] Non[is? H]erclan (:Herculaneo?)  Nol(ae?)  Pomp[---]ans &#12296;:vacat&#12297; CN I III
+EDR154042,nata,nata,nato,V1,n0069,,VmF,Nonis Iulis MVS[---]N M[---]N[---] VIII[ Idus Iul]ias nata CV Prid[ie Nonas?] Non[is? H]erclan (:Herculaneo?)  Nol(ae?)  Pomp[---]ans &#12296;:vacat&#12297; CN I III
+EDR154042,Iulias,iulias,iulius,N2/1,i3221,*,Af-,Nonis Iulis MVS[---]N M[---]N[---] VIII[ Idus Iul]ias nata CV Prid[ie Nonas?] Non[is? H]erclan (:Herculaneo?)  Nol(ae?)  Pomp[---]ans &#12296;:vacat&#12297; CN I III
+EDR154042,Pridie,pridie,pridie,I,p3528,,X--,Nonis Iulis MVS[---]N M[---]N[---] VIII[ Idus Iul]ias nata CV Prid[ie Nonas?] Non[is? H]erclan (:Herculaneo?)  Nol(ae?)  Pomp[---]ans &#12296;:vacat&#12297; CN I III
+EDR153849,Ursi,ursi,urgeo,V2,u1252,,VmG,Ursi me comedant
+EDR153849,Ursi,ursi,urgueo,V2,u1252,,VmG,Ursi me comedant
+EDR153849,Ursi,ursi,ursus,N2,u1269,m,NcB,Ursi me comedant
+EDR140166,quidam,quidam,quidam,PR,q9202,,Pu-,Cum quidam pauper ligas VI[- - -] NQ
+EDR140166,ligas,ligas,ligo,V1,l0753,,VmF,Cum quidam pauper ligas VI[- - -] NQ
+EDR140166,pauper,pauper,pauper,N3A,p0630,*,Af-,Cum quidam pauper ligas VI[- - -] NQ
+EDR129306,Musicus,musicus,musicus,N2,m1824,m,NcB,Lollian(us) Euodus(:Euhodus)</span> Priscus Musicus 5 Atimetus [Am?]p&#803;e&#803;lus [---]c&#803;c&#803;us G&#818;l&#818;aucus C&#818;o&#818;mmuni&#818;s&#818;
+EDR129306,Musicus,musicus,musicus,N2/1,m1824,*,Af-,Lollian(us) Euodus(:Euhodus)</span> Priscus Musicus 5 Atimetus [Am?]p&#803;e&#803;lus [---]c&#803;c&#803;us G&#818;l&#818;aucus C&#818;o&#818;mmuni&#818;s&#818;
+EDR129306,Priscus,priscus,priscus,N2/1,p3576,*,Af-,Lollian(us) Euodus(:Euhodus)</span> Priscus Musicus 5 Atimetus [Am?]p&#803;e&#803;lus [---]c&#803;c&#803;us G&#818;l&#818;aucus C&#818;o&#818;mmuni&#818;s&#818;
+EDR129306,Glaucus,glaucus,glaucus,N2,g0361,m,NcB,Lollian(us) Euodus(:Euhodus)</span> Priscus Musicus 5 Atimetus [Am?]p&#803;e&#803;lus [---]c&#803;c&#803;us G&#818;l&#818;aucus C&#818;o&#818;mmuni&#818;s&#818;
+EDR129306,Glaucus,glaucus,glaucus,N2/1,g0361,*,Af-,Lollian(us) Euodus(:Euhodus)</span> Priscus Musicus 5 Atimetus [Am?]p&#803;e&#803;lus [---]c&#803;c&#803;us G&#818;l&#818;aucus C&#818;o&#818;mmuni&#818;s&#818;
+EDR153740,Amethyste,amethyste,amethystus/-os,N2,a1668,f,NcB,Amethyste v&#770;a(le)
+EDR151873,socio,socio,socio/-or,V1,s1852,,VmF,[- - -] socio F[---] [- - -]AL
+EDR151873,socio,socio,socius,N2/1,s1844,*,Af-,[- - -] socio F[---] [- - -]AL
+EDR151873,socio,socio,socius,N2,s1844,m,NcB,[- - -] socio F[---] [- - -]AL
+EDR151867,acceptum,acceptum,accipio,V5,a0275,,VmM,Vinum acceptum ab domino VII Idus Apriles
+EDR151867,acceptum,acceptum,accipio,V5,a0275,,VmM,Vinum acceptum ab domino VII Idus Apriles
+EDR151867,acceptum,acceptum,acceptum,N2,a8917,n,NcB,Vinum acceptum ab domino VII Idus Apriles
+EDR151867,Vinum,uinum,uinum/-us,N2,u0729,1,NcB,Vinum acceptum ab domino VII Idus Apriles
+EDR151867,domino,domino,dominus,N2,d0210,m,NcB,Vinum acceptum ab domino VII Idus Apriles
+EDR151867,domino,domino,domino,V1,d1471,,VmF,Vinum acceptum ab domino VII Idus Apriles
+EDR151867,Idus,idus,idus,N4,i9914,f,NcD,Vinum acceptum ab domino VII Idus Apriles
+EDR159777,asses,asses,as/assis,N3B,a3009,m,NcC,Vinum a(sses) III Quatusui++I VIII Nig[---] ((denarius)) V s(emis) Capitoni Nigro ((denarius)) V Nig[---]
+EDR159777,asses,asses,asso,V1,a3183,,VmF,Vinum a(sses) III Quatusui++I VIII Nig[---] ((denarius)) V s(emis) Capitoni Nigro ((denarius)) V Nig[---]
+EDR159777,asses,asses,axis,N3B,a3654,m,NcC,Vinum a(sses) III Quatusui++I VIII Nig[---] ((denarius)) V s(emis) Capitoni Nigro ((denarius)) V Nig[---]
+EDR159777,Vinum,uinum,uinum/-us,N2,u0729,1,NcB,Vinum a(sses) III Quatusui++I VIII Nig[---] ((denarius)) V s(emis) Capitoni Nigro ((denarius)) V Nig[---]
+EDR159777,semis,semis,semis,N3B,s1133,m,NcC,Vinum a(sses) III Quatusui++I VIII Nig[---] ((denarius)) V s(emis) Capitoni Nigro ((denarius)) V Nig[---]
+EDR159777,semis,semis,semus,N2/1,s8195,*,Af-,Vinum a(sses) III Quatusui++I VIII Nig[---] ((denarius)) V s(emis) Capitoni Nigro ((denarius)) V Nig[---]
+EDR159777,Nigro,nigro,niger,N2/1,n0291,*,Af-,Vinum a(sses) III Quatusui++I VIII Nig[---] ((denarius)) V s(emis) Capitoni Nigro ((denarius)) V Nig[---]
+EDR159777,Nigro,nigro,nigrum,N2,n0291,n,NcB,Vinum a(sses) III Quatusui++I VIII Nig[---] ((denarius)) V s(emis) Capitoni Nigro ((denarius)) V Nig[---]
+EDR159777,Nigro,nigro,nigro,V1,n0301,,VmF,Vinum a(sses) III Quatusui++I VIII Nig[---] ((denarius)) V s(emis) Capitoni Nigro ((denarius)) V Nig[---]
+EDR159777,Capitoni,capitoni,capito,N3B,c0516,m,NcC,Vinum a(sses) III Quatusui++I VIII Nig[---] ((denarius)) V s(emis) Capitoni Nigro ((denarius)) V Nig[---]
+EDR140195,Kalendas,kalendas,kalendae,N1,k0002,f,NcA,XI K(alendas) pane factum III Nonas pane factum &#12314;III&#12315;
+EDR140195,factum,factum,facio,V5,f0048,,VmM,XI K(alendas) pane factum III Nonas pane factum &#12314;III&#12315;
+EDR140195,factum,factum,facio,V5,f0048,,VmM,XI K(alendas) pane factum III Nonas pane factum &#12314;III&#12315;
+EDR140195,factum,factum,factus,N4,f9201,m,NcD,XI K(alendas) pane factum III Nonas pane factum &#12314;III&#12315;
+EDR140195,factum,factum,factum,N2,f9201,n,NcB,XI K(alendas) pane factum III Nonas pane factum &#12314;III&#12315;
+EDR140195,pane,pane,panis/-e,N3B,p0232,1,NcC,XI K(alendas) pane factum III Nonas pane factum &#12314;III&#12315;
+EDR140195,pane,pane,panis/-e,N3B,p0232,1,NcC,XI K(alendas) pane factum III Nonas pane factum &#12314;III&#12315;
+EDR140195,pane,pane,panus,N2,p0262,m,NcB,XI K(alendas) pane factum III Nonas pane factum &#12314;III&#12315;
+EDR140195,pane,pane,pa,N,p0002,,Y--,XI K(alendas) pane factum III Nonas pane factum &#12314;III&#12315;
+EDR140195,Nonas,nonas,nonus,N2/1,n0145,*,Ao-,XI K(alendas) pane factum III Nonas pane factum &#12314;III&#12315;
+EDR140195,Nonas,nonas,nona,N1,n0177,f,NcA,XI K(alendas) pane factum III Nonas pane factum &#12314;III&#12315;
+EDR140195,factum,factum,facio,V5,f0048,,VmM,XI K(alendas) pane factum III Nonas pane factum &#12314;III&#12315;
+EDR140195,factum,factum,facio,V5,f0048,,VmM,XI K(alendas) pane factum III Nonas pane factum &#12314;III&#12315;
+EDR140195,factum,factum,factus,N4,f9201,m,NcD,XI K(alendas) pane factum III Nonas pane factum &#12314;III&#12315;
+EDR140195,factum,factum,factum,N2,f9201,n,NcB,XI K(alendas) pane factum III Nonas pane factum &#12314;III&#12315;
+EDR140195,pane,pane,panis/-e,N3B,p0232,1,NcC,XI K(alendas) pane factum III Nonas pane factum &#12314;III&#12315;
+EDR140195,pane,pane,panis/-e,N3B,p0232,1,NcC,XI K(alendas) pane factum III Nonas pane factum &#12314;III&#12315;
+EDR140195,pane,pane,panus,N2,p0262,m,NcB,XI K(alendas) pane factum III Nonas pane factum &#12314;III&#12315;
+EDR140195,pane,pane,pa,N,p0002,,Y--,XI K(alendas) pane factum III Nonas pane factum &#12314;III&#12315;
+EDR154434,Iulias,iulias,iulius,N2/1,i3221,*,Af-,Longinus IV Idu[s Iu]lias Iualias (:Iulias) accepit vim hila(re?) Sturnus am(ator?)
+EDR154434,Idus,idus,idus,N4,i9914,f,NcD,Longinus IV Idu[s Iu]lias Iualias (:Iulias) accepit vim hila(re?) Sturnus am(ator?)
+EDR154434,Iulias,iulias,iulius,N2/1,i3221,*,Af-,Longinus IV Idu[s Iu]lias Iualias (:Iulias) accepit vim hila(re?) Sturnus am(ator?)
+EDR154434,vim,uim,uis,N3B,u0804,,NcC,Longinus IV Idu[s Iu]lias Iualias (:Iulias) accepit vim hila(re?) Sturnus am(ator?)
+EDR154434,accepit,accepit,accipio,V5,a0275,,VmM,Longinus IV Idu[s Iu]lias Iualias (:Iulias) accepit vim hila(re?) Sturnus am(ator?)
+EDR154434,Sturnus,sturnus,sturnus,N2,s2683,m,NcB,Longinus IV Idu[s Iu]lias Iualias (:Iulias) accepit vim hila(re?) Sturnus am(ator?)
+EDR154044,numero,numero,numero,I,n0659,,X--,Asas n(umero) LXI · Anaticulas · n(umero) · CXXVI
+EDR154044,numero,numero,numero,V1,n0658,,VmF,Asas n(umero) LXI · Anaticulas · n(umero) · CXXVI
+EDR154044,numero,numero,numerus,N2,n0662,m,NcB,Asas n(umero) LXI · Anaticulas · n(umero) · CXXVI
+EDR154044,Asas,asas,ara,N1,a2625,f,NcA,Asas n(umero) LXI · Anaticulas · n(umero) · CXXVI
+EDR154044,Anaticulas,anaticulas,anaticula,N1,a1898,f,NcA,Asas n(umero) LXI · Anaticulas · n(umero) · CXXVI
+EDR154044,numero,numero,numero,I,n0659,,X--,Asas n(umero) LXI · Anaticulas · n(umero) · CXXVI
+EDR154044,numero,numero,numero,V1,n0658,,VmF,Asas n(umero) LXI · Anaticulas · n(umero) · CXXVI
+EDR154044,numero,numero,numerus,N2,n0662,m,NcB,Asas n(umero) LXI · Anaticulas · n(umero) · CXXVI
+EDR140190,et,et,et,I,e0997,,X--,((:gladiatores inter se dimicantes)) Euhodus et Satura  Puteolani
+EDR140190,Satura,satura,satur/-us,N2/1,s0445,*,Af-,((:gladiatores inter se dimicantes)) Euhodus et Satura  Puteolani
+EDR140190,Satura,satura,satura,N1,s0446,f,NcA,((:gladiatores inter se dimicantes)) Euhodus et Satura  Puteolani
+EDR140190,Satura,satura,saturo,V1,s0454,,VmF,((:gladiatores inter se dimicantes)) Euhodus et Satura  Puteolani
+EDR140190,Satura,satura,sero,V3,s1384,,VmH,((:gladiatores inter se dimicantes)) Euhodus et Satura  Puteolani
+EDR154371,glaber,glaber,glaber/glabrus,N2/1,g0314,*,Af-,Salar[ius] glabe (:glaber) RVSIVNNAE Lavinia (:Laviniam) futui
+EDR154371,Salarius,salarius,salarius,N2/1,s0144,*,Af-,Salar[ius] glabe (:glaber) RVSIVNNAE Lavinia (:Laviniam) futui
+EDR154371,Salarius,salarius,salarius,N2/1,s0144,*,Af-,Salar[ius] glabe (:glaber) RVSIVNNAE Lavinia (:Laviniam) futui
+EDR154371,Salarius,salarius,salarius,N2,s0144,m,NcB,Salar[ius] glabe (:glaber) RVSIVNNAE Lavinia (:Laviniam) futui

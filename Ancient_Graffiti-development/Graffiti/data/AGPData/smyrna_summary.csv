@@ -1,0 +1,327 @@
+ID number,Smyrna #,p. #,,City,,,,,Drawing Category,Caption for Graffito,Latin Description of Figural Graffito,English Description of Figural Graffito,Writing Style
+leave blank for now; will be SMY123456,,,,Smyrna,,,,,Animals / Boats / Erotic images / Geometric designs / Gladiators / Human figures / Other / Plants,,leave blank for now,leave blank for now,"Carbone, Litt. Scariph., Pictura"
+SMYTX0001,TX.1 ,56,,Smyrna ,,,,,,,,,Litt. Scariph. 
+SMYTX0002,TX.2,58,,Smyrna ,,,,,,,,,Carbone
+SMYTX0003,TX.3,59,,Smyrna ,,,,,,,,,Carbone
+SMYTG0021,TG2.1,62,,Smyrna ,,,,,,,,,Carbone
+SMYTG0031,TG3.1,65,,Smyrna ,,,,,,,,,Litt. Scariph. 
+SMYDP0061,DP6.1,66,,Smyrna ,,,,,,,((:imago incerta)),((:image of uncertain nature)),Litt. Scariph. 
+SMYDG0041,DG4.1,68,,Smyrna ,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYTG0061,TG6.1,70,,Smyrna ,,,,,,,,,Litt. Scariph. 
+SMYTG0062,TG6.2,71,,Smyrna ,,,,,,,,,Carbone
+SMYTG0063,TG6.3,71,,Smyrna ,,,,,,,,,Carbone
+SMYTG0064,TG6.4,72,,Smyrna ,,,,,,Riddle,,,Carbone
+SMYT00011,T1.1,75,,Smyrna ,,,,,,,,,Carbone
+SMYT00012,T1.2,77,,Smyrna ,,,,,,,,,Carbone
+SMYD00011,D1.1,78,,Smyrna ,,,,,Gladiators,Drawing of a gladiator,((:caput gladiatoris ad sin.)),((:head of gladiator facing left)),Carbone
+SMYD00012,D1.2,79,,Smyrna ,,,,,Gladiators,Drawing of a gladiator,((:figura gladiatoris)),((:figure of gladiator)),Carbone
+SMYD00013,D1.3,80,,Smyrna,,,,,Human Figures,Drawing of a face,((:herma viri)),((:bust of man)),Pictura
+SMYD00014,D1.4,82,,Smyrna,,,,,Plants,Drawing of an ivy leaf,((:folium hederae)),((:ivy leaf)),Carbone
+SMYDP0121,DP12.1,83,,Smyrna ,,,,,Animals,Drawing of a fish ,((:piscis nat ad sin.)),((:fish swimming to the left)),Carbone
+SMYT00021,T2.1,85,,Smyrna,,,,,,,,,Carbone
+SMYT00022,T2.2,86,,Smyrna,,,,,,,,,Carbone
+SMYD00021,D2.1,87,,Smyrna ,,,,,Boats,Drawing of a boat ,((:navis)),((:boat)),Carbone
+SMYT00041,T4.1,89,,Smyrna,,,,,,,,,Carbone
+SMYD00041,D4.1,90,,Smyrna,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYDP0151,DP15.1,91,,Smyrna ,,,,,Animals,Drawing of a fish,((:piscis natandus ad dext.)),((:fish swimming to the right)),Carbone
+SMYT00051,T5.1,93,,Smyrna,,,,,,"Declaration of love, isopsephism",,,Carbone
+SMYT00052,T5.2,94,,Smyrna,,,,,,,,,Carbone
+SMYT00053,T5.3,95,,Smyrna ,,,,,,,,,Carbone
+SMYD00051,D5.1,96,,Smyrna,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYD00052,D5.2,97,,Smyrna,,,,,Erotic images,Drawing of a phallus,((:phallus)),((:phallus)),Carbone
+SMYD00053,D5.3,98,,Smyrna ,,,,,Gladiator,Drawing of a gladiator,((:gladiator cum scuto)),((:gladiator with shield)),Pictura
+SMYT00061,T6.1,100,,Smyrna,,,,,,,,,Carbone
+SMYT00062,T6.2,101,,Smyrna,,,,,,,,,Carbone
+SMYD00061,D6.1,102,,Smyrna ,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYD00062,D6.2,103,,Smyrna,,,,,Animals,Drawing of a cat,((:feles)),((:cat)),Litt. Scariph.
+SMYT00081,T8.1,105,,Smyrna,,,,,,,,,Carbone
+SMYT00082,T8.2,106,,Smyrna ,,,,,,,,,Carbone
+SMYD00081,D8.1,108,,Smyrna,,,,,Erotic Images,Drawing of a Phallus,((:phallus)),((:phallus)),Carbone
+SMYD00082,D8.2,109,,Smyrna,,,,,Erotic Images,Drawing of a Phallus,((:phallus)),((:phallus)),Carbone
+SMYD00083,D8.3,110,,Smyrna ,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYD00084,D8.4,111,,Smyrna,,,,,Human figures,Drawing of a face,((:caput hominis ad sin.)),((:head of person facing left)),Carbone
+SMYD00085,D8.5,112,,Smyrna,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYD00086,D8.6,113,,Smyrna ,,,,,Human figures,Drawing of a stick figure,"((:figura hominis, tantum caput extat))","((:human figure, only head remains))",Carbone
+SMYD00087,D8.7,114,,Smyrna,,,,,Other,"Drawing of a venatio, hunting scene",((:venatio)),((:hunt)),"Carbone, Pictura"
+SMYT00091,T9.1,116,,Smyrna,,,,,,,,,Carbone
+SMYT00092,T9.2,117,,Smyrna,,,,,,,,,Carbone
+SMYT00093,T9.3,118,,Smyrna,,,,,,,,,Carbone
+SMYT00094,T9.4,119,,Smyrna,,,,,,,,,Carbone
+SMYT00095,T9.5,120,,Smyrna,,,,,,,,,Carbone
+SMYT00096,T9.6,122,,Smyrna,,,,,,,,,Carbone
+SMYT00097,T9.7,124,,Smyrna,,,,,,,,,Carbone
+SMYT00098,T9.8,126,,Smyrna,,,,,,,,,Carbone
+SMYT00099,T9.9,127,,Smyrna,,,,,,,,,Carbone
+SMYD00091,D9.1,128,,Smyrna ,,,,,Gladiator,Gladiator,"((:gladiator, murmillo cum scuto))","((:gladiator, murmillo with shield))",Carbone
+SMYD00092,D9.2,129,,Smyrna,,,,,Boat,Boats,((:navis)),((:ship)),Carbone
+SMYT00101,T10.1,131,,Smyrna,,,,,,,,,Carbone
+SMYT00102,T10.2,132,,Smyrna ,,,,,,,,,Carbone
+SMYD00101,D10.1,133,,Smyrna,,,,,Other,Drawing of an axe,((:securis)),((:axe)),Litt. Scariph. 
+SMYT00111,T11.1,135,,Smyrna,,,,,,,,,Carbone
+SMYT00112,T11.2,136,,Smyrna ,,,,,,,,,Carbone
+SMYT00113,T11.3,137,,Smyrna ,,,,,,,,,Carbone
+SMYT00114,T11.4,139,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYD00111,D11.1,141,,Smyrna,,,,,Boats,Drawing of a boat,((:navis)),((:ship)),"Carbone, Pictura"
+SMYD00112,D11.2,142,,Smyrna ,,,,,Gladiator,Drawing of a gladiator,((:gladiator cum palma ad sin.)),((:gladtiator with palm facing left)),Carbone
+SMYD00113,D11.3,143,,Smyrna,,,,,Gladiator,Drawing of a gladiator,((:gladiator cum scuto)),((:gladiator with shield)),Carbone
+SMYD00114,D11.4,144,,Smyrna,,,,,Human Figures,Drawing of a face,((:caput hominis ad sin.)),((:head of person facing left)),Carbone
+SMYD00115,D11.5,145,,Smyrna ,,,,,Erotic Images,Drawing of a phallus,((:phallus)),((:phallus)),Carbone
+SMYD00116,D11.6,146,,Smyrna ,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYT00121,T12.1,148,,Smyrna,,,,,,Word square,,,Carbone
+SMYT00122,T12.2,149,,Smyrna,,,,,,Healing Inscription ,,,Carbone
+SMYT00123,T12.3,151,,Smyrna ,,,,,,,,,Carbone
+SMYT00124,T12.4,153,,Smyrna,,,,,,,,,Carbone
+SMYT00125,T12.5,154,,Smyrna,,,,,,Praise of an Athlete,,,Carbone
+SMYT00126,T12.6,156,,Smyrna ,,,,,,,,,Carbone
+SMYT00127,T12.7,157,,Smyrna ,,,,,,,,,Carbone
+SMYT00128,T12.8,158,,Smyrna,,,,,,,,,Carbone
+SMYT00129,T12.9,159,,Smyrna,,,,,,,,,Carbone
+SMYT01210,T12.10,161,,Smyrna ,,,,,,,,,Carbone
+SMYD00121,D12.1,162,,Smyrna,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYD00122,D12.2,163,,Smyrna,,,,,Human figures,Drawing of a face,((:caput hominis ad sin.)),((:head of person facing left)),Carbone
+SMYD00123,D12.3,164,,Smyrna ,,,,,,,,,Carbone
+SMYD00124,D12.4,164,,Smyrna ,,,,,Gladiator,Drawing of a gladiator,((:galea gladiatoris ad sin.)),((:gladiatorial helmet facing left)),Carbone
+SMYD00125,D12.5,165,,Smyrna,,,,,Geometric designs,Drawing of a series of wavy lines,((:lineae)),((:lines)),Carbone
+SMYT00131,T13.1,167,,Smyrna,,,,,,,,,Carbone
+SMYT00132,T13.2,168,,Smyrna ,,,,,,,,,Carbone
+SMYT00133,T13.3,169,,Smyrna,,,,,,,,,Carbone
+SMYT00134,T13.4,171,,Smyrna,,,,,,,,,Carbone
+SMYT00141,T14.1,173,,Smyrna ,,,,,,,,,Carbone
+SMYT00142,T14.2,174,,Smyrna ,,,,,,,,,Carbone
+SMYT00143,T14.3,175,,Smyrna,,,,,,,,,Carbone
+SMYD00141,D14.1,176,,Smyrna,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYD00142,D14.2,177,,Smyrna ,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYD00143,D14.3,178,,Smyrna,,,,,Boats ,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYT00151,T15.1,180,,Smyrna,,,,,,,,,Carbone
+SMYT00152,T15.2,181,,Smyrna ,,,,,,,,,Carbone
+SMYT00153,T15.3,182,,Smyrna ,,,,,,,,,Carbone
+SMYT00154,T15.4,183,,Smyrna,,,,,,,,,Carbone
+SMYT00155,T15.5,184,,Smyrna,,,,,,,,,Carbone
+SMYT00156,T15.6,186,,Smyrna ,,,,,,,,,Carbone
+SMYT00157,T15.7,188,,Smyrna,,,,,,,,,Carbone
+SMYT00158,T15.8,189,,Smyrna ,,,,,,,,,Carbone
+SMYT00159,T15.9,190,,Smyrna ,,,,,,Signature,,,Carbone
+SMYT01510,T15.10,191,,Smyrna,,,,,,,,,Carbone
+SMYD00151,D15.1,192,,Smyrna,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYD00152,D15.2,193,,Smyrna ,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYD00153,D15.3,194,,Smyrna,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYD00154,D15.4,195,,Smyrna,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYD00155,D15.5,196,,Smyrna ,,,,,Gladiators,Drawing of a gladiator,"((:gladiator, secutor))","((:gladiator, secutor))",Carbone
+SMYD00156,D15.6,197,,Smyrna ,,,,,Gladiators,Drawing of a gladiator,"((:gladiator, provocator))","((:gladiator, provocator))",Carbone
+SMYT00161,T16.1,200,,Smyrna,,,,,,,,,Carbone
+SMYT00162,T16.2,201,,Smyrna,,,,,,,,,Carbone
+SMYD00161,D16.1,202,,Smyrna ,,,,,Erotic Images,Drawing of a phallus,((:phallus)),((:phallus)),Carbone
+SMYD00171,D17.1,204,,Smyrna,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYD00172,D17.2,205,,Smyrna,,,,,Boats ,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYD00181,D18.1,206,,Smyrna ,,,,,Geometric designs,Drawing of a geometric pattern,((:lineae interscissae)),((:intersecting lines)),Litt. Scariph. 
+SMYD00191,D19.1,208,,Smyrna ,,,,,Boats ,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYD00192,D19.2,209,,Smyrna,,,,,Human figures ,Drawing of a face,((:figura viri)),((:figure of man)),Pictura
+SMYD00193,D19.3,211,,Smyrna,,,,,Other,Thymiaterion,((:thymiaterion)),((:incense burner)),Pictura
+SMYT00201,T20.1,213,,Smyrna,,,,,,,,,Carbone
+SMYT00202,T20.2,214,,Smyrna,,,,,,,,,Carbone
+SMYT00203,T20.3,216,,Smyrna,,,,,,,,,Carbone
+SMYT00204,T20.4,218,,Smyrna,,,,,,,,,Carbone
+SMYD00201,D20.1,219,,Smyrna,,,,,Human figures,Drawing of faces,((:duo capita hominum)),((:two heads of people)),Carbone
+SMYDP0321,DP32.1,220,,Smyrna,,,,,Geometric designs,Drawing of a radial pattern,((:denarius?)),((:symbol for denarius?)),Litt. Scariph.
+SMYT00211,T21.1,222,,Smyrna,,,,,,,,,"Pictura, Litt. Scariph."
+SMYD00211,D21.1,224,,Smyrna,,,,,Human figures,Drawing of a face,((:caput hominis)),((:head of person)),Carbone
+SMYT00221,T22.1,226,,Smyrna,,,,,,"Declaration of love, isopsephism",,,Litt. Scariph. 
+SMYT00222,T22.2,227,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYT00223,T22.3,228,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYD00221,D22.1,229,,Smyrna,,,,,Human figures,Portrait / Drawing of a face,((:caput hominis ad sin.)),((:head of a person facing left)),Carbone
+SMYD00222,D22.2,230,,Smyrna,,,,,Gladiators,Drawing of gladiatorial combat,"((:certamen gladiatorum, provocatores))","((:gladiator contest, provocators))",Carbone
+SMYDP0341,DP34.1,231,,Smyrna,,,,,Geometric designs,Drawing of a circle,((:duo circuli)),((:two circles)),Litt. Scariph. 
+SMYDP0342,DP34.2,232,,Smyrna,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Litt. Scariph. 
+SMYT00241,T24.1,235,,Smyrna,,,,,,,,,Carbone
+SMYT00242,T24.2,236,,Smyrna,,,,,,"Declaration of love, isopsephism",,,Carbone
+SMYT00243,T24.3,237,,Smyrna,,,,,,,,,Carbone
+SMYT00244,T24.4,239,,Smyrna,,,,,,,,,Carbone
+SMYT00245,T24.5,240,,Smyrna,,,,,,,,,Carbone
+SMYD00241,D24.1,241,,Smyrna,,,,,Erotic Images,Drawing of a phallus,((:phallus)),((:phallus)),Pictura
+SMYD00242,D24.2,242,,Smyrna,,,,,Erotic Images,Drawing of a phallus,((:phallus)),((:phallus)),Carbone
+SMYD00243,D24.3,243,,Smyrna,,,,,Erotic Images,Drawing of a phallus,((:phallus)),((:phallus)),Carbone
+SMYT00251,T25.1,245,,Smyrna,,,,,,,,,Carbone
+SMYT00252,T25.2,246,,Smyrna,,,,,,,,,Carbone
+SMYT00253,T25.3,247,,Smyrna,,,,,,,,,Carbone
+SMYT00254,T25.4,249,,Smyrna,,,,,,,,,Carbone
+SMYT00255,T25.5,250,,Smyrna,,,,,,,,,Carbone
+SMYT00256,T25.6,251,,Smyrna,,,,,,,,,Carbone
+SMYD00251,D25.1,252,,Smyrna,,,,,Erotic Images,Drawing of a phallus,((:phallus)),((:phallus)),Carbone
+SMYD00252,D25.2,253,,Smyrna,,,,,Erotic Images,Drawing of a phallus,((:phallus)),((:phallus)),Carbone
+SMYD00253,D25.3,254,,Smyrna,,,,,Erotic Images ,Drawing of a phallus,((:phallus)),((:phallus)),Carbone
+SMYD00254,D25.4,255,,Smyrna,,,,,Human Figures,Drawing of a face,((:caput hominis ad sin.)),((:head of person facing left)),Carbone
+SMYD00255,D25.5,256,,Smyrna,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYD00256,D25.6,257,,Smyrna,,,,,Human Figures,Drawing of a face,((:caput hominis)),((:head of person)),Carbone
+SMYD00257,D25.7,258,,Smyrna,,,,,Gladiator,Drawing of a gladiator,"((:gladiator cum scuto et ferro ad sin., provocator))","((:gladiator with shield and sword facing left, provocator))",Carbone
+SMYD00258,D25.8,259,,Smyrna,,,,,Plants ,Drawing of an ivy leaf,((:folium hederae)),((:ivy leaf)),Carbone
+SMYD00259,D25.9,260,,Smyrna,,,,,Erotic images,Drawing of a phallus,((:phallus)),((:phallus)),Carbone
+SMYD00261,D26.1,261,,Smyrna,,,,,Gladiator,Drawing of a gladiator,"((:gladiator ad dext., secutor))","((:gladiator facing right, secutor))",Carbone
+SMYD00262,D26.2,262,,Smyrna,,,,,Erotic images,Drawing of a phallus,((:phallus)),((:phallus)),Carbone
+SMYT00271,T27.1,264,,Smyrna,,,,,,,,,Carbone
+SMYT00272,T27.2,265,,Smyrna,,,,,,,,,Carbone
+SMYT00273,T27.3,267,,Smyrna,,,,,,,,,Carbone
+SMYD00271,D27.1,268,,Smyrna,,,,,Boats,Drawing of a boat,((:naves)),((:boats)),Carbone
+SMYD00272,D27.2,269,,Smyrna,,,,,Other,Drawing of architecture,((:ianua)),((:doorway)),Carbone
+SMYT00281,T28.1,271,,Smyrna,,,,,,,,,Carbone
+SMYT00282,T28.2,272,,Smyrna,,,,,,,,,Carbone
+SMYT00283,T28.3,273,,Smyrna,,,,,,"Declaration of love, isopsephism",,,Carbone
+SMYT00284,T28.4,274,,Smyrna,,,,,,,,,Carbone
+SMYD00281,D28.1,275,,Smyrna,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYD00282,D28.2,276,,Smyrna,,,,,Gladiators,Drawing of a gladiator,((:gladiator sine capite ad dext.)),((:headless gladiator facing right)),Carbone
+SMYD00283,D28.3,278,,Smyrna,,,,,Gladiators,Drawing of gladiatorial combat,((:certamen gladiatorum)),((:gladiator combat)),Carbone
+SMYD00284,D28.4,280,,Smyrna,,,,,Gladiators,Drawing of a gladiator,((:pars gladiatoris)),((:part of a gladiator? scene uncertain)),Carbone
+SMYD00285,D28.5 ,282,,Smyrna,,,,,Gladiators,Drawing of gladiatorial combat,((:certamen gladiatorum)),((:gladiator combat)),Carbone
+SMYD00286,D28.6,283,,Smyrna,,,,,Gladiators,Drawing of gladiatorial combat,((:certamen gladiatorum)),((:gladiator combat)),Carbone
+SMYD00287,D28.7,285,,Smyrna,,,,,Gladiators,Drawing of a gladiator,"((:gladiator cum scuto, provocator))","((:gladiator with shield, provocator))",Carbone
+SMYD00288,D28.8,286,,Smyrna,,,,,Human figures,Drawing of spectators,((:figurae hominum)),((:figures of people)),Carbone
+SMYT00291,T29.1,290,,Smyrna,,,,,,,,,Carbone
+SMYT00292,T29.2,293,,Smyrna,,,,,,,,,Carbone
+SMYT00293,T29.3,294,,Smyrna,,,,,,,,,Carbone
+SMYT00294,T29.4,295,,Smyrna,,,,,,,,,Carbone
+SMYT00295,T29.5,297,,Smyrna,,,,,,,,,Carbone
+SMYT00296,T29.6,298,,Smyrna,,,,,,,,,Carbone
+SMYT00297,T29.7,299,,Smyrna,,,,,,,,,Carbone
+SMYT00298,T29.8,300,,Smyrna,,,,,,,,,Carbone
+SMYD00291,D29.1,301,,Smyrna,,,,,Gladiators,Drawing of a gladiator,"((:gladiator cum scuto et ferro et palo ad dext., provocator))","((:gladiator with shield and sword and prop, provocator))",Carbone
+SMYD00292,D29.2,302,,Smyrna,,,,,Other,Drawing of a venatio,((:venatio)),((:hunt)),Pictura
+SMYD00293,D29.3,304,,Smyrna,,,,,Human figures,Drawing of a face,((:caput hominis)),((:head of person)),Carbone
+SMYD00294,D29.4,305,,Smyrna,,,,,Human figures,Drawing of a stick figure,((:figura hominis)),((:figure of person)),Carbone
+SMYD00295,D29.5,306,,Smyrna,,,,,Human figures,Drawing of a face,((:duo capita hominum ad sin.)),((:heads of people facing left)),Carbone
+SMYD00296,D29.6,307,,Smyrna,,,,,Gladiators,Drawing of a gladiator,((:gladiator cum scuto et corona)),((:gladiator with shield and wreath)),Carbone
+SMYD00297,D29.7,308,,Smyrna,,,,,Erotic images,Drawing of a phallus,((:phallus)),((:phallus)),Carbone
+SMYD00298,D29.8,309,,Smyrna,,,,,Other,Drawing of a venatio - detail of bird,((:avis)),((:bird)),Carbone
+SMYD00299,D29.9,310,,Smyrna,,,,,Animals ,Drawing of a bird,((:avis)),((:bird)),Carbone
+SMYD02910,D29.10,311,,Smyrna,,,,,Animals ,Drawing of a bird,((:avis)),((:bird)),Carbone
+SMYD02911,D29.11,312,,Smyrna,,,,,Gladiators; Plants,Drawing of a gladiator and palm branches,((:gladiator cum palmis)),((:gladiator with palm branches)),Carbone
+SMYD02912,D29.12,314,,Smyrna,,,,,Erotic images,Drawing of a phallus,((:phallus)),((:phallus)),Carbone
+SMYD02913,D29.13,315,,Smyrna,,,,,Other,Drawing of a venatio,((:venatio))),((:hunt)),Carbone
+SMYT00301,T.30.1,316,,Smyrna,,,,,,,,,pictura
+SMYT00302,T.30.2,317,,Smyrna,,,,,,,,,pictura
+SMYD00301,D30.1,318,,Smyrna,,,,,Animals,Drawing of a large feline,"((:feles magna, leo?))","((:large feline, lion?))",Carbone
+SMYD00302,D30.2,319,,Smyrna,,,,,Other,Uncertain / Drawing of elephant?,((:elephantus)),((:elephant)),Carbone
+SMYD00311,D31.1,321,,Smyrna,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYDP0431,DP43.1,322,,Smyrna,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Litt. Scariph.
+SMYDP0432,DP43.2,323,,Smyrna,,,,,Plants,Drawing of a palm branch,((:palma)),((:palm branch)),Pictura
+SMYDP0433,DP43.3,324,,Smyrna,,,,,Other ,Drawing of uncertain image,((:imago incerta)),((:drawing unclear)),Carbone
+SMYT00321,T32.1,326,,Smyrna,,,,,,,,,Carbone
+SMYT00322,T32.2,328,,Smyrna,,,,,,,,,Carbone
+SMYD00321,D32.1,329,,Smyrna,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYD00322,D32.2,330,,Smyrna,,,,,Boats,Drawing of a boat,((:navis)),((:boats)),Carbone
+SMYD00323,D32.3,331,,Smyrna,,,,,Human figures,Portrait / Drawing of a face,((:caput hominis ad sin.)),((:head of person facing left)),Carbone
+SMYT00331,T33.1,332,,Smyrna,,,,,,,,,Carbone
+SMYT00332,T33.2,334,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYD00341,D34.1,335,,Smyrna,,,,,Geometric designs,Drawing of geometric pattern,((:quadrum cum linea)),((:square with line)),Litt. Scariph. 
+SMYT00381,T38.1,336,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYT00421,T42.1,337,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYT00422,T42.2,338,,Smyrna,,,,,,"Declaration of love, isopsephism",,,Litt. Scariph.
+SMYDP0541,DP54.1,339,,Smyrna,,,,,Human figures,Drawing of a face,((:duo capita hominum ad sin.)),((:heads of two people facing left)),Litt. Scariph. 
+SMYDP0542,DP54.2,340,,Smyrna,,,,,Gladiators,Drawing of a gladiator,"((:gladiator ad dext., eques))","((:gladiator facing right, eques))",Litt. Scariph. 
+SMYT00521,T52.1,341,,Smyrna,,,,,,,,,Carbone
+SMYD00601,D60.1,342,,Smyrna,,,,,Boats ,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYDP0601,DP60.1,343,,Smyrna,,,,,Plants,Drawing of a garden,((:hortus)),((:garden)),Pictura
+SMYTP0631,TP63.1,344,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYTP0632,TP63.2,346,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYTP0633,TP63.3,347,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYTP0681,TP68.1,348,,Smyrna,,,,,,,,,Carbone
+SMYTP0682,TP68.2,349,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYTP0683,TP68.3,350,,Smyrna,,,,,,,,,Carbone
+SMYTP0684,TP68.4,351,,Smyrna,,,,,,,,,Carbone
+SMYTP0691,TP69.1,352,,Smyrna,,,,,,,,,Carbone
+SMYTP0701,TP70.1,353,,Smyrna,,,,,,,,,Carbone
+SMYTP0702,TP70.2,354,,Smyrna,,,,,,,,,Carbone
+SMYTP0703,TP70.3,355,,Smyrna,,,,,,,,,Carbone
+SMYTP0704,TP70.4,357,,Smyrna,,,,,,,,,Carbone
+SMYTP0705,TP70.5,358,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYTP0711,TP71.1,359,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYDP0711,DP71.1,361,,Smyrna,,,,,Plants,Drawing of an ivy leaf,((:folium heredae)),((:ivy leaf)),Carbone
+SMYDP0712,DP71.2,362,,Smyrna,,,,,Plants,Drawing of Palm branches,((:palmae)),((:palm branches)),Litt. Scariph. 
+SMYDP0713,DP71.3,363,,Smyrna,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Litt. Scariph.
+SMYTP0721,TP72.1,363,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYTP0722,TP72.2,365,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYTP0723,TP72.3,366,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYDP0721,DP72.1,367,,Smyrna,,,,,Other ,Drawing of a symbol,((:tres circuli cum linea)),((:three circles with line)),Litt. Scariph. 
+SMYTP0731,TP73.1,368,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYDP0731,DP73.1,369,,Smyrna,,,,,Animals,Drawing of a bird,((:avis)),((:bird)),Litt. Scariph. 
+SMYDP0732,DP73.2,370,,Smyrna,,,,,Other,Drawing of uncertain image,((:imago incerta)),((:drawing unclear)),Carbone
+SMYTP0741,TP74.1,371,,Smyrna,,,,,,,,,Carbone
+SMYTP0742,TP74.2,372,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYTP0743,TP74.3,373,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYTP0744,TP74.4,374,,Smyrna,,,,,,,,,Carbone
+SMYDP0741,DP74.1,375,,Smyrna,,,,,Boats ,Drawing of a boat,((:navis)),((:boat)),Litt. Scariph. 
+SMYDP0742,DP74.2,376,,Smyrna,,,,,Gladiators,Drawing of a gladiator,((:gladiator)),((:gladiator)),Carbone
+SMYDP0743,DP74.3,377,,Smyrna,,,,,Gladiators,Drawing of a gladiator,((:gladiator ad dext.)),((:gladiator facing right)),Carbone
+SMYDP0751,DP75.1,378,,Smyrna,,,,,Boats ,Drawing of a boat,((:navis)),((:boat)),Litt. Scariph. 
+SMYTP0761,TP76.1,379,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYDP0761,DP76.1,381,,Smyrna,,,,,Animals ,Drawing of a fish,((:piscis)),((:fish)),Litt. Scariph. 
+SMYTP0771,TP77.1,382,,Smyrna,,,,,,,,,Carbone
+SMYTP0781,TP78.1,383,,Smyrna,,,,,,,,,Carbone
+SMYTP0782,TP78.2,385,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYTP0783,TP78.3,387,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYDP0781,DP78.1,389,,Smyrna,,,,,Boats ,Drawing of a boat,((:duo naves)),((:two boats)),Litt. Scariph. 
+SMYDP0782,DP78.2,390,,Smyrna,,,,,Other,Drawing of an axe,((:securis)),((:axe)),"Litt. Scariph., Pictura"
+SMYDP0783,DP78.3,391,,Smyrna,,,,,Boats ,Drawing of a boat,((:navis)),((:boat)),Litt. Scariph. 
+SMYDP0811,DP81.1,392,,Smyrna,,,,,Plants ,Drawing of a Rosette,((:circulus continens florem)),((:circle containing flower)),Litt. Scariph. 
+SMYDP0812,DP81.2,393,,Smyrna,,,,,Geometric designs,Drawing of a circle,((:quattuor circuli)),((:four circles)),Litt. Scariph. 
+SMYDP0813,DP81.3,394,,Smyrna,,,,,Boats ,Drawing of a boat,((:navis)),((:boat)),Litt. Scariph. 
+SMYDP0831,DP83.1,395,,Smyrna,,,,,Animals,Drawing of a bull,((:taurus)),((:bull)),Litt. Scariph. 
+SMYTP0841,TP84.1,396,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYTP0842,TP84.2,397,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYTP0843,TP84.3,398,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYTP0844,TP84.4,399,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYTP0845,TP84.5,399,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYTP0846,TP84.6,400,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYTP0847,TP84.7,401,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYDP0841,DP84.1,402,,Smyrna,,,,,Animals,Drawing of a bird,((:avis)),((:bird)),Carbone
+SMYDP0842,DP84.2,403,,Smyrna,,,,,Boats ,Drawing of a boat,((:navis)),((:boat)),Litt. Scariph. 
+SMYDP0843,DP84.3,404,,Smyrna,,,,,Geometric designs,Drawing of a geometric pattern,((:lineae interscissae)),((:intersecting lines)),Litt. Scariph. 
+SMYDP0844,DP84.4,405,,Smyrna,,,,,Boats ,Drawing of a boat,((:navis)),((:boat)),Litt. Scariph. 
+SMYDP0845,DP84.5,406,,Smyrna,,,,,Geometric designs,Drawing of a checkerboard,((:lineae interscissae)),((:possibly a gameboard - checkers?)),Carbone
+SMYDP0851,DP85.1,407,,Smyrna,,,,,Boats ,Drawing of a boat,((:navis)),((:boat)),Litt. Scariph. 
+SMYTP0931,TP93.1,408,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYDP0931,DP93.1,409,,Smyrna,,,,,Geometric designs,Drawing of a circle,((:circulus)),((:circle)),Litt. Scariph. 
+SMYTP0941,TP94.1,409,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYTP0942,TP94.2,410,,Smyrna,,,,,,,,,Carbone
+SMYTP0943,TP94.3,411,,Smyrna,,,,,,,,,Pictura
+SMYTP0945,TP94.5,412,,Smyrna,,,,,,,,,Carbone
+SMYDP0941,DP94.1,413,,Smyrna,,,,,Animals,Drawing of a bird,"((:avis, olor?))","((:long-necked bird, swam?))",Carbone
+SMYDP0942,DP94.2,414,,Smyrna,,,,,Boats ,Drawing of a boat,((:navis)),((:boat)),Pictura
+SMYDP0943,DP94.3,415,,Smyrna,,,,,Plants,Drawing of an ivy leaf,((:folium heredae)),((:ivy leaf)),Carbone
+SMYTP0961,TP96.1,416,,Smyrna,,,,,,,,,Carbone
+SMYTP0962,TP96.2,417,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYTP0963,TP96.3,418,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYTP0964,TP96.4,418,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYDP0961,DP96.1,419,,Smyrna,,,,,Gladiator,Drawing of a gladiator,"((:gladiator cum scuto ad sin., hoplomachus))","((:gladiator with shield facing left, hoplomachus",Litt. Scariph. 
+SMYTP1001,TP100.1,420,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYTP1002,TP100.2,421,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYTP1003,TP100.3,422,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYTP1004,TP100.4,424,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYTP1005,TP100.5,427,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYTP1006,TP100.6,428,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYTP1007,TP100.7,429,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYDP1001,DP100.1,430,,Smyrna,,,,,Boats ,Drawing of a boat,((:navis)),((:boat)),Litt. Scariph. 
+SMYDP1002,DP100.2,432,,Smyrna,,,,,Other,Drawing of architecture,((:domus)),((:house)),Litt. Scariph. 
+SMYDP1003,DP100.3,434,,Smyrna,,,,,Animals,Drawing of stags,"((:tria animalia, cervi?))","((:three animals, stags?))",Litt. Scariph. 
+SMYDP1004,DP100.4,435,,Smyrna,,,,,Boats ,Drawing of a boat,((:navis)),((:boat)),Carbone
+SMYDP1011,DP101.1,436,,Smyrna,,,,,Boats ,Drawing of a boat,((:duo naves)),((:two boats)),Carbone
+SMYDP1012,DP101.2,437,,Smyrna,,,,,Other,Drawing of architecture,((:aedificium)),((:square building)),Carbone
+SMYDP1021,DP102.1,438,,Smyrna,,,,,Boats ,Drawings of boats ,((:navis)),((:boat)),Litt. Scariph. 
+SMYTP1031,TP103.1,439,,Smyrna,,,,,Geometric design,Drawing of stars,((:stellae)),((:stars)),Carbone
+SMYTP1032,TP103.2,440,,Smyrna,,,,,,,,,Carbone
+SMYTP1033,TP103.3,441,,Smyrna,,,,,,,,,Carbone
+SMYDP1031,DP103.1,442,,Smyrna,,,,,Geometric design,Star,((:duo stellae)),((:two stars)),Carbone
+SMYTP1041,TP104.1,443,,Smyrna,,,,,Geometric design,Detail - drawing of a star,((:stella)),((:star)),Carbone
+SMYTP1042,TP104.2,446,,Smyrna,,,,,,,,,Carbone
+SMYDP1041,DP104.1,447,,Smyrna,,,,,Human figures,Drawing of a face,((:duo capita hominum)),((:two heads of people)),Carbone
+SMYTP1051,TP105.1,448,,Smyrna,,,,,,,,,Carbone
+SMYDP1051,DP105.1,449,,Smyrna,,,,,Gladiator,Drawing of gladiatorial combat,((:certamen gladiatorum)),((:gladiator combat)),Carbone
+SMYTP1091,TP109.1,450,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYTP1092,TP109.2,451,,Smyrna,,,,,,,,,Litt. Scariph. 
+SMYTP1093,TP109.3,451,,Smyrna,,,,,,Obscene graffito,,,Litt. Scariph.
+SMYTP1094,TP109.4,453,,Smyrna,,,,,,,,,Litt. Scariph.
+SMYDP1091,DP109.1,454,,Smyrna,,,,,Other,Drawing of architecture,((:aedes cum columnis et scalis)),((:temple with columns and stairs)),Litt. Scariph.
+SMYDP1092,DP109.2,456,,Smyrna,,,,,Other ,Drawing of architecture,((:aedes)),((:temple)),Litt. Scariph.
+SMYDP1121,DP112.1,457,,Smyrna,,,,,Boats ,Drawing of boats,((:duo naves)),((:two boats)),Litt. Scariph.
+SMYDP1122,DP112.2,458,,Smyrna,,,,,Boats ,Drawing of a boat,((:navis)),((:boat)),Litt. Scariph.
+SMYDP1123,DP112.3,459,,Smyrna,,,,,Boats ,Drawing of a boat,((:navis)),((:boat)),Litt. Scariph.
+SMYTP1281,TP128.1,460,,Smyrna,,,,,,,,,Carbone
+SMYDP1551,DP155.1,462,,Smyrna,,,,,Boats,Drawing of a boat,((:navis)),((:boat)),Carbone

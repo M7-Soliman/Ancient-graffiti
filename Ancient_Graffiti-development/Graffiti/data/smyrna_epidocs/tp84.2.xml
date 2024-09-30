@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TP84.2.: Riddle (beginning)</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, <author>R. Casagrande-Kim</author>, <author>A.
+                        Ersoy</author>, <author>C. Tanriver</author> and <author>B.
+                    Yolaçan</author>, <title level="m">Graffiti from the Basilica in the Agora of
+                        Smyrna</title> (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), <biblScope unit="item">TP84.2.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-tp84-2</idno>
+                        <msName>Smyrna Agora Basilica TP84.2.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Pier 84. To the left of TP84.1.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Graffito/incised</rs> In an area: <dimensions>
+                                        <height unit="centimeter">2.5</height>
+                                        <width unit="centimeter">10</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>The first inscription has letter <height unit="centimeter" scope="letter">2</height> cm high; another inscription with larger letters (<height unit="centimeter" scope="letter">3.5</height> cm high)can be found below.</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+            <div type="textpart" subtype="section" n="Upper">
+                <ab> 
+                    <lb n="1"/>ζητη
+                </ab>
+            </div>
+            <div type="textpart" subtype="section" n="Below">
+                <ab>
+                    <lb n="1"/>ΛΥΚΟ
+                </ab>
+            </div>
+            </div>
+            <div type="apparatus">
+                <div type="commentary" subtype="section" n="Upper">
+                    <ab>Presumably the writer had ζήτημα in mind; but there is nothing further afterward.</ab>
+                </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+                <div type="commentary" subtype="section" n="Below">
+                    <ab>There are no visible traces to suggest that the word was completed.</ab>
+                </div>
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 397.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

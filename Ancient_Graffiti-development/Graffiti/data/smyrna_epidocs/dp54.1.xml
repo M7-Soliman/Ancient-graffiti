@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>DP54.1.: Portrait-Heads</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >DP54.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-dp54-1</idno>
+                        <msName>Smyrna Agora Basilica DP54.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>On the south face of Pier A54, between Bays 42 and 43.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Graffito/incised</rs> Dimensions of the left-hand head:<dimensions>
+                                        <height unit="centimeter">7</height>
+                                        <width unit="centimeter">4</width>
+                                    </dimensions>
+                                    
+                                    Dimensions of the right-hand head:<dimensions>
+                                        <height unit="centimeter">6</height>
+                                        <width unit="centimeter">4</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en">Portrait-Heads</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab/>
+            </div>
+
+            <div type="apparatus"> 
+                <p /> 
+            </div> 
+            <div type="translation">
+                
+                <ab/>
+            </div>
+            <div type="commentary">
+                <ab>Graffito of two male heads, located at the southern face of Pier A54, looking into the Basilica’s northern corridor. Both heads are in profile, turned toward the left. The head to the left, possibly of a younger man, is characterized by a tall and curved forehead, a long eyebrow above an oval eye with marked pupil, small pointed nose, and undershot chin. The neck is short and thin, and the image is cut right below it by a straight line. The top of the head has no indication of individual curls: the man is either bald or with extremely short hair. <lb/>The man to the right, older in age, has a rounded forehead, small eye, stocky nose, and a long and pointed chin. The neck is short and squat, and a straight line at its base closes the image. Over his head is a series of radial lines that can be interpreted as hair or a wreath. The two men can be understood as spectators looking at a gladiator located to the left of this scene (see DP54.2). but a connection to T42.2 is also possible (see comment to that text).</ab>
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 339.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

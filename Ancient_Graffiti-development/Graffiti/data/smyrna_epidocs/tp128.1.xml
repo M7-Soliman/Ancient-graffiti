@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TP128.1.: Good wishes</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >TP128.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-tp128-1</idno>
+                        <msName>Smyrna Agora Basilica TP128.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Pier 128. On the south wall, 140 cm from floor.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Dimensions of area:
+                                            <dimensions>
+                                        <height unit="centimeter">41</height>
+                                        <width unit="centimeter">45</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Letter heights: <height unit="centimeter" min="2.5" max="5" scope="letter">2-5-5</height> cm high</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+                    <lb n="2"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/>ταθίου <w lemma="καί">καὶ</w> πρωτο <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><w lemma="εὔχομαι"><unclear>ε</unclear>ὐχόμεθα</w> <w lemma="εὐτυχέω"><unclear>ε</unclear>ὐτυχεῖ<supplied reason="lost">ν</supplied></w>
+                    <lb n="5"/><w lemma="μετά">μετὰ</w> <w lemma="ἐγώ">ἡμῶν</w>. <w lemma="εὐτυχέω">εὐτύχ<supplied reason="lost">ει</supplied></w>
+                    <lb n="6"/><persName type="attested"><name nymRef="nametable.xml#Σαβεῖνος" type="cognomen"><unclear>Σ</unclear>αβεῖνε</name></persName> <w lemma="μετά">μετὰ</w> <persName type="attested"><name nymRef="nametable.xml#Εὐστάθιος" type="cognomen">Εὐστα
+                    <lb n="7" break="no"/><del rend="erasure">ΥΤΩ</del>θίου</name></persName>. <space unit="character"/>
+                    <lb n="8"/><w lemma="εὔχομαι"><choice><reg>εὐχόμεθα</reg><orig>εὐθόμεθα</orig></choice></w> <w lemma="σύ">σὲ</w> <w lemma="">εὐτυχεῖ<supplied reason="lost">ν</supplied></w>
+                    <lb n="9"/><w lemma="μετά">μετὰ</w> <w lemma="'εγώ"><choice><reg>ἡμῶν</reg><orig>ὑ<unclear>μ</unclear>ῶν</orig></choice></w>
+                    <lb n="10"/><w lemma="πολύς">πολλ<hi rend="superscript">ο</hi>ῖς</w><w lemma="ἔτος">ἔτεσιν</w>.
+                </ab>
+            </div>
+            <div type="apparatus">
+                <ab>1. Only the bottoms of letters are visible.<lb/>
+                    2. Presumably this is another appearance of the name Eustathios, although that does not give a good syllabic division. The appearance of this name, common in the fourth century and later, may suggest a relatively late date, although LGPN 4 137 lists one example from Thessalonike dated as early as the second to third century. Perhaps simply πρῶτον̣ at the end, but there are other possibilities.<lb/>
+                    5. Only the top tip of sigma ligaturing into alpha is visible at the start, but we cannot see any other possible interpretation of these letters. A referee remarks that Sabinus is a common gladiatorial stage name (thinking perhaps of Messalina’s lover of that name in Cassius Dio 60.28) and suggests that the good wishes here might be for success in gladiatorial games. But Eustathios hardly seems to fit that hypothesis, and Sabinus is in general a very common name and not characteristic of slaves.<lb/>
+                    7. Read <w lemma="εὔχομαι">εὐχόμεθα</w>.<lb/>
+                    8. Read (as in line 3) <w lemma="'εγώ">ἡμῶν</w>.</ab>
+            </div> 
+            <div type="translation">
+                <ab>“. . . [Eus]tathios (?) and first . . . We pray to have good fortune with us. Good luck, Sabinus with Eustathios. We pray that you may have good fortune with us for many years.”</ab>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 460-461.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

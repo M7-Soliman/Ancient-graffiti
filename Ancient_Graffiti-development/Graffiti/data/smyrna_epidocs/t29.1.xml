@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T29.1.: Declaration of Love and Literary Allusion</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >T29.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t29-1</idno>
+                        <msName>Smyrna Agora Basilica T29.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 29 [= G36, between Piers A40 and A41]. The foot of this inscription is about 1.6 m from the ground and abuts the right edge of the bay.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> It is unclear if it originally began above the preserved edge of the plaster.Area ca.:
+                                            <dimensions>
+                                        <height unit="centimeter">52</height>
+                                        <width unit="centimeter">77</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Possibly two hands, although both are in detached capitals: the letters of the top 3 lines have some style, with flourishes and serifs. Letter heights: <height unit="centimeter" scope="letter">9</height> cm high; those of the lower 3 lines are cruder, ca. <height unit="centimeter" min="5" max="7" scope="individualline">5-7</height>cm high</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/><w lemma="φιλέω"><supplied reason="lost">φι</supplied><unclear>λ</unclear>ῶ</w> <w lemma="φιλέω">φιλοῦσα</w> <w lemma="μή">μὴ</w> <w lemma="φιλέω">φι
+                    <lb n="2" break="no"/>λοῦσαν</w>. <w lemma="γράφω">ἐκράφη</w> <w lemma="σύ">σου</w>
+                    <lb n="3"/><w lemma="δάκτυλος" cert="medium">δακτυλ<unclear>εις</unclear></w>.
+                    <lb n="4"/><space quantity="5" unit="character"/><w lemma="τίς">τί</w> <w lemma="πόλεμος">πόλεμον</w>
+                    <lb n="5"/><space quantity="5" unit="character"/><w lemma="λέγω">εἴπεις</w>; <w lemma="">τοῦ</w> <w lemma="δέ">δὲ</w> <w lemma="σύ">σοῦ</w>
+                    <lb n="6"/><space quantity="9" unit="character"/><w lemma="διόλλυμι">διώλεσε<unclear>ν</unclear></w>;
+                </ab>
+            </div>
+            <div type="apparatus">
+                <ab>1–2. The feminine in the participle <w lemma="φιλέω">φιλοῦσα</w> suggests a female writer (or at least persona), the only demonstrable such case among the graffiti. There is, however, a likely case of female homoerotic desire expressed in Pompeian graffiti, now discussed at length by Milnor, K., Graffiti and the Literary Landscape in Roman Pompeii (2014): 191–223. The Pompeian texts raise complex issues, fully treated by Milnor, about agency and authorship; some of those face us as well in the present graffito, but its more pedestrian and (in the first part) non-literary character may make us more inclined to see in it actual selfexpression by a woman than some would wish to admit in the Pompeian case.<lb/>
+                    2. <w lemma="γράφω">ἐκράφη</w>, κ corrected from χ. Read <w lemma="γράφω">ἐγράφη</w>. The αν preceding is written in somewhat larger letters than what precedes, which might lead one to consider <w lemma="ἀναγράφω">ἀνεκράφη</w>. But we cannot see how to make acceptable Greek of <w lemma="μή">μὴ</w> <w lemma="φίλος">φίλους</w>, so both grammar and sense seem to support the reading printed. That, of course, points to a female object of the love of the female writer/ persona in line 1. It is not clear to us if the following three words are the product of the same writer or of a second writer responding in some fashion (cf. note to line 3). The letters seem much the same.<lb/>
+                    3. Between lambda and sigma the writer’s final intentions are not clear. It appears that (s)he first wrote an eta, then changed that to epsilon-iota. As there is no form <w lemma="δάκτυλος">δακτυλεις</w> in Greek, it seems most likely that the writer intended <w lemma="δάκτυλος">δακτύλοις</w>; one might perhaps translate “It was written with your fingers.” But the significance of this is unclear to us.<lb/>
+                    4–6. These lines, written as noted in a smaller and somewhat cruder hand, are indented as shown. Whether that is the case because the figure drawn to their left was already in place, we cannot say. They offer a remarkably garbled reminiscence of, or attempt to quote, Euripides, Herc. 1134, τί πόλεμον εἶπας; τούσδε τίς διώλεσεν; Herakles has just recovered from madness and found his children dead. For Euripides on the wall at Pompeii, cf. Milnor, K., Graffiti and the Literary Landscape in Roman Pompeii (2014): 233. The concluding nu in line 6 is uncertain and could be a sigma; that would only increase the garbling of the quotation. 
+                </ab>
+            </div> 
+            <div type="translation">
+                <ab>“I love, loving one who does not love (me). It was written with your fingers (?). What war do you mean? Who killed these?”</ab>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 290-292.</p>
+                <p>Bagnall, R., Everyday Writing in the Graeco-Roman East (2011): 15-16.</p>
+                <p>SEG 61.958.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,153 @@
+@CHARSET "UTF-8";
+
+/*
+Style sheet for the details page. Also accessed by several other pages regularly: rename?
+*/
+* {
+	box-sizing: border-box;
+}
+
+/*Used in details.jsp for buttons(format?)*/
+
+/*Used in details.jsp.*/
+.fluid-img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 100%;
+	height: auto;
+	padding-bottom: 15px;
+}
+
+/* special properties for details page */
+.propertyLabel {
+	text-align: right;
+}
+
+#graffito_summary {
+	padding-left: 15px;
+}
+
+/*Used in details.css. (added in from details.css/copied, consider renaming this file) */
+.graffiti_content {
+	max-width: 400px;
+	height: auto;
+	margin: 10px;
+	padding: 10px;
+	position: relative;
+}
+
+h3 {
+	font-size: 28px;
+	margin: 0px 0px 10px 0px;
+}
+
+th {
+	vertical-align: top;
+	width: 180px;
+}
+
+@media only screen and (max-width: 850px) {
+	[class*="col"] {
+		width: 100%;
+	}
+	[id*="headerMap"] {
+		display: none;
+	}
+	[class*="row"] {
+		display: initial !important;
+	}
+
+}
+
+input[name="image"] {
+	display: none;
+}
+
+/*Used in details.jsp and moreGraffitoInformation.jsp. Appears to be somehow inherited by resultsList.jsp because I cannot find any clear references to button name.  */
+.buttons {
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+}
+
+/*Used in */
+img {
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	/* test new height for image */
+	max-width: 100%;
+	max-height: 100%;
+}
+
+/*Used in moreGraffitoInformation.jsp and details.jsp*/
+#imgSrc {
+	display: block;
+	max-width: 100%;
+	max-height: 100%;
+	margin: auto;
+}
+
+/*Used in */
+input[name="image"]:checked+label {
+	border-color: #666;
+	opacity: 1;
+}
+
+/*Used in */
+label {
+	float: left;
+	cursor: pointer;
+	opacity: 0.6;
+	max-width: 100%;
+	height: auto;
+}
+
+/*Used in propertyInfo.jsp from this page, moreGraffitoInformation.jsp, details.jsp. */
+.button_bar {
+	padding: 0px 30px 30px;
+	display:flex;
+	justify-content:flex-end;
+
+}
+
+#propButton {
+	margin-bottom: 5px;
+}
+
+@media only screen and (max-width: 520px) {
+	#propButton {
+		margin-bottom: 15px;
+	}
+}
+
+/*Used in  moreGraffitoInformation.jsp and details.jsp in two places each.*/
+.thumb {
+	max-width: 100%;
+	max-height: 100%;
+	border: 2px solid black;
+}
+
+td.thumb-holder {
+	height: 100px;
+	width: 150px;
+}
+
+.image_display {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	height: 350px;
+	width: 500px;
+
+}
+
+label.imageLabel {
+	float: center;
+}
+
+#maps {
+	min-height: 500px;
+	margin-top: 10px;
+	}

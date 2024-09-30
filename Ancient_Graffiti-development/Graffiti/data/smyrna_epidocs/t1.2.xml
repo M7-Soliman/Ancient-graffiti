@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T1.2.: Name</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >T1.2.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t1-2</idno>
+                        <msName>Smyrna Agora Basilica T1.2.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 1 (equals G7, between Piers A11 and A12), in the main bay.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> At upper right, above the head of a man in red (D1.2). Below it is an ivy leaf and to the left of the leaf traces of 5 lines, each of a few letters, in a large, rough hand, not read. There are also some faint traces on the bevel of the right pier, which have not been read.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Detached but cursive style letters. Letter heights:
+                                <height unit="centimeter" min="2.5" max="3" scope="letter"> 2.5–3 cm high</height>, except for rho:<height unit="centimeter" scope="individualletter">5 cm</height>
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/><persName type="attested"><name nymRef="nametable.xml#Παρθένα" type="cognomen"><unclear>Π</unclear>αρθένα</name></persName>
+                    <placeName type="ethnic" ref="https://pleiades.stoa.org/places/550893">
+                        <w lemma="Σμυρναῖος" > 
+                        <choice>
+                         <reg><unclear>Σ</unclear>μυρναία</reg>
+                        <orig><unclear>Ζ</unclear>μυρνιαία</orig>
+                        </choice>
+                        </w>
+                    </placeName>
+                    <gap reason="illegible" quantity="2" unit="character"/>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>
+                    1. The name <persName><name nymRef="nametable.xml#Παρθένα" type="cognomen">Parthena</name></persName> is common in central Greece (mainly <placeName ref="https://pleiades.stoa.org/places/540689">Boiotia</placeName>) and the <placeName ref="https://pleiades.stoa.org/places/854719">Cimmerian Bosporos</placeName>, as well as in <placeName ref="https://pleiades.stoa.org/places/658440">Cilicia</placeName> (LGPN 3B.335, 4.272, 5B.344), but otherwise attested in Asia Minor only at <placeName ref="https://pleiades.stoa.org/places/599799">Miletos</placeName>. The masculine form of the adjective <placeName type="ethnic" ref="https://pleiades.stoa.org/places/550893"><w lemma="Σμυρναῖος" ><choice><reg>Σμυρναῖος</reg><orig>Ζμυρναῖος</orig></choice></w></placeName>  appears in P100.3.2. Iota after nu is superfluous but is clear on the photo. There may be traces above this line, but we cannot make anything out distinctly. It is not obvious whether there is any connection between the text and the head drawn below it.<lb/>
+                    There are also some faint traces on the bevel of the right pier, which have not been read.    
+                </p>
+            </div> 
+            <div type="translation">
+                <p/>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 77.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

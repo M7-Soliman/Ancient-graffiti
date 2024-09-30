@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T9.7.: Uncertain</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >T9.7.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t9-7</idno>
+                        <msName>Smyrna Agora Basilica T9.7.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 9 [= G15, between Piers A19 and A20]. On the right pier (A20), on the west side, facing the bay, at 23 cm from the left edge of the pier.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Dimentions: 
+                                            <dimensions>
+                                        <height unit="centimeter">25</height>
+                                        <width unit="centimeter">32</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Old Roman cursive letters <height unit="centimeter" min="4" max="7" scope="letter">4-7</height> cm high</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+                    <lb n="2"/><name nymRef="nametable.xml#Oualerius nametable.xml#Oualens" type="cognomen">ou<supplied reason="lost">a</supplied>l<gap reason="lost" extent="unknown" unit="character"/></name>
+                    <lb n="3"/>euseb<gap reason="illegible" quantity="2" unit="character"/>
+                    <lb n="4"/>euseb<gap reason="illegible" quantity="2" unit="character"/>
+                    <lb n="5"/>pit<gap reason="illegible" quantity="3" unit="character"/>
+                    <lb n="6"/>er
+                </ab>
+            </div>
+            <div type="apparatus">
+                <ab>1. One would perhaps read <name nymRef="nametable.xml#Oualerius" type="cognomen">Ou[a]l[erius</name> or <name nymRef="nametable.xml#Oualens" type="cognomen">Ou[a]l[ens</name>; the form would represent the Greek rendering of a Latin name turned back into Latin, perhaps a sign of a Hellenophone writer with little Latin but the alphabet; cf. also the note to l. 2.<lb/>
+                    2. The traces after euseb look most like Greek ην. In line 3, the letter after b also looks as if it could be an eta. Were it not for that Eusebius would be an attractive interpretation.</ab>
+            </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 124-125.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

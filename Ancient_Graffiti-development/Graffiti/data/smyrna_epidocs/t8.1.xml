@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T8.1.: Orders</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >T8.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t8-1</idno>
+                        <msName>Smyrna Agora Basilica T8.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 8 (=G14, between piers A18 and A19). Four lines, located 58 cm from the left edge and 25 cm from the bottom of the window cutting. Below line 4 there are signs of a new coat of plaster, covering any additional lines originally written (cf. also on T8.2).</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Dimensions:
+                                    <dimensions>
+                                        <height unit="centimeter">29</height>
+                                        <width unit="centimeter">92</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote> Largely detached majuscule letters. Possibly the same hand as T9.5
+                                Letter height: <height
+                                    unit="centimeter" scope="letter"
+                                    >5</height> cm high. 
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                   <lb n="1"/><persName type="attested"><name nymRef="nametable.xml#Ὀνήσιμος" type="cognomen">Ὀνήσιμε</name></persName>, μὴ <w lemma="*κλειδίζω">κλίδι<unclear>σο</unclear>ν</w>
+                   <lb n="2"/>καὶ <w lemma="μιαίνω">μί<unclear>αιν</unclear>ε</w> τὴν ὑπὸ <w lemma="θεός">θεῶν</w>
+                   <lb n="3"/><w lemma="κτάομαι">ἐκτημέ<unclear>νη</unclear>ν</w> <geogName type="spring">Βαιτην</geogName>
+                   <lb n="4"/>ἐὰν <unclear>δὲ</unclear> καὶ <w lemma="καταπίνω">καταπείνῃ</w>
+                   <gap reason="lost" extent="unknown" unit="line"/>
+                </ab>
+            </div>
+            <div type="apparatus"><p>
+                1. The name <name nymRef="nametable.xml#Ὀνήσιμος" type="cognomen">Onesimos</name> was extremely popular in Ionia and neighboring parts of Asia Minor (LGPN 5A 346–7, 5B 328). It appears in TP100.5.2. Read, perhaps, <w lemma="*κλειδίζω">κλείδισον</w>, aorist imperative from <w lemma="*κλειδίζω">*κλειδίζω</w>, an equivalent to <w lemma="*κλειδίζω">κλείω</w> (“shut, close, lock”) derived from <w lemma="κλειδίον">κλειδίον</w>, “key” and perhaps meaning more precisely “lock (up).” Angelos Chaniotis has suggested the possibility instead of the equally unattested <w lemma="*κλύδιζω">*κλύδιζω</w>, with a force perhaps of “to splash,” that is, to play with, leading to the pollution prohibited in the next line. He cites <w lemma="κλύδαξις">κλύδαξις</w> (splash) and <w lemma="κλυδωνίζω">κλυδωνίζω</w> (to disturb).<lb/>
+                2. We owe the reading <w lemma="μιαίνω">μία̣ι̣ν̣ε</w> to Raffaella Cribiore.<lb/>
+                3. Perfect forms of <w lemma="κτάομαι">κτάομαι</w> with epsilon augment rather than syllabic reduplication are found in both Attic and Ionic, cf. LSJ s.v. citing Syll.3 633 (<placeName type="ethnic" ref="https://pleiades.stoa.org/places/599799">Miletos</placeName>) and 888 (<placeName type="ethnic" ref="https://pleiades.stoa.org/places/481983">Skaptoparene</placeName>), cf. also 1106 (<placeName type="ethnic" ref="https://pleiades.stoa.org/places/599581">Kos</placeName>). Gignac 1976: 245 cites a papyrological example in BGU 2.587.12 (141 CE); cf. his detailed n. 1 on the phenomenon, with further references.<lb/>
+                4. Cf. T9.5, line 4, for the reading of this line. If, as we suppose, Baite is connected with the
+ spring, the verb is likely to refer to its waters. The force of καταπίνω is to drink excessively, i.e., to waste.</p>
+            </div> 
+            <div type="translation">
+                <ab>"Οnesimos, do not lock up and pollute the Baite possessed by the gods; but if he also consumes..."</ab>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 105-106.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

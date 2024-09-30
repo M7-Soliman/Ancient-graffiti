@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>D28.8.: Scene-Spectators</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >D28.8.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-d28-8</idno>
+                        <msName>Smyrna Agora Basilica D28.8.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>On the west face of Pier A40.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Dimensions:
+                                    <dimensions>
+                                        <height unit="centimeter">85</height>
+                                        <width unit="centimeter">32</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en">Scene-Spectators</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab/>
+            </div>
+            
+            <div type="apparatus"> 
+                <p /> 
+            </div> 
+            <div type="translation">
+                
+                <ab/>
+            </div>
+            <div type="commentary">
+                <ab>Very schematic dipinto located on the western face of Pier A40, looking into Bay 28. It is composed of a group of people divided into four tiers. Some of them are shown only as heads, while others appear as stick figures. All are in profile, turned toward the left. They are most probably meant to be understood as the public attending the gladiatorial games taking place on the back wall of Bay 28 (see dipinti D28.2 to D28.7). At the top are six heads in profile divided in two tiers. The upper tier has the most detailed portraits, with round heads, long noses and, in one instance, a round eye. In the second and lower tier are three smaller and round heads with no clear detailing apart from small round eyes. The third tier from the top comprises a complete figure with linear limbs, an elongated neck, and an irregular head turned to the left, with no recognizable anatomical features. A diagonal line exiting from the stylized mouth suggests that the figure is probably speaking. The torso is depicted in the shape of an octagon, with some internal lines meant to identify clothing. The arms are raised and bent at the elbows. The hands are rendered with a fishbone pattern. The linear legs terminate in feet drawn with a similarly stylized motif. The indication of speech and the gesture suggest that this figure is cheering on the gladiatorial combatants visible on the back wall of the bay. The fourth and last tier has one smaller figure, that of a gladiator, seen from the back, in three-quarter, in the act of walking away toward the right. The figure is not very detailed, but from the shape of the helmet it is possible to identify it as a provocator who is leaving the arena, possibly at the end of his combat. A large gap to his right prevents us from understanding if he was part of a row of gladiators shown while they are leaving the games or if he was the only such figure.</ab>
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 286-287.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>D1.2.: Gladiator</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >D1.2.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-d1-2</idno>
+                        <msName>Smyrna Agora Basilica D1.2.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>On the east face of Pier A11, looking into Bay 1.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Dimensions:
+                                            <dimensions>
+                                        <height unit="centimeter">18</height>
+                                        <width unit="centimeter">18</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                         <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en">Gladiator</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab/>
+            </div>
+            <div type="apparatus"> 
+                <p /> 
+            </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary">
+                <ab>Highly schematic, it depicts a gladiator seen in profile, advancing to the left. While the head and legs are drawn in profile, the torso is frontal. The man wears a brimmed and crested helmet and possibly a long breastplate. His arms are extended to the sides: he holds in both a short weapon, interpretable either as a sword terminating in a semi-circular blade or as a semi-circular blade attached to a tang or metal shaft, possibly an arbelos. The detail of the weapons suggests that the gladiator can be identified as a διμάχαιρος or even an ἀρβήλαϛ, seldom depicted on funerary stelae or official reliefs. A similar but shorter version of the weapon is visible on the tombstone relief of the gladiator Myron, now at the Louvre Museum (inv. MA 154) and dated to the second– third century CE. While it is impossible to identify on the Smyrna graffito the scaled tunic worn by Myron, the helmet, with its high crest and wide brims, is clearly identical to the one on the tombstone. The Louvre relief has no certain provenance, but it has been known since 1806. Louis Robert, the first to provide a full description of its iconography, interpreted the weapon as a metal cone terminating in a crescent that was meant to be used by a retiarius to attach his net (Robert 1940: no. 299, pp. 235–6). The Smyrna graffito ultimately disproves his hypothesis. A discussion on the role and the weapons of the arbelas appears in Carter 2001: 109–15, esp. 112–3, fig. 2.</ab>
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 79.</p>
+                <p>Carter, M. 2001. “Artemidorus and the ἀρβήλας.” Zeitschrift für Papyrologie und Epigraphik 134: 109–15, esp. 112–3, fig. 2.</p>
+                <p>Robert, L. 1940. Les gladiateurs dans l’orient grec. Paris, no. 299, pp. 235–6.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

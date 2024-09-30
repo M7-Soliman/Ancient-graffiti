@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T25.5.: Label</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >T25.5.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t25-5</idno>
+                        <msName>Smyrna Agora Basilica T25.5.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 25 [= G32, between Piers A36 and A37]. At the top of the wall, against the right edge of the bay.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Area:
+                                            <dimensions>
+                                        <height unit="centimeter">10</height>
+                                        <width unit="centimeter">40</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Irregular detached letters: <height unit="centimeter" scope="letter">4</height> cm high, rho and high nu, which<height unit="centimeter" scope="individualletter">7 cm.</height></handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+<lb n="1"/><w lemma="*κοντροκυνήγιος" cert="medium">κοντροκυνή
+<lb n="2" break="no"/><space quantity="7" unit="character"/>γις</w>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <ab>1–2. Presumably for <w lemma="*κοντροκυνήγιος">*κοντροκυνήγιος</w>, a wild-beast hunter with a pike. LSJ lists <w lemma="κοντροκυνηγέσιον">κοντροκυνηγέσιον</w>, citing IGRR 4.1632 and SEG 6.608, where L. Robert refers to his discussion of IGRR 3.360 in Rev.Arch. 30 (1929) 29–31 = Opera Minora Selecta 1.696–698. There he comments on the use of <w lemma="σιδηροκόντρα">σιδηροκόντρα</w>. There are no literary occurrences recorded in TLG. Cf. the fragmentary T12.6 for another possible occurrence at Smyrna.</ab>
+            </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 250.</p>
+                <p>Bagnall, R., Everyday Writing in the Graeco-Roman East (2011): 16-17.</p>
+                <p>SEG 61.960.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,14 @@
+city_key_sequence
+column_id_seq
+drawing_tag_id_seq
+index_id_seq
+inscription_id_seq
+insula_id_seq
+more_graffititothemes_id_seq
+property_id_seq
+property_type_id_seq
+segment_id_seq
+street_id_seq
+terms_id_seq
+theme_ids_sequence
+existing_edr_sequence

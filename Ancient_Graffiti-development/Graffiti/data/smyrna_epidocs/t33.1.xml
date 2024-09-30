@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T33.1.: Name</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >T33.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t33-1</idno>
+                        <msName>Smyrna Agora Basilica T33.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 33 [= G40, between Piers A44 and A45]. On the left pier (Pier A44), on the east side, facing the door, ca. 1.35 m from the floor. The second graffito is incised at lower left of the first.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs><rs type="execution">Graffito/incised</rs> Area:
+                                            <dimensions>
+                                        <height unit="centimeter">35</height>
+                                        <width unit="centimeter">30</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>The first graffito has detached letters, rather cursive in style, <height unit="centimeter" scope="letter">3,5</height> cm high, and the second graffito is  incised in letters<height unit="centimeter" scope="letter">2</height>cm high.</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+            <div type="textpart" subtype="section" n="1" >
+                <ab>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἐξώλης"><unclear>ἐξώ</unclear>λη</w> <w lemma="σύ">σου</w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἀδελφός"><unclear>ἀ</unclear>δ<unclear>ελ</unclear>φὸ<unclear>ς</unclear></w> <w lemma="ἐξώλης">ἐξώλη</w>
+                    <lb n="3"/><w lemma="ὁ"><supplied reason="lost">τῷ</supplied></w> <w lemma="ἀναγινώσκω"><supplied reason="lost">ἀναγιν</supplied><unclear>ώσ</unclear>κοντι</w>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="nametable.xml#Τροφίμη" type="cognomen"><supplied reason="lost">Τ</supplied>ροφίμη</name></persName>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/>ΝΕΘΗΣ
+                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/>ΑΙ ΕΝΟΗΓΑΣ
+                </ab>
+            </div>
+            <div type="textpart" subtype="section" n="2" >
+                <ab>
+                    <lb n="1"/><persName type="attested"><name nymRef="nametable.xml#Θάλλος" type="cognomen">Θάλλος</name></persName>
+                </ab>
+            </div>
+            </div>
+            <div type="apparatus">
+                <ab>
+                    1–2. <w lemma="ἐξώλης">ἐξώλης</w>, “utterly destroyed,” is common, with numerous examples in the epigraphy of Asia Minor in phrases like ἐξώλης εἴη καὶ τὰ αὐτοῦ πάντα or ἐξώλης εἴη καὶ αὐτὸς καὶ γένος τὸ ἐκείνου (see PHI Greek Inscriptions for instances, and the comprehensive treatment in Strubbe, J. H. M., Arai epitymbioi: imprecations against desecrators of the grave in the Greek epitaphs of Asia Minor, a catalogue (1997). It is not completely clear if it should be accusative in line 1 as divided here, but the form in line 2 certainly is. The overall syntax is not evident, but it seems likely that destruction is being wished on the reader in line 3. There is a long history of graffiti wishing various ills on their reader; cf., e.g., Milnor, K., Graffiti and the Literary Landscape in Roman Pompeii (2014): 75.<lb/>
+                    4. Trophime is common in Asia Minor, with two examples in LGPN 5A 435 from Smyrna.<lb/>                    
+                    The second graffito could also be the common noun <w lemma="θαλλός">θαλλός</w>, referring to the olive shoots of which crowns were made. But the name is common in <placeName ref="https://pleiades.stoa.org/places/981509">Asia</placeName> (LGPN 5A 209, 5B 190) and seems more likely.
+                </ab>
+            </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 332-333.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

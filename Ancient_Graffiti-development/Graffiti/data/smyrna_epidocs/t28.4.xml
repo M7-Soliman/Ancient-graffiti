@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T28.4.: Name?</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>,
+                    <author>R. Casagrande-Kim</author>,
+                    <author>A. Ersoy</author>,
+                    <author>C. Tanriver</author> and
+                    <author>B. Yolaçan</author>,
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title>
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>),
+                    <biblScope unit="item"
+                        >T28.4.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t28-4</idno>
+                        <msName>Smyrna Agora Basilica T28.4.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 28 [= G35, between Piers A39 and A40]. On the right pier (A40), inner face. Ca. 14 cm from the left (inner) side, just below the top of the preserved plaster surface.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> A couple of diagonal strokes beginning above and to the left continued into the now-lost plaster.:
+                                            <dimensions>
+                                        <height unit="centimeter"></height>
+                                        <width unit="centimeter"></width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Majuscule letters: <height unit="centimeter" min="4" max="5"
+                                    scope="letter">4-5</height> cm high</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/>καρπ<unclear>ο</unclear><gap reason="lost" extent="unknown" unit="character"/>                </ab>
+            </div>
+            <div type="apparatus">
+                <ab>There is space at the left of the inscription for another four letters or so, but no traces survive. The final letter could also be omega. See the introduction, p. 47, for possible interpretation of this graffito, particularly a restoration of <persName type="attested"><name nymRef="nametable.xml#Πολύκαρπος" type="cognomen">[Πολύ]καρπο[ς]</name></persName>.</ab>
+            </div> 
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 274.</p>
+                <p>Bagnall, R. S., Everyday Writing in the Graeco-Roman East (2011): 23.</p>
+                <p>SEG 61.976.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

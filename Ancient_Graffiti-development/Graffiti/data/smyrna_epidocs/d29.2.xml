@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>D29.2.: Scene-Venatio</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >D29.2.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-d29-2</idno>
+                        <msName>Smyrna Agora Basilica D29.2.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>In the upper right quadrant of Bay 29.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs><rs type="execution">Painted</rs> Dimensions overal:
+                                            <dimensions>
+                                        <height unit="centimeter">32</height>
+                                        <width unit="centimeter">30</width>
+                                    </dimensions>
+                                    Dimensions of the gladiator:
+                                    <dimensions>
+                                        <height unit="centimeter">21</height>
+                                        <width unit="centimeter">19</width>
+                                    </dimensions>
+                                    Dimensions of the feline:
+                                    <dimensions>
+                                        <height unit="centimeter">12</height>
+                                        <width unit="centimeter">29</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                         <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en">Scene-Venatio</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab/>
+            </div>
+            <div type="apparatus"> 
+                <p /> 
+            </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary">
+                <ab>Dipinto of a venatio scene, located in the upper right quadrant of the back wall of Bay 29. At the bottom of the scene, toward the right, is a venator. Though the drawing is quite cursive, it is possible to identify the figure of the venator, fully frontal and in a victorious stance. He holds in the right hand a venabulum decorated with a fishbone motif, possibly representing a palm branch placed on the spear after his victory. With the left hand he holds a small triangular shield. The head, without helmet, is surmounted by a wreath that sits on the venator’s temples. The facial features are very approximate: two round eyes, a large nose, and an oversized mouth, rendered in one long curved line indicating a large smile. The man is dressed in a short flowing tunica with geometric decorations on the front and with tight leg wrappings on his thighs. The tip of his spear touches the hind paw of a large feline placed directly above it. Long, vertical red lines run along the whole length of the spear, indicating the blood gushing out of the wounded animal, possibly a lion. The animal is shown in profile, the head turned toward the left, but now almost completely lost due to the poor preservation of the plaster. Of the head, only the mane is still visible, rendered in long parallel lines covering the neck, continuing along the animal’s back, and descending to the left foreleg. The body is extremely elongated and not very detailed. The tail is made of a single wavy line terminating in a small, upward tuft. The four legs are depicted as elongated inverted triangles terminating in small circles indicating the paws. The lion is mortally wounded: at its left flank a large spot of red ink indicates a wound from which blood, in long vertical lines, gushes out to cover the venator’s spear below. This scene is probably to be considered as the outcome of the fight between the venator and the feline taking place to the left (see D29.13).</ab>
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 302-303.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T20.3.: Uncertain</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >T20.3.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t20-3</idno>
+                        <msName>Smyrna Agora Basilica T20.3.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 20 [= G27, between Piers A31 and A32]. T20.3 and T20.4 occupy a large box divided by a horizontal line. Its right edge is 16 cm from the right of the bay; its top is broken off; its bottom is 1.2 m above the bench. </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Area:
+                                    <dimensions>
+                                        <height unit="centimeter">34</height>
+                                        <width unit="centimeter">55</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Detached, irregular rounded majuscule letters <height unit="centimeter" min="2" max="3" scope="letter">2-3</height> cm high in wavering lines, representing two or more hands.</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>ης
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ὁ">τῆς</w> <w lemma="καλός"><unclear>κα</unclear>λῆς</w> <w lemma="κυρία">κυρί
+<lb n="3" break="no"/><supplied reason="lost">ας</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="4" unit="character"/> <w lemma="καλός">καλῶν</w> <w lemma="χρώς">χρωτῶ<hi rend="superscript">ν</hi></w>
+<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="10" unit="character"/> ΕΩΝ ΚΕ<gap reason="illegible" quantity="2" unit="character"/>
+<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="5" unit="character"/>ς <w lemma="ὁ">τῶν</w> Κ<gap reason="illegible" quantity="1" unit="character"/>TΩΝΚ<unclear>Α</unclear><gap reason="illegible" quantity="2" unit="character"/>
+<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="6" unit="character"/> <w lemma="ὁ">τῆς</w> <w lemma="καλός">καλῆς</w> <w lemma="κυρία"><choice><reg>κυρίας</reg><orig>κυλεί<unclear>ας</unclear></orig></choice></w>
+<lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="17" unit="character"/> ΚΟΤΩΝΤΟ<gap reason="illegible" quantity="1" unit="character"/>
+<lb n="8"/><del rend="erasure"><gap reason="illegible" extent="unknown" unit="character"/></del>
+<lb n="9"/><gap reason="lost" extent="unknown" unit="character"/>οτο <gap reason="illegible" quantity="14" unit="character"/> ΕΝ ΜΕΣΩ<gap reason="illegible" quantity="2" unit="character"/>
+<lb n="10"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="6" unit="character"/><gap reason="illegible" quantity="4" unit="character"/>OΔΕ <w lemma="εἷς">μία</w> <w lemma="ὥρα">ὥρα</w> <w lemma="εἰμί">ἐστί</w>
+<lb n="11"/><gap reason="lost" extent="unknown" unit="character"/>ο<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ΑΝΑ<unclear>Ν</unclear><gap reason="illegible" quantity="4" unit="character"/>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <ab>3. Although the basic meaning of <w lemma="χρώς">χρώς</w> is “skin,” LSJ s.v. indicates that it can be used more broadly for human bodies, which might explain the plural here.<lb/>
+                    6. Comparison with line 2 suggests that κυλείας, which is unknown, is a phonetic spelling of <w lemma="κυρία">κυρίας</w>, with lambda-rho interchange.The writer is presumably replying to the first writer.<lb/>
+                    8. <w lemma="ἐν">ἐν</w> <w lemma="μέσος">μέσῳ </w> is an obvious possibility, but the lack of context prevents certainty.</ab>
+            </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 216-217.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

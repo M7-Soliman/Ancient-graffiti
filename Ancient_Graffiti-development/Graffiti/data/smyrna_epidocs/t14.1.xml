@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T14.1.: Record of Healing</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >T14.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t14-1</idno>
+                        <msName>Smyrna Agora Basilica T14.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 14 [= G20, between Piers A24 and A25]. In the center, ca. 2.1 m from ground level, above a drawing of a ship (D14.1).</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Broken at left and above. Surviving area
+                                            <dimensions>
+                                        <height unit="centimeter">24</height>
+                                        <width unit="centimeter">58</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Semicursive irregular letters <height unit="centimeter" min="3" max="4"
+                                    scope="letter">3-4</height> cm high</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+<lb n="1"/><w lemma="ὀφθαλμός"><supplied reason="lost">ὀφθα</supplied>λμοὺς</w> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/><gap reason="lost" quantity="3" unit="character"/> <w lemma="εὐχαρειστέω"><supplied reason="lost">ε</supplied>ὐχαρειστῶ</w> <w lemma="ὁ">τῇ</w> <geogName type="spring"><supplied reason="lost">Βαίτῃ</supplied></geogName> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/><gap reason="lost" quantity="2" unit="character"/> <w lemma="θεραπεύω"><unclear> θ</unclear>ειῶδ’</w> <w lemma="ἀγών">ἀγῶνα</w> σ<gap reason="illegible" quantity="2" unit="character"/>
+<lb n="4"/><gap reason="lost" quantity="2" unit="character"/> <w lemma="ὑγεία">ὑγείᾳ</w>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <ab>The lacuna at right is of uncertain size and could be larger than indicated here.<lb/>
+                    1. θ, as the beginning of a form (perhaps passive participle) of <w lemma="θεραπεύω">θεραπεύω</w>, is possible at the end of the line. The word would have continued, in all likelihood, in the next line.<lb/>
+                    2. See introduction, pp. 44–45, for (the) Baite. Read <w lemma="εὐχαριστέω">ε]ὐχαριστῶ</w>.<lb/>
+                    3. If θειῶδ’ is correctly read, it might indicate that a contest had imperial sanction or was being held in connection with the imperial cult. At the end, read σοι?</ab>
+            </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 173.</p>
+                <p>Bagnall, R., Everyday Writing in the Graeco-Roman East (2011): 22.</p>
+                 <p>SEG 61.971.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

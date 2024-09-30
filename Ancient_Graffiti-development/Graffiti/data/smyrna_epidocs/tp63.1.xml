@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TP63.1.: Good Wishes</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, <author>R. Casagrande-Kim</author>, <author>A.
+                        Ersoy</author>, <author>C. Tanriver</author> and <author>B.
+                    Yolaçan</author>, <title level="m">Graffiti from the Basilica in the Agora of
+                        Smyrna</title> (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), <biblScope unit="item">TP63.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-tp63-1</idno>
+                        <msName>Smyrna Agora Basilica TP63.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Pier A63. On the east face of the pier. Incised. 151 cm
+                                    from the floor.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Graffito/incised</rs> Area: <dimensions>
+                                        <height unit="centimeter">11</height>
+                                        <width unit="centimeter">34</width>
+                                    </dimensions> The third graffito is in a circle below the first
+                                    and second graffito, in an area: <dimensions>
+                                        <height unit="centimeter">9</height>
+                                        <width unit="centimeter">21</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Letter heights <height unit="centimeter" scope="letter"
+                                    >8.5</height> cm high, except third graffito <height
+                                    unit="centimeter" scope="letter">4</height> cm high.</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+            <div type="textpart" subtype="section" n="1">
+                <ab> 
+                    <lb n="1"/><w lemma="ζήω">ζήθι</w>
+                </ab>
+            </div>
+            <div type="textpart" subtype="section" n="2">
+                <ab>
+                    <lb n="1"/>ΠΝ
+                </ab>
+            </div>
+            <div type="textpart" subtype="section" n="3">
+                <ab>
+                    <lb n="1"/>ζοή
+                </ab>
+            </div>
+            </div>
+            <div type="apparatus">
+                <div type="commentary" subtype="section" n="1">
+                    <ab> The second graffito is the upper part of the letter H, </ab>
+                </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+                <div type="commentary" subtype="section" n="2">
+                    <ab> This should presumably be resolved πν(εῦμα), “spirit”. </ab>
+                </div>
+                <div type="commentary" subtype="section" n="3">
+                    <ab> This is presumably to be interpreted as ζωή or the name Zoe. Cf. T40.1 for
+                        another probable instance, and see Bagnall, R. S. et al., Graffiti from the
+                        Basilica in the Agora of Smyrna (2016): 47. </ab>
+                </div>
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016):
+                    344-345.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

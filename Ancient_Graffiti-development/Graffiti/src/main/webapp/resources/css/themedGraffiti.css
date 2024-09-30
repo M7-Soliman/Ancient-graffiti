@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+th {
+	text-align: center !important;
+}
+
+.center {
+	text-align: center;
+	font-weight: bold;
+	vertical-align: middle !important;
+	color: #404040;
+}
+
+.card-text {
+	line-height: 1.2;
+}
+
+.button_bar {
+	float: right;
+	flex-grow: 0;
+	flex-shrink: 0;
+}
+
+.card-header, .card-header a {
+	color: maroon;
+}
+
+h6 {
+	font-style: italic;
+	font-size: 16px;
+	margin: -10px 0px 10px 0px;
+}
+
+.col {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TP105.1.: Acclamation</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >TP105.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-tp105-1</idno>
+                        <msName>Smyrna Agora Basilica TP105.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>West face. Below, a drawing (DP105.1).</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Area:
+                                            <dimensions>
+                                                <height unit="centimeter">90</height>
+                                                <width unit="centimeter">30</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Large detached letters with a modicum of style: <height unit="centimeter" min="8" max="13"
+                                    scope="letter">8-13</height> cm high</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/><w lemma="χαίρω"><supplied reason="lost">χ</supplied>αῖρε</w> <placeName ref="https://pleiades.stoa.org/places/614866"><w lemma="Τράλλεις">Τράλ
+                    <lb n="2" break="no"/><supplied reason="lost">λε</supplied>ις</w></placeName> <w lemma="πρώτος">πρώτ
+                    <lb n="3" break="no"/><unclear>η</unclear></w> <app type="alternative"><lem><w lemma="Ἀνατολή">Ἀνατο
+                    <lb n="4" break="no"/>λῆς</w></lem><rdg><w lemma="ἀνατολή">ἀνατο<lb n="4" break="no"/>λῆς</w></rdg></app>
+                    <lb n="5"/>Π<gap reason="illegible" quantity="1" unit="character"/>ΡΕΙΣ
+                    <lb n="6"/>ΗΧΑ<gap reason="illegible" quantity="1" unit="character"/>Η
+                </ab>
+            </div>
+            <div type="apparatus">
+                <ab>3–4. The generic usage of <w lemma="ἀνατολή">ἀνατολή</w> to mean “the East” is well attested, but the numerous parallels in the graffiti to civic boasting suggest that the sense here is more specific. The only parallel
+ before the sixth century known to us for a use of Ἀνατολή to refer to Asia Minor or perhaps more specifically to the province of Asia, however, is Diocletian’s Edict of Maximum Prices.<lb/>
+                    5–6. These lines are written in substantially smaller letters than lines 1–4.</ab>
+            </div> 
+            <div type="translation">
+                <ab>“Greetings Tralleis, first of Anatolia (or ‘of the East’).”</ab>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 448.</p>
+                <p>Bagnall, R., Everyday Writing in the Graeco-Roman East (2011): 19.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

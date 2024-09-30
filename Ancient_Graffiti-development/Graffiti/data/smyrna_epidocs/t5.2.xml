@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T5.2.: Uncertain</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >T5.2.</biblScope>.
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t5-2</idno>
+                        <msName>Smyrna Agora Basilica T5.2.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 5 [= G11, between Piers A15 and A16]. Immediately below T5.1, with a 10 cm space between.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> One line, about 23 cm wide × 10 cm high.
+                                    <dimensions>
+                                        <height unit="centimeter">10</height>
+                                        <width unit="centimeter">23</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Cursive letters <height unit="centimeter" min="6" max="9" scope="letter">6–9</height> cm high.
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/>ΗΚΑΙΑ<gap reason="illegible" quantity="1" unit="character"/>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>One might suggest a similarity to T15.3, but there is no initial eta there, and the ink is clearly preserved; there are also following letters in that case. Here there may be a letter after the second alpha, although the trace could just be the elongation of the alpha. The meaning is not obvious. LSJ cites <w lemma="ἦκα">ἠκαῖον</w> from Hesychius, glossed as <w lemma="ἀσθενῆς">ἀσθενές</w>. If a nu were effaced at the start, one might also imagine <placeName ref="https://pleiades.stoa.org/places/550775"><choice><reg><w lemma="Νηκαία">Νικαία</w></reg><orig>Νηκαία</orig></choice>Νηκαία</placeName> for <placeName ref="https://pleiades.stoa.org/places/550775"><w lemma="Νικαία">Νικαία</w></placeName>, the city name.
+                </p>
+            </div> 
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary"> 
+                <p >Immediately below T5.1, with a 10 cm space between.</p> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 94.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

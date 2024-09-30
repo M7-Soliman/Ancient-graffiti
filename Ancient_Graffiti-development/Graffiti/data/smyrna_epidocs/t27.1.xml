@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T27.1.: Record of healing</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >T27.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t27-1</idno>
+                        <msName>Smyrna Agora Basilica T27.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 27 [= G34, between Piers A38 and A39]. At 14 cm from the left edge of the bay, ca. 1.85 m above ground level.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Area:
+                                            <dimensions>
+                                        <height unit="centimeter">29</height>
+                                        <width unit="centimeter">18</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>An awkward mixture of cursive and capital forms, wavery and variable in size; letters: <height unit="centimeter" min="4" max="6"
+                                    scope="letter">4-6</height> cm high</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/><w lemma="ὀφθαλμός">ὀφθαλ
+                    <lb n="2" break="no"/>μοὺς</w> <w lemma="ὑπό"><supplied reason="lost">ὑ</supplied>
+                    <lb n="3" break="no"/>πὸ</w> <w lemma="θεός">θε<unclear>ῶ</unclear><supplied reason="lost">ν</supplied></w>
+                    <lb n="4"/><w lemma="εὐχαριστέω">εὐχαρι
+                    <lb n="5" break="no"/>στῶ</w> <w lemma="ὁ">τῇ</w>
+                    <lb n="6"/><geogName type="spring"><supplied reason="lost">Βαίτῃ</supplied></geogName>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <ab>See Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 42 and 44, for healings of eyes and for Baite.</ab>
+            </div> 
+            <div type="translation">
+                <ab>“(Being healed in) my eyes by the gods, I give thanks to the Baite.”</ab>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 264.</p>
+                <p>Bagnall, R., Everyday Writing in the Graeco-Roman East (2011): 22 and 21, fig. 9.</p>
+                <p>SEG 61.969.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

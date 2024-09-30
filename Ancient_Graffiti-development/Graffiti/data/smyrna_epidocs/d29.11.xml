@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>D29.11.: Scene-Gladiator and Palm Branches</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >D29.11.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-d29-11</idno>
+                        <msName>Smyrna Agora Basilica D29.11.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>On the east face of Pier A40.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Dimensions:
+                                            <dimensions>
+                                        <height unit="centimeter">10</height>
+                                        <width unit="centimeter">5.5</width>
+                                    </dimensions>
+                                    Dimensions of Palmette at top:
+                                    <dimensions>
+                                        <height unit="centimeter">17</height>
+                                        <width unit="centimeter">10</width>
+                                    </dimensions>
+                                    Dimensions of Palmette at bottom:
+                                    <dimensions>
+                                        <height unit="centimeter">8</height>
+                                        <width unit="centimeter">3</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                         <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en">Scene-Gladiator and Palm Branches</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab/>
+            </div>
+            <div type="apparatus"> 
+                <p /> 
+            </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary">
+                <ab>Dipinto located on the eastern face of Pier A40, looking into Bay 29. It comprises one gladiator and two palm branches, all partially damaged by lacunae in the plaster. The branch at the top is characterized by a long vertical line, the branch’s rachis, drawn in a thick streak. From this central line depart, at both sides, two corresponding sets of thirteen diagonal lines, the leaflets, progressively shorter at the top where the tip of the branch is situated. Two short horizontal lines, one at the top and one at the bottom, complete the design. <lb/>To the left of the branch is a very schematic depiction of a gladiator, of which only a visored helmet with a horizontal neck-guard and a large rectangular shield are visible. He can tentatively be identified as a provocator. At the bottom is a second palm branch composed of a central vertical line, from which departs a series of short diagonal lines (eight are still visible) alternately to the right and the left of the central axis. The palm branches are most certainly to be understood as complementing the image of the gladiator, who is thus to be considered as victorious.</ab>
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 312-313.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

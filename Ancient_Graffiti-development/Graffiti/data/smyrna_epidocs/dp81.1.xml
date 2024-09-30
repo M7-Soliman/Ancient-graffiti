@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>DP81.1.: Decorative-Rosette</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >DP81.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-dp81-1</idno>
+                        <msName>Smyrna Agora Basilica DP81.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>On the south face of Pier A81.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Graffito/incised</rs> Dimensions:
+                                            <dimensions>
+                                        <height unit="centimeter">6</height>
+                                        <width unit="centimeter">6</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                         <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en">Decorative-Rosette</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab/>
+            </div>
+            <div type="apparatus"> 
+                <p /> 
+            </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary">
+                <ab>Graffito of a rosette, located on the southern face of Pier A81, looking into the Basilica’s southern corridor. The motif comprises six petals, two of which are incomplete, and the preparatory circle into which the rosette was fitted. Considering the precise outline of the circumference, the clearly marked center, and two arcs that defines some of the petals and that extend beyond the outline, it is evident that this is not a freehand graffito, but rather it was made with a tracing tool, such as a compass. See also graffiti DP81.2 and DP32.1. <lb/>Similar rosettes, some incised with the aid of a compass, others not, are common in Pompeii, Delos, and in the Domus Tiberiana. For the sake of brevity, I will mention here a few examples from each site (a complete catalogue can be found in Langner 2001). Similar to the rosette in Smyrna is the graffito on one of the columns of the “Grande Palestra” (Maulucci Vivolo 1993: 64–5). Even closer in shape and technical execution are the rosette on one of the walls of the Caserma dei Gladiatori and those on the external wall of the Casa dei Cei: Maulucci Vivolo 1993: 112 and 120. The motif was widespread in antiquity, both chronologically and geographically, and can be found on both private and public walls: see, for example, the Hellenistic (second and first century BCE) rosettes in Delos found in the theater (Langner 2001: no. 73) or in several private domus (Langner: 2001, no. 35, no. 63, and no. 76). See also the rosettes incised in a frigidarium at Stabiae (Langner 2001: no. 74, first century CE), in a temple at Dura Europos (Langner 2001: no. 69, second or third century CE), or in the Paedagogium in Rome (Langner 2001: no. 86, third century CE). The motif is often left finished: the circle with radiant diameters found in the Domus Tiberiana (Taberna 7 SW; Langner 2001: no. 58, first century CE), for example, corresponds to the first stage in the incision of a rosette. It resembles closely Smyrna graffito DP32.1.</ab>
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 392-393.</p>
+                <p>Langner, M. 2001. Antike Graffitizeichnungen. Motive, Gestaltung, und Bedeutung. Palilia, 11.
+                    Wiesbaden: 74.</p>
+                <p>Maulucci Vivolo, F. P. 1993. Pompei: I Graffiti Figurati. Foggia: 64-65.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>D28.1.: Ship</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >D28.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-d28-1</idno>
+                        <msName>Smyrna Agora Basilica D28.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>In the lower right quadrant of Bay 28.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Dimensions:
+                                            <dimensions>
+                                        <height unit="centimeter">81</height>
+                                        <width unit="centimeter">90</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en">Ship</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab/>
+            </div>
+
+            <div type="apparatus"> 
+                <p /> 
+            </div> 
+            <div type="translation">
+                
+                <ab/>
+            </div>
+            <div type="commentary">
+                <ab>Published as Bay 28-T40 in Pomey 2006: 334–6, fig. 28. <lb/>Dipinto of a ship sailing on port tack, located in the lower right quadrant of the back wall of Bay 28. The vessel is drawn in thick black streaks, with the overall outline rendered in even thicker lines. The keel is flat, the stern rounded, and the prow exaggeratedly straight, in fact at a 90-degree angle with the keel, and terminating in a short cutwater. A quite large and circular ὀφθαλμός is visible at the upper corner of the prow, and the ἀκροστόλιον above it is carefully rendered, even if the iconography is not clear. At the 90-degree angle between the stern and the keel, in the lower deck, is visible the very schematic depiction of a man, in profile, probably sitting. The rather tall hull is partitioned by three vertical strips. The one to the left is plain, the one in the middle, larger than the other two, is decorated with a woven pattern, while the one to the right has a zigzag motif. At the stern’s sides are visible the two πηδάλια with very broad blades. A thinner line running along the base of the keel, together with two wavy ones by the rudders, visualize the surface of the water. The ship is characterized by a single mast, carried well forward, holding a quadrangular gaff-rigged sail decorated with a dense swag pattern. The complex rigging of the sail and the mast is clearly identifiable. The ship is most probably a small coaster. The ship seems to be in relation with the inscription T28.2.</ab>
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 275.</p>
+                <p>Pomey, P. 2006. “Les graffiti navals de l’agora. Etude preliminaire.” Anatolia Antiqua 14: 334–6, fig. 28.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

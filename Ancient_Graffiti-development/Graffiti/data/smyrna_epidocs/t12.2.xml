@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T12.2.: Healing inscription</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >T12.2.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t12-2</idno>
+                        <msName>Smyrna Agora Basilica T12.2.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 12 [= G18, between Piers A22 and A23]. Immediately above the tabula ansata of T12.1.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Four lines. area ca. 80 cm wide × 20 cm high. Badly effaced at the right side.
+                                            <dimensions>
+                                        <height unit="centimeter">20</height>
+                                        <width unit="centimeter">80</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Detached, neat, rounded letters <height unit="centimeter" min="3" max="4"
+                                    scope="letter">3-4</height> cm high.</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/><w lemma="ἐξαπίνης">ἐξαπίνης</w> ΕΥ<gap reason="illegible" quantity="8" unit="character"/>Η
+                    <lb n="2"/><w lemma="ὀφθαλμός">ὀφθαλμοῖς</w><gap reason="illegible" quantity="3" unit="character"/><space extent="unknown" unit="character"/>Ε
+                    <lb n="3"/>ΑΛΛΑ ΛΕΓ<unclear> </unclear>
+                    <lb n="4"/><w lemma="πολύς">πολλὰ</w> Λ<gap reason="illegible" quantity="4" unit="character"/>
+                </ab> 
+            </div>
+            <div type="apparatus">
+                <ab>1. Aeolic or Doric for <w lemma="ἐξαίφνης">ἐξαίφνης</w>, but also occurring in Attic texts (LSJ). Cf. T27.2, ἐν τάχει. As this also concerns eyes (see line 2), this is probably a healing inscription. It is conceivable that <w lemma="εὔχομαι">εὐξάμενος</w> (or <w lemma="εὔχομαι">εὐξαμένη?</w>) follows: “As soon as I prayed…”<lb/>
+                    3. Whether <w lemma="ἀλλά">ἀλλά</w> or <w lemma="ἄλλος">ἄλλα</w> is not clear. Then probably a form of <w lemma="λέγω">λέγω</w>.</ab>
+            </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 149-150.</p>
+                <p>Bagnall, R., Everyday Writing in the Graeco-Roman East (2011): 22.</p>
+                 <p>SEG 61.970.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

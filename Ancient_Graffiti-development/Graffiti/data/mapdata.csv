@@ -1,0 +1,6 @@
+# json data type, variable name/java script name
+agp_pompeii_streets, pompeiiStreetsData
+pompeii_unexcavated_areas, pompeiiUnexcavatedData
+pompeii_walls, pompeiiWallsData
+pompeii_outline, pompeiiOutlineData
+forum_outline,forumOutlineData

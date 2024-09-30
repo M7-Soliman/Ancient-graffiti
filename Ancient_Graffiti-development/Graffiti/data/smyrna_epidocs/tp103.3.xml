@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TP103.3.: Uncertain; Obscene Graffito</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >TP103.3.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-tp103-3</idno>
+                        <msName>Smyrna Agora Basilica TP103.3.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Pier 103. To the left of TP103.2. In the recessed area. 203 cm from floor. On the second layer of the plaster. The second graffito is below the first, on the first layer of plaster.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Area of the first graffito :
+                                            <dimensions>
+                                        <height unit="centimeter">21</height>
+                                        <width unit="centimeter">23</width>
+                                    </dimensions>
+                                    Area of the second graffito :
+                                    <dimensions>
+                                        <height unit="centimeter">18</height>
+                                        <width unit="centimeter">23</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Letter heights of first and second graffito: <height unit="centimeter" scope="letter">4,5</height> cm high and <height unit="centimeter" scope="letter">8</height> cm high, respectively.</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+            <div type="textpart" subtype="section" n="1" >
+                <ab> 
+                    <lb n="1"/><w lemma="δῆμος">δῆμος</w>
+                    <lb n="2"/><w lemma="σύν"><unclear>σ</unclear>ὺν</w> <unclear>ε</unclear> <gap reason="illegible" quantity="1" unit="character"/>
+                    <lb n="3"/>Ε <gap reason="illegible" quantity="2" unit="character"/> <unclear>Ι</unclear>
+                </ab>
+            </div>
+            <div type="textpart" subtype="section" n="2" >
+                <ab>
+                    <lb n="1"/><w lemma="πυγίζω">πυγίζε
+                    <lb n="2" break="no"/>ται</w>
+                </ab>
+            </div>
+            </div>
+            
+            <div type="apparatus">
+                <div type="textpart" subtype="section" n="1" >
+                    <ab>We have not been able to read with what or whom the people is said to be. </ab>
+                </div> 
+            <div type="translation">
+                <ab>“He is being buggered.”</ab>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 441.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

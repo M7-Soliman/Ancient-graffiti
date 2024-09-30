@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TP70.3.: Reference to Coins</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >TP70.3.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-tp70-3</idno>
+                        <msName>Smyrna Agora Basilica TP70.3.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Pier A70. On the west side under the arch.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Area of the first inscription:
+                                            <dimensions>
+                                        <height unit="centimeter">9</height>
+                                        <width unit="centimeter">27</width>
+                                    </dimensions>
+                                    Area of the second inscription:
+                                    <dimensions>
+                                        <height unit="centimeter">12</height>
+                                        <width unit="centimeter">36</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>The first inscription in very irregular, detached cursive letters<height unit="centimeter" scope="letter">2</height> cm high and the second one in <height unit="centimeter" min="6" max="9" scope="letter">6-9</height> cm high</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+            <div type="textpart" subtype="section" n="Upper" >
+                <ab>
+                    <lb n="1"/><w lemma="χρυσός">χρυσοῖ</w> <num value="2"><w lemma="δύο">δύο</w></num> <gap reason="illegible" extent="unknown" unit="character"/>
+<lb n="2"/>ματακαισω
+                </ab>
+            </div>
+            <div type="textpart" subtype="section" n="Below" >
+            <ab>
+                <lb n="1"/><del rend="erasure">
+ τ <gap reason="illegible" quantity="1" unit="character"/></del>
+<lb n="2"/><num value="2"><w lemma="δύο">δύο</w></num> <w lemma="χρυσός"><expan>χ<ex cert="low">ρυσοῖ</ex></expan></w>
+            </ab>
+            </div>
+            </div>
+            <div type="apparatus">
+                <div type="commentary" subtype="section" n="Upper" >
+                    <ab>“Two gold coins [aurei]” is followed by additional letters, presumably giving the start of the word ending in ματα, which is then followed by the conjunction καί and another word, of which there are probably additional traces now barely visible.</ab>
+                </div> 
+            <div type="translation">
+                <ab/>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+                <div type="commentary" subtype="section" n="Below" >
+                    <ab>Under the inscription a monogram and bird?</ab>
+                </div>
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 355-356.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

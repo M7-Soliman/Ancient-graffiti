@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T16.1.: Record of healing</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >T16.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t16-1</idno>
+                        <msName>Smyrna Agora Basilica T16.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 16 [= G22, between Piers A26 and A27]. At top, centered, 27 cm from the top of the wall, 35 cm from the left edge.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Area:
+                                            <dimensions>
+                                        <height unit="centimeter">37</height>
+                                        <width unit="centimeter">75</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Detached roughly made majuscule letters: <height unit="centimeter" min="4" max="6"
+                                    scope="letter">4-6</height> cm high</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">125/6 or 125/6 CE</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/><persName type="attested"><name nymRef="nametable.xml#Χαρίας" type="cognomen">Χαρίας</name></persName> <w lemma="ὁ">ὁ</w> <w lemma="καί">κα<supplied reason="lost">ὶ</supplied></w> <persName type="attested"><name nymRef="nametable.xml#Λούκιος" type="cognomen"><unclear>Λ</unclear>ου
+                    <lb n="2" break="no"/>κος</name></persName> <w lemma="εὔχομαι">εὐξάμενος</w>
+                    <lb n="3"/><w lemma="περί">περὶ</w> <w lemma="ὁ">τῶν</w> <w lemma="ὀφθαλμός">ὀφθ<unclear>αλ</unclear>μῶν</w>
+                    <lb n="4"/><w lemma="ὁ">τοὺς</w> <w lemma="λύχνος">λύχνους</w> <w lemma="ἀποδίδωμι">ἀπέδωκε</w>
+                    <lb n="5"/><w lemma="ἔτος">ἔτους</w> <num value="210">σι</num>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <ab>See the introduction, pp. 36–39, for discussion of this text.</ab>
+            </div> 
+            <div type="translation">
+                <ab>“Charias also called Louk(i?)os, having prayed concerning his eyes, dedicated the lamps. Year
+                    210.”</ab>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 200 and 36-39.</p>
+                <p>Bagnall, R., Everyday Writing in the Graeco-Roman East (2011): 22.</p>
+                <p>SEG 61.972.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

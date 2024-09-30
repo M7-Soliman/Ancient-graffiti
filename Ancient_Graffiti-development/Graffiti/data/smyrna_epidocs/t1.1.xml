@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T1.1.: Uncertain</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >T1.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t1-1</idno>
+                        <msName>Smyrna Agora Basilica T1.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>On the left pier’s (A11) beveled edge.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Charcoal</rs> Αn inscription 21.5 cm wide × 24 cm high. Below it, a drawing of a gladiator (D1.1).
+                                    <dimensions>
+                                        <height unit="centimeter">21.5</height>
+                                        <width unit="centimeter">24</width>                             
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Irregular, informal, detached letters 
+                                <height
+                                    unit="centimeter" min="2" max="2.5" scope="letter" 
+                                    >2-2.5</height> cm high.
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+                    <lb n="2"/><gap reason="illegible" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="illegible" quantity="3" unit="character"/>ΘΩΙ
+                    <lb n="4"/><gap reason="illegible" quantity="4" unit="character"/>ΕΙ
+                    <lb n="5"/><gap reason="illegible" quantity="2" unit="character"/>ΤΕ<unclear>Β</unclear>Η
+                    <lb n="6"/><gap reason="illegible" quantity="1" unit="character"/>Ε<unclear>Κ</unclear>ΙΣΟΝ
+                    <lb n="7"/><unclear>ΕΙ</unclear>ΠΟΝΑΝ
+                    <lb n="8"/><gap reason="illegible" quantity="2" unit="character"/>Ε<unclear>Ι</unclear>ΣΘΩ<gap reason="illegible" quantity="2" unit="character"/>
+                </ab>
+            </div> 
+            <div type="apparatus">
+                <p>4. Perhaps κατ-, yielding <w lemma="καταβαίνω">κ̣α̣τέβ̣η</w>. But the beta is too insecure to make this more than an attractive conjecture.<lb/>
+                5. ἐκῖ, read <w lemma="ἐκεῖ">ἐκεῖ</w>? It would fit with the conjecture for the previous line. There may not be anything before epsilon.<lb/>
+                    6. Perhaps <w lemma=" λέγω">εἶπον</w>; the first two letters seem squeezed in and are not certainly read.</p>
+            </div> 
+            <div type="translation">
+                <p/>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 75-76.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

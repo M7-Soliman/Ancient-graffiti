@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T42.1.: Uncertain</title>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item"
+                        >T42.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <repository>SMY</repository>
+                        <idno>smyrna-agora-basilica-t42-1</idno>
+                        <msName>Smyrna Agora Basilica T42.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Bay 42 [= G47, between Piers 53 and 54]. On the face of the pier at left (Pier A53). Incised. 159 cm from floor.</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><rs type="execution">Graffito/incised</rs> On the first layer of plaster.
+                                            <dimensions>
+                                        <height unit="centimeter"></height>
+                                        <width unit="centimeter"></width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote> Large letters <height unit="centimeter" min="1.8" max="3" scope="letter">1,8-3</height> cm high.  Large letters <height unit="centimeter" scope="letter">0,5</height> cm high.</handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote xml:lang="la"/>
+                            <decoNote xml:lang="en"/>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+            <div type="textpart" subtype="section" n="1" >
+                <ab>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>ος δικα<gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> ζοη <gap reason="lost" extent="unknown" unit="character"/>
+                </ab>
+            </div>
+            <div type="textpart" subtype="section" n="2" >
+                <ab>
+                    <lb n="1"/><w lemma="ἄγγελος">ἄγγελος</w> <w lemma="πυγίζω"><unclear>π</unclear>υγίζει</w> <w lemma="ἐγώ"><unclear>μ</unclear>έ</w>
+                </ab>
+            </div>
+            </div>
+            <div type="apparatus">
+                <div type="commentary" subtype="section" n="1" >
+                <ab>
+                    1. Cf. the occurrence of <w lemma="δικάζω">δικάζων</w> in TG3.1.
+                    2. Probably we should understand <w lemma="ζωή">ζωή</w> or the name <persName type="attested"><name nymRef="nametable.xml#Ζωή" type="cognomen">Zoe</name></persName>. See TP63.1 for another instance and cf. introduction, p. 47.
+                </ab>
+                </div> 
+            <div type="translation">
+                <ab>A messenger (or angel) is buggering me.”</ab>
+            </div>
+            <div type="commentary"> 
+                <p /> 
+            </div>   
+                <div type="commentary" subtype="section" n="2" >
+                  <ab>
+                    It is not clear what meaning we should attach to ἄγγελος. “Divine angels had an important place in the pagan world of the second and third centuries . . . Belief in angels as divine messengers had a long history in central Anatolia, and was certainly encouraged by Jewish practice” (S. Mitchell, Anatolia 2.46). But there is no context to tell us whether the term refers to a divine angel or not.
+               </ab>
+            </div>
+            </div>        
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 337-338.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
